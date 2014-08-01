@@ -1,0 +1,756 @@
+# Ellié Computing VOS
+# Copyright (C) 2005 Ellié Computing
+# This file is distributed under the same license as enclosing product
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ellie-vos 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-07 09:48+0200\n"
+"PO-Revision-Date: 2005-11-07 14:45+0100\n"
+"Last-Translator: Armel Asselin <armel.asselin@elliecomputing.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " Advanced Server "
+msgstr ""
+
+msgid " Datacenter Edition "
+msgstr ""
+
+msgid " Datacenter Server "
+msgstr ""
+
+msgid " Enterprise Edition "
+msgstr ""
+
+msgid " Home Edition "
+msgstr ""
+
+msgid " OSR2"
+msgstr ""
+
+msgid " Professional "
+msgstr ""
+
+msgid " SE"
+msgstr ""
+
+msgid " Server "
+msgstr ""
+
+msgid " Server 4.0 "
+msgstr ""
+
+msgid " Server 4.0, Enterprise Edition "
+msgstr ""
+
+msgid " Standard Edition "
+msgstr ""
+
+msgid " Web Edition "
+msgstr ""
+
+msgid " Workstation 4.0 "
+msgstr ""
+
+msgid ""
+"$0\n"
+"Error class: $1"
+msgstr ""
+
+msgid "2 weeks ago"
+msgstr ""
+
+msgid "3 weeks ago"
+msgstr ""
+
+msgid "A reference to another object prevents this action"
+msgstr ""
+
+msgid "Access rights prevents this action"
+msgstr ""
+
+msgid "Arabic"
+msgstr ""
+
+msgid "Arabic - ANSI"
+msgstr ""
+
+msgid "Armenian"
+msgstr ""
+
+msgid "Assamese - ISCII"
+msgstr ""
+
+msgid "Authentication failed"
+msgstr ""
+
+msgid "BIG5 - Microsoft"
+msgstr ""
+
+msgid "Baltic"
+msgstr ""
+
+msgid "Baltic - ANSI"
+msgstr ""
+
+msgid "Bengali - ISCII"
+msgstr ""
+
+msgid "CVOSIODesc does not have Length"
+msgstr ""
+
+msgid "CVOSIODesc does not have Seek"
+msgstr ""
+
+msgid "Central European - ANSI"
+msgstr ""
+
+msgid "Character not recognized in VosUnicode"
+msgstr ""
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Chinese BIG5"
+msgstr ""
+
+msgid "Chinese CCITT"
+msgstr ""
+
+msgid "Conflict detected"
+msgstr ""
+
+msgid "Could not commit"
+msgstr ""
+
+msgid "Could not determine item MIME type"
+msgstr ""
+
+msgid "Croatia"
+msgstr ""
+
+msgid "Current state of the object prevents user from doing that"
+msgstr ""
+
+msgid "Cyrillic"
+msgstr ""
+
+msgid "Cyrillic - ANSI"
+msgstr ""
+
+msgid "Day before yesterday"
+msgstr ""
+
+msgid "Devanagari - ISCII"
+msgstr ""
+
+msgid "Earlier this month"
+msgstr ""
+
+msgid "Earlier this week"
+msgstr ""
+
+msgid "Error during Report generation"
+msgstr ""
+
+msgid "Europa 3"
+msgstr ""
+
+msgid "Extended Alpha Lowercase"
+msgstr ""
+
+msgid ""
+"FTP listing line $0 not recognized:\n"
+"$1"
+msgstr ""
+
+msgid "Failed to compute comparison summary"
+msgstr ""
+
+msgid "Failed to compute detailed comparison"
+msgstr ""
+
+msgid "Failed to list the content of a folder"
+msgstr ""
+
+msgid "Failed to write output"
+msgstr ""
+
+msgid "File or folder already exists"
+msgstr ""
+
+msgid "File system item has wrong or unexpected type for operation"
+msgstr ""
+
+msgid "File system item not found"
+msgstr ""
+
+msgid "Function not implemented"
+msgstr ""
+
+msgid "Georgian"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "Greek - ANSI"
+msgstr ""
+
+msgid "Greek 1"
+msgstr ""
+
+msgid "Gujarati - ISCII"
+msgstr ""
+
+msgid "HP Roman 8"
+msgstr ""
+
+msgid "Hebrew"
+msgstr ""
+
+msgid "Hebrew - ANSI"
+msgstr ""
+
+msgid "Hongkong Chinese"
+msgstr ""
+
+msgid "IA5 German"
+msgstr ""
+
+msgid "IA5 International Alphabet n°5: IRV"
+msgstr ""
+
+msgid "IA5 Norwegian"
+msgstr ""
+
+msgid "IA5 Swedish"
+msgstr ""
+
+msgid "IBM- Arabic"
+msgstr ""
+
+msgid "IBM- BALTIC"
+msgstr ""
+
+msgid "IBM- Canadian French"
+msgstr ""
+
+msgid "IBM- Cyrillic (was Russian)"
+msgstr ""
+
+msgid "IBM- GREEK"
+msgstr ""
+
+msgid "IBM- Hebrew"
+msgstr ""
+
+msgid "IBM- Icelandic"
+msgstr ""
+
+msgid "IBM- Latin 2"
+msgstr ""
+
+msgid "IBM- Modern Greek"
+msgstr ""
+
+msgid "IBM- Multilingual Latin 1"
+msgstr ""
+
+msgid "IBM- Multilingual Latin 1+Euro"
+msgstr ""
+
+msgid "IBM- Nordic"
+msgstr ""
+
+msgid "IBM- Portuguese"
+msgstr ""
+
+msgid "IBM- Russian"
+msgstr ""
+
+msgid "IBM- Turkish"
+msgstr ""
+
+msgid "IBM- US"
+msgstr ""
+
+msgid "ISO 6937 Non-Spacing Accent"
+msgstr ""
+
+msgid "Icelandic"
+msgstr ""
+
+msgid ""
+"In JavaScript: $0\n"
+"$3"
+msgstr ""
+
+msgid "Incomplete path"
+msgstr ""
+
+msgid "Inconsistency found"
+msgstr ""
+
+msgid "Insufficient access rights"
+msgstr ""
+
+msgid "Invalid parameter"
+msgstr ""
+
+msgid "Item is not checked-out for given user/context: cannot operate"
+msgstr ""
+
+msgid "Item needs to be merged"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Japanese (Katakana) Extended"
+msgstr ""
+
+msgid "Japanese (Latin) Extended and Japanese"
+msgstr ""
+
+msgid "Japanese JIS X 0201-1989"
+msgstr ""
+
+msgid "Japanese JIS X 0208-1990 & 0121-1990"
+msgstr ""
+
+msgid "Japanese with halfwidth Katakana"
+msgstr ""
+
+msgid "Japanese with no halfwidth Katakana"
+msgstr ""
+
+msgid "Kannada - ISCII"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "Korean - Microsoft"
+msgstr ""
+
+msgid "Korean Extended and Korean"
+msgstr ""
+
+msgid "Laotian"
+msgstr ""
+
+msgid "Last month"
+msgstr ""
+
+msgid "Last week"
+msgstr ""
+
+msgid "Latin 1"
+msgstr ""
+
+msgid "Latin 1 - ANSI"
+msgstr ""
+
+msgid "Latin 10"
+msgstr ""
+
+msgid "Latin 2"
+msgstr ""
+
+msgid "Latin 2 - Central Europe"
+msgstr ""
+
+msgid "Latin 3"
+msgstr ""
+
+msgid "Latin 5"
+msgstr ""
+
+msgid "Latin 6"
+msgstr ""
+
+msgid "Latin 7 "
+msgstr ""
+
+msgid "Latin 8"
+msgstr ""
+
+msgid "Latin 9"
+msgstr ""
+
+msgid "Malayalam - ISCII"
+msgstr ""
+
+msgid "Microsoft Windows 2000"
+msgstr ""
+
+msgid "Microsoft Windows 95"
+msgstr ""
+
+msgid "Microsoft Windows 98"
+msgstr ""
+
+msgid "Microsoft Windows Millennium Edition"
+msgstr ""
+
+msgid "Microsoft Windows NT"
+msgstr ""
+
+msgid "Microsoft Windows Server 2003 family"
+msgstr ""
+
+msgid "Microsoft Windows Vista"
+msgstr ""
+
+msgid "Microsoft Windows XP"
+msgstr ""
+
+msgid "Missing Serial Number"
+msgstr ""
+
+msgid "Move of $0 to $1 failed because of system error ($2)."
+msgstr ""
+
+msgid "No message yet for this error code ($0)"
+msgstr ""
+
+msgid "Not Connected"
+msgstr ""
+
+msgid "Older"
+msgstr ""
+
+msgid "Operation canceled by the user"
+msgstr ""
+
+msgid "Operation did not work, but may if you retry"
+msgstr ""
+
+msgid "Oriya - ISCII"
+msgstr ""
+
+msgid "Punjabi - ISCII"
+msgstr ""
+
+msgid "Roman"
+msgstr ""
+
+msgid "Romania"
+msgstr ""
+
+msgid "Russian"
+msgstr ""
+
+msgid "Same identifier already used for another object"
+msgstr ""
+
+msgid "Serial Number Version verification failed"
+msgstr ""
+
+msgid "Serial Number period expired"
+msgstr ""
+
+msgid "Serial Number product verification failed"
+msgstr ""
+
+msgid "Serial Number verification failed"
+msgstr ""
+
+msgid "Sharing violation"
+msgstr ""
+
+msgid "Shift JIS - Microsoft"
+msgstr ""
+
+msgid "Shift JIS standard"
+msgstr ""
+
+msgid "Simplified Chinese"
+msgstr ""
+
+msgid "Simplified Chinese (GB 2312)"
+msgstr ""
+
+msgid "Simplified Chinese (Windows XP: 4 Byte)"
+msgstr ""
+
+msgid "Simplified Chinese - GB2312"
+msgstr ""
+
+msgid "Simplified Chinese Extended and Simplified Chinese"
+msgstr ""
+
+msgid ""
+"Source and destination of an operation are equal whereas it is not authorized"
+msgstr ""
+
+msgid ""
+"String conversion failed because no known mapping exists between the two "
+"encodings"
+msgstr ""
+
+msgid "String conversion failed because some character would be lost"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "System error ($0) for item $1"
+msgstr ""
+
+msgid "Taiwan - CNS"
+msgstr ""
+
+msgid "Taiwan - Eten"
+msgstr ""
+
+msgid "Taiwan - IBM5550"
+msgstr ""
+
+msgid "Taiwan - TCA"
+msgstr ""
+
+msgid "Taiwan - TeleText"
+msgstr ""
+
+msgid "Taiwan - Wang"
+msgstr ""
+
+msgid "Tajik"
+msgstr ""
+
+msgid "Tamil - ISCII"
+msgstr ""
+
+msgid "Teletext"
+msgstr ""
+
+msgid "Telugu - ISCII"
+msgstr ""
+
+msgid "Thai"
+msgstr ""
+
+msgid "Thai - Microsoft"
+msgstr ""
+
+msgid "The character code encountered is invalid in given encoding"
+msgstr ""
+
+msgid "The code point is truncated, its end is not in current buffer"
+msgstr ""
+
+msgid "The composition of two paths gave an invalid result"
+msgstr ""
+
+msgid "The connection with the server was lost"
+msgstr ""
+
+msgid "The conversion does not fit into target buffer"
+msgstr ""
+
+msgid "The data format was not recognized"
+msgstr ""
+
+msgid "The data used as the base of current work changed unexpectedly"
+msgstr ""
+
+msgid "The functionality is not supported"
+msgstr ""
+
+msgid "The network file system cannot be found"
+msgstr ""
+
+msgid "The text contains binary characters"
+msgstr ""
+
+msgid "The text does not conform to UTF encoding ($0) near binary position $1."
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Traditional Chinese"
+msgstr ""
+
+msgid "Traditional Chinese (Big5)"
+msgstr ""
+
+msgid "Transparent ASMO"
+msgstr ""
+
+msgid "Transparent arabic"
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Turkish - ANSI"
+msgstr ""
+
+msgid "Type of link differs on client and server"
+msgstr ""
+
+msgid "UCS2 (truncation of UCS4 code) Big endian"
+msgstr ""
+
+msgid "UCS2 (truncation of UCS4 code) Little endian"
+msgstr ""
+
+msgid "US/Canada and Japanese"
+msgstr ""
+
+msgid "US/Canada and Traditional Chinese"
+msgstr ""
+
+msgid "Ukraine"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr ""
+
+msgid "Unicode 16 bits, big endian"
+msgstr ""
+
+msgid "Unicode 16 bits, little endian"
+msgstr ""
+
+msgid "Unicode 32 bits, big endian"
+msgstr ""
+
+msgid "Unicode 32 bits, little endian"
+msgstr ""
+
+msgid "Unicode UCS-4 Big-Endian"
+msgstr ""
+
+msgid "Unicode UCS-4 Little-Endian"
+msgstr ""
+
+msgid "User acts on an object owned by another user"
+msgstr ""
+
+msgid ""
+"User need to confirm (or force) this action, some non-obvious information "
+"will be lost"
+msgstr ""
+
+msgid ""
+"User need to confirm this action, because he wants to act on an object he "
+"does not own"
+msgstr ""
+
+msgid ""
+"User need to confirm this action, because the action needs to remove a "
+"checkout entry before proceeding"
+msgstr ""
+
+msgid ""
+"User need to confirm this action, because the move operation has some non-"
+"obvious effects"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "Vietnamese - ANSI/OEM"
+msgstr ""
+
+msgid "VosFileSystem::set_file_attributes($0)"
+msgstr ""
+
+msgid "XML document badly formatted"
+msgstr ""
+
+msgid "XML node not found"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "ancestor"
+msgstr ""
+
+msgid "ancestor/left"
+msgstr ""
+
+msgid "ancestor/right"
+msgstr ""
+
+msgid "context, both sides"
+msgstr ""
+
+msgid "context, unified"
+msgstr ""
+
+msgid "could not parse regular expression, because of error: $0"
+msgstr ""
+
+msgid "could not parse regular expression, because of error: $0 at position $1"
+msgstr ""
+
+msgid "file size exceeds internal string limits"
+msgstr ""
+
+msgid ""
+"in CVOSTextFile::PutString, cannot convert string exactly to file output "
+"encoding"
+msgstr ""
+
+msgid "in VosByteStream"
+msgstr ""
+
+msgid "in VosByteStream::io_seek, IO descriptor not seek-able"
+msgstr ""
+
+msgid "in VosByteStreamIter::append"
+msgstr ""
+
+msgid "in VosFileSystem::get_logical_drives"
+msgstr ""
+
+msgid "in VosLCSDiff::make_choices"
+msgstr ""
+
+msgid ""
+"invalid $2 character found, at end of '$0', a dump was generated in folder $1"
+msgstr ""
+
+msgid "invalid colour code"
+msgstr ""
+
+msgid "left"
+msgstr ""
+
+msgid "left/right"
+msgstr ""
+
+msgid "malformed data, needs to read after end of buffer"
+msgstr ""
+
+msgid "no level of differentiation is activated, cannot compute difference"
+msgstr ""
+
+msgid "normal"
+msgstr ""
+
+msgid "result"
+msgstr ""
+
+msgid "right"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "while computing file digest"
+msgstr ""
+
+msgid "wrong encoding in VosTextStreamIter::get_line_delimiter_text"
+msgstr ""

@@ -1,0 +1,616 @@
+# Ellié Computing VOS
+# Copyright (C) 2005 Ellié Computing
+# This file is distributed under the same license as enclosing product
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ellie-filehisto 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-22 14:15+0100\n"
+"PO-Revision-Date: 2005-11-07 14:45+0100\n"
+"Last-Translator: Armel Asselin <armel.asselin@elliecomputing.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "$0 ($1) - without signature"
+msgstr ""
+
+msgid "$1 ($0)"
+msgstr ""
+
+msgid "&Add"
+msgstr ""
+
+msgid "&Close"
+msgstr ""
+
+msgid "&Connect"
+msgstr ""
+
+msgid "&Copy All"
+msgstr ""
+
+msgid "&Remove"
+msgstr ""
+
+msgid "&Show All"
+msgstr ""
+
+msgid "'$0' is invalid"
+msgstr ""
+
+msgid ""
+"A newer version exists for this platform but requires a newer OS or toolkit "
+"version"
+msgstr ""
+
+msgid "A&pply"
+msgstr ""
+
+msgid "Add new"
+msgstr ""
+
+msgid "Add new profile"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "All Files"
+msgstr ""
+
+msgid "Any number of path steps, at least one path separator"
+msgstr ""
+
+msgid "Any one character in the set"
+msgstr ""
+
+msgid "Any one character not in the set"
+msgstr ""
+
+msgid "Any single character"
+msgstr ""
+
+msgid "Any single character except a path separator"
+msgstr ""
+
+msgid "Any single path separator"
+msgstr ""
+
+msgid "Available since: $0"
+msgstr ""
+
+msgid "Backslash"
+msgstr ""
+
+msgid "Backspace"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "Beginning of line"
+msgstr ""
+
+msgid "Beginning of word"
+msgstr ""
+
+msgid "Blanks"
+msgstr ""
+
+msgid "C&ancel"
+msgstr ""
+
+msgid "CLISCC Plugin Auto-detection"
+msgstr ""
+
+msgid "Cannot delete this profile. It's the only available profile."
+msgstr ""
+
+msgid "Carriage return"
+msgstr ""
+
+msgid "Categories:"
+msgstr ""
+
+msgid "Checking for updates"
+msgstr ""
+
+msgid "Clear Al&l"
+msgstr ""
+
+msgid "Clipboard"
+msgstr ""
+
+msgid "Clipboard copy too large"
+msgstr ""
+
+msgid "Close _Without Saving"
+msgstr ""
+
+msgid "Commands:"
+msgstr ""
+
+msgid "Comment for $0"
+msgstr ""
+
+msgid "Comment for item $0:"
+msgstr ""
+
+msgid "Confirm deletion of selected mapping?"
+msgstr ""
+
+msgid "Connection log"
+msgstr ""
+
+msgid "Copy this message to the clipboard"
+msgstr ""
+
+msgid "Could not retrieve new version information because of following error:"
+msgstr ""
+
+msgid "Count"
+msgstr ""
+
+msgid "Current shortcuts:"
+msgstr ""
+
+msgid "Currently assigned to:"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Difference"
+msgstr ""
+
+msgid "Digit"
+msgstr ""
+
+msgid "Digit, letter or underscore"
+msgstr ""
+
+msgid "Do not ask again"
+msgstr ""
+
+msgid "Double quotation mark"
+msgstr ""
+
+msgid "Ellié Computing"
+msgstr "Ellié Computing"
+
+msgid "End of line"
+msgstr ""
+
+msgid "End of word"
+msgstr ""
+
+msgid "Error level"
+msgstr ""
+
+msgid ""
+"Error while launching the following command: $0. Please see below for "
+"details.\n"
+"$1"
+msgstr ""
+
+msgid "Escape special character"
+msgstr ""
+
+msgid "Executables (*.exe,*.bat,*.com)|*.exe;*.bat;*.com"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "FHFSCliSccRegExParser::load_parameters"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Firewall / Proxy"
+msgstr ""
+
+msgid "Form feed"
+msgstr ""
+
+msgid "Found text"
+msgstr ""
+
+msgid "Hexadecimal sequence (2 digits: dd)"
+msgstr ""
+
+msgid "Horizontal tab"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Input text"
+msgstr ""
+
+msgid ""
+"Input the name of the new profile.\n"
+"The new profile will be initially set to a copy of the last selected profile."
+msgstr ""
+
+msgid ""
+"It seems that this platform is not supported anymore, though there is a "
+"newer version."
+msgstr ""
+
+msgid "Keeping existing"
+msgstr ""
+
+msgid "Key profile:"
+msgstr ""
+
+msgid "Line terminator"
+msgstr ""
+
+msgid "Listing error"
+msgstr ""
+
+msgid "Mask similarities"
+msgstr ""
+
+msgid "Memory"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New line"
+msgstr ""
+
+msgid "New shortcut:"
+msgstr ""
+
+msgid "New version: $0 ($1)"
+msgstr ""
+
+msgid "No action available"
+msgstr ""
+
+msgid "No common action available"
+msgstr ""
+
+msgid "No default application can open $0 extension"
+msgstr ""
+
+msgid "No default application can open $0 file type"
+msgstr ""
+
+msgid "No new version"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not yet submitted"
+msgstr ""
+
+msgid "Octal sequence (3 digits: ooo)"
+msgstr ""
+
+msgid "One or more"
+msgstr ""
+
+msgid "Options Window"
+msgstr ""
+
+msgid "Or"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Please select a directory"
+msgstr ""
+
+msgid "Please wait for the server response or Cancel"
+msgstr ""
+
+msgid "Port value must be a numeric between 1 and 65535"
+msgstr ""
+
+#, c-format
+msgid "Previous message was repeated %d times, until %s"
+msgstr ""
+
+msgid "Proxy authentication"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove all"
+msgstr ""
+
+msgid "Repeat at least n times"
+msgstr ""
+
+msgid "Repeat n times"
+msgstr ""
+
+msgid "Repeat n to m times"
+msgstr ""
+
+msgid "SCC Tool"
+msgstr ""
+
+msgid "SCC tool info file with bad version number"
+msgstr ""
+
+msgid "SCC tool info file with not well-formed XML."
+msgstr ""
+
+msgid "S_kip"
+msgstr ""
+
+msgid "Secure Shell (SSH)"
+msgstr ""
+
+msgid "Select directory ($0)..."
+msgstr ""
+
+msgid "Select file ($0)..."
+msgstr ""
+
+msgid "Select file or directory ($0)..."
+msgstr ""
+
+msgid "Show &Warning and Errors"
+msgstr ""
+
+msgid "Single quotation mark"
+msgstr ""
+
+msgid "Source Code Control Source"
+msgstr ""
+
+msgid "Source Code Controls"
+msgstr ""
+
+msgid "Standard Error"
+msgstr ""
+
+msgid "Standard Input"
+msgstr ""
+
+msgid "Standard Output"
+msgstr ""
+
+msgid "Successfully submitted - Thank you"
+msgstr ""
+
+msgid "System default ($0)"
+msgstr ""
+
+msgid "Tagged expression"
+msgstr ""
+
+msgid "Tagged expression 1"
+msgstr ""
+
+msgid "Tagged expression 2"
+msgstr ""
+
+msgid "Tagged expression 3"
+msgstr ""
+
+msgid "Tagged expression 4"
+msgstr ""
+
+msgid "Tagged expression 5"
+msgstr ""
+
+#, c-format
+msgid ""
+"The %s proxy did not accept current login or password information, please "
+"enter new information below:"
+msgstr ""
+
+msgid ""
+"The given profile name is already in use.\n"
+"Enter another name."
+msgstr ""
+
+msgid "The item $0 is write protected, do you want to check it out?"
+msgstr ""
+
+#, c-format
+msgid ""
+"The previous profile (named \"%s\") has been modified.\n"
+"Do you want to save the changes to that profile ?"
+msgstr ""
+
+msgid "The server does not support this feature"
+msgstr ""
+
+msgid "There is no path yet for tool $0 in Preferences/Scc Tools panel."
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Unicode sequence (4 hex digits: dddd)"
+msgstr ""
+
+msgid "Validation conflict"
+msgstr ""
+
+msgid "Variant"
+msgstr ""
+
+msgid "Visual Source Safe"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Web / FTP"
+msgstr ""
+
+msgid "Web Source"
+msgstr ""
+
+msgid "Work in progress"
+msgstr ""
+
+msgid "Working..."
+msgstr ""
+
+msgid "Write operations not supported on this file system ($0)"
+msgstr ""
+
+msgid "You must select both local and target path for the SCC mapping."
+msgstr ""
+
+msgid "Zero or more"
+msgstr ""
+
+msgid "Zero or more of any character"
+msgstr ""
+
+msgid "Zero or more of any character except path separators"
+msgstr ""
+
+msgid "Zero or one"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Keep"
+msgstr ""
+
+msgid "_No"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Retry"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Stop"
+msgstr ""
+
+msgid "_Yes"
+msgstr ""
+
+msgid "a setting keyword may not be empty"
+msgstr ""
+
+msgid "cannot find selected text in tree list view"
+msgstr ""
+
+msgid "cannot set more than one of: date, label or revision in same context"
+msgstr ""
+
+msgid "copy_file: source not valid or heterogeneous"
+msgstr ""
+
+msgid "getting list of local files for $0"
+msgstr ""
+
+msgid "local"
+msgstr ""
+
+msgid "missing equal sign in $0"
+msgstr ""
+
+msgid "native"
+msgstr ""
+
+msgid "node with label: $0, was not found"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "tool inactive or no path defined"
+msgstr ""
+
+msgid "trying to overwrite a folder ($0) with file copy"
+msgstr ""
+
+msgid "unknown setting keyword $0"
+msgstr ""
+
+msgid "you forgot to set errormsg"
+msgstr ""
+
+msgid "you must select a value for '$0'"
+msgstr ""
+
+msgid "{'Cancel' button shortcut key}C"
+msgstr "C"
+
+msgid "{'Close _Without Saving' button shortcut key}D"
+msgstr "D"
+
+msgid "{'Keep' button shortcut key}K"
+msgstr "K"
+
+msgid "{'No' button shortcut key}N"
+msgstr "N"
+
+msgid "{'OK' button shortcut key}O"
+msgstr "O"
+
+msgid "{'Replace' button shortcut key}R"
+msgstr "R"
+
+msgid "{'Retry' button shortcut key}R"
+msgstr "R"
+
+msgid "{'Save' button shortcut key}S"
+msgstr "S"
+
+msgid "{'Skip' button shortcut key}K"
+msgstr "K"
+
+msgid "{'Stop' button shortcut key}S"
+msgstr "S"
+
+msgid "{'Yes' button shortcut key}Y"
+msgstr "Y"
+
+msgid "{BinaryEditor}Offset"
+msgstr "Offset"
+
+msgid "{Filesystem}Local"
+msgstr "Local"
+
+msgid "{Filesystem}SCC"
+msgstr "SCC"
+
+msgid "{Filesystem}Web"
+msgstr "Web"
+
+msgid "{Source Code Controls}Mappings"
+msgstr "Mappings"
+
+msgid "{proxy}Both server and port must be either empty or filled"
+msgstr "Both server and port must either empty or filled"
+
+#~ msgid "{'Discard' button shortcut key}D"
+#~ msgstr "D"
+
+#~ msgid "{Filesystem}FTP/HTTP"
+#~ msgstr "FTP/HTTP"

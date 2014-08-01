@@ -1,0 +1,6096 @@
+# Ellié Computing VOS
+# Copyright (C) 2005 Ellié Computing
+# This file is distributed under the same license as enclosing product
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ellie-filehisto 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-22 14:15+0100\n"
+"PO-Revision-Date: 2005-11-07 14:45+0100\n"
+"Last-Translator: Janusz Grzybek <janusz@grzybek.anet.pl>\n"
+"Language-Team: Janusz Grzybek <janusz@grzybek.anet.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " #"
+msgstr " #"
+
+msgid " (autodetected)"
+msgstr " (autodetekcja)"
+
+msgid " - "
+msgstr " - "
+
+msgid " - Diff, merge and edit tool"
+msgstr " - Diff, merge and edit tool"
+
+msgid " - Limited evaluation version"
+msgstr " - Ograniczona wersja próbna"
+
+msgid "#0 very large, searching only first #1 bytes"
+msgstr ""
+
+msgid "$0"
+msgstr ""
+
+msgid "$0 ($1)"
+msgstr ""
+
+msgid "$0 - defaults ($1)"
+msgstr "$0 - domyślne ($1)"
+
+msgid "$0 Conflict files"
+msgstr ""
+
+msgid "$0 documents were opened. Do you want to continue?"
+msgstr "Zostało otwartych $0 dokumentów. Czy chcesz kontynuować?"
+
+msgid ""
+"$0 failed to produce expected output, though it reports normal execution."
+msgstr ""
+
+msgid "$0 h $1 min $2 s  "
+msgstr "$0 godz. $1 min. $2 s.   "
+
+msgid "$1 day(s) remaining"
+msgstr ""
+
+msgid "$1, because the following error occured: $0"
+msgstr "$1, ponieważ wystąpił następujący błąd: $0"
+
+msgid "$1, because the following error occured: $0 ($2)"
+msgstr "$1, ponieważ wystąpił następujący błąd: $0 ($2)"
+
+#, c-format
+msgid "%ld %s (%ld to be listed)"
+msgstr "%ld %s (%ld to be listed)"
+
+#, c-format
+msgid "%ld files, %ld folders"
+msgstr "%ld plików, %ld folderów"
+
+#, c-format
+msgid "%ld items"
+msgstr "%ld pozycji"
+
+#, c-format
+msgid "%lu occurrences"
+msgstr ""
+
+#, c-format
+msgid "%s bytes"
+msgstr "%s bajtów"
+
+#, fuzzy, c-format
+msgid "%s files"
+msgstr "Pliki tekstowe"
+
+#, c-format
+msgid "%s necessary to write to %s but disabled. Skipping item"
+msgstr ""
+
+msgid "&1:1"
+msgstr "&1:1"
+
+msgid "&About Ellie Computing Merge"
+msgstr "&O Ellié Computing Merge"
+
+#, fuzzy
+msgid "&Actions"
+msgstr "&Program"
+
+msgid "&Activate"
+msgstr "U&aktywnij"
+
+msgid "&Application"
+msgstr "&Program"
+
+msgid "&Auto-detect"
+msgstr "&Auto-detekcja"
+
+msgid "&Auto-run unless Shift is pressed"
+msgstr ""
+
+msgid "&Bottom"
+msgstr "&Na dole"
+
+#, fuzzy
+msgid "&Browse..."
+msgstr "Przeglądaj"
+
+msgid "&Buy Now"
+msgstr "&Zakup"
+
+msgid "&CSV"
+msgstr ""
+
+msgid "&Center"
+msgstr "&Centralnie"
+
+msgid "&Channel per channel"
+msgstr "&Kanał na kanał"
+
+msgid "&Clear all Bookmarks"
+msgstr "&Wyczyść wszystkie zakładki"
+
+msgid "&Close"
+msgstr "&Zamknij"
+
+msgid "&Close Tab(s)"
+msgstr "&Zamknij karty"
+
+msgid "&Close all documents"
+msgstr "&Zamknij wszystkie dokumenty"
+
+msgid "&Close..."
+msgstr "&Zamknij..."
+
+msgid "&Compact XML..."
+msgstr "&Kompaktuj XML..."
+
+#, fuzzy
+msgid "&Comparison/Merge"
+msgstr "Błąd porównania"
+
+msgid "&Comparisons Statistics..."
+msgstr "&Statystyki porównania..."
+
+msgid "&Copy"
+msgstr "&Kopiuj"
+
+#, fuzzy
+msgid "&Customize"
+msgstr "Własny"
+
+msgid "&Dec"
+msgstr ""
+
+msgid "&Decimal"
+msgstr ""
+
+msgid "&Difference"
+msgstr "&Różnice"
+
+#, fuzzy
+msgid "&Document"
+msgstr "dokument"
+
+msgid "&Edit"
+msgstr "&Edycja"
+
+msgid "&Edit..."
+msgstr "&Edytuj..."
+
+msgid "&Ellié Computing on the Web"
+msgstr "&Ellié Computing w internecie"
+
+msgid "&Expand All"
+msgstr ""
+
+msgid "&Fill from Clipboard"
+msgstr "&Wstaw z schowka"
+
+msgid "&Find..."
+msgstr "&Znajdź..."
+
+msgid "&Getting Started..."
+msgstr "&rozpoczynamy..."
+
+#, fuzzy
+msgid "&Go To"
+msgstr "Przejdź"
+
+#, fuzzy
+msgid "&Go To Line..."
+msgstr "&Przejdź do..."
+
+#, fuzzy
+msgid "&Go to offset..."
+msgstr "&Przejdź do..."
+
+#, fuzzy
+msgid "&HTML"
+msgstr "HTML"
+
+msgid "&Help"
+msgstr "&Pomoc"
+
+msgid "&Help Topics..."
+msgstr "&tematy pomocy..."
+
+msgid "&Hexadecimal"
+msgstr ""
+
+msgid "&Import"
+msgstr "&Import"
+
+msgid "&Import from clipboard"
+msgstr "&Import z schowka"
+
+msgid "&Knowledge Base"
+msgstr "&Baza wiedzy"
+
+msgid "&Left"
+msgstr "Z &lewej"
+
+msgid "&Line number (1 - $0):"
+msgstr "&Numery wierszy (1 - $0):"
+
+msgid "&Macros"
+msgstr "&Makra"
+
+msgid "&Macros/Scripting help..."
+msgstr "Pomoc dla &makr/skryptów..."
+
+msgid "&Mark All"
+msgstr "&Wszystko"
+
+#, fuzzy
+msgid "&Mask similarities"
+msgstr "&Blank similar"
+
+msgid "&Middle"
+msgstr "&Middle"
+
+#, fuzzy
+msgid "&New Site..."
+msgstr "&Nowy..."
+
+msgid "&New Text File"
+msgstr "&Nowy plik tekstowy"
+
+msgid "&New..."
+msgstr "&Nowy..."
+
+msgid "&Next Bookmark"
+msgstr "&Następna zakładka"
+
+msgid "&Open file..."
+msgstr "&Otwórz plik..."
+
+msgid "&Open macro folder of"
+msgstr "&Otwórz folder makro"
+
+msgid "&Paste"
+msgstr "&Wklej"
+
+msgid "&Preferences..."
+msgstr "&Preferencje..."
+
+msgid "&Pretty-print XML..."
+msgstr "&Pretty-print XML..."
+
+msgid "&Previous Bookmark"
+msgstr "&Poprzednia zakładka"
+
+msgid "&Redo"
+msgstr "&Ponów"
+
+msgid "&Register..."
+msgstr "Za&rejestruj..."
+
+msgid "&Reload macro files"
+msgstr "&Przeładuj pliki makro"
+
+msgid "&Reopen with Encoding..."
+msgstr "&Otwórz ponownie z kodowaniem..."
+
+msgid "&Replace"
+msgstr "&Zastąp"
+
+msgid "&Replace >>"
+msgstr "&Zastąp >>"
+
+msgid "&Reset location"
+msgstr "&Rresetuj lokalizację"
+
+msgid "&Respect aspect ratio"
+msgstr "&Zachowuj proporcje"
+
+msgid "&Right"
+msgstr "&Z prawej"
+
+msgid "&Run"
+msgstr "&Uruchom"
+
+msgid "&Save log"
+msgstr "&Zapisz log"
+
+msgid "&Save result"
+msgstr "&Zapisz wyniki"
+
+#, fuzzy
+msgid "&Select as result location"
+msgstr "Wybierz lokalizacje wyniku"
+
+#, fuzzy
+msgid "&Show Files Types..."
+msgstr "To &File type..."
+
+#, fuzzy
+msgid "&Show Sites"
+msgstr "Pokaz ukryte pozycje"
+
+#, fuzzy
+msgid "&Side"
+msgstr "&Middle"
+
+msgid "&Single Sided"
+msgstr ""
+
+msgid "&Sites"
+msgstr ""
+
+msgid "&Submit"
+msgstr ""
+
+msgid "&Submit a problem..."
+msgstr ""
+
+msgid "&Tabs"
+msgstr "&Karty"
+
+msgid "&Tabs..."
+msgstr "&Karty..."
+
+msgid "&Technical Support"
+msgstr "Pomoc &techniczna"
+
+msgid "&Test"
+msgstr "&Test"
+
+#, fuzzy
+msgid "&Text"
+msgstr "Tekst"
+
+msgid "&Tip of the Day..."
+msgstr "&Porada dnia..."
+
+msgid "&Toggle Bookmark"
+msgstr "&Dodaj/usuń zakładkę"
+
+msgid "&Toolbars"
+msgstr "Paski &narzędzi"
+
+msgid "&Top"
+msgstr "U &góry"
+
+msgid "&Undo"
+msgstr "&Cofnij"
+
+msgid "&User"
+msgstr "&Użytkownik"
+
+msgid "&View"
+msgstr "&Widok"
+
+msgid "&Wrap"
+msgstr "&Zawijaj"
+
+msgid "&Write all results"
+msgstr "&Zapisz wszystkie wyniki"
+
+#, fuzzy
+msgid ""
+"'$0' was modified.\n"
+"Do you want to save it, close without saving or continue editing?"
+msgstr ""
+"'$0' został zmodyfikowany.\n"
+"Czy chcesz zapisać go, anulować zmiany lub kontynuować edycję?"
+
+msgid "(Passphrase is asked once per session and never saved)"
+msgstr ""
+
+msgid "(SSH client will use ssh-agent or pageant to get keys)"
+msgstr ""
+
+msgid "(YYYY-MM-DD[,hh:mm:ss])"
+msgstr "(YYYY-MM-DD[,hh:mm:ss])"
+
+msgid "(converters activation is always per options set)"
+msgstr "(aktywacja konwerterów jest zawsze związana z zestawem opcji)"
+
+msgid "(empty)"
+msgstr "(empty)"
+
+msgid "(file types activation is always per options set)"
+msgstr "(aktywacja typów plików jest zawsze związana z zestawem opcji)"
+
+msgid "(in minutes)"
+msgstr "(w minutach)"
+
+msgid "(no name)"
+msgstr "(bez nazwy)"
+
+msgid "(use 0 for default)"
+msgstr "(wprowadź 0 by użyć ustawień domyślnych)"
+
+msgid "*.*"
+msgstr "*.*"
+
+msgid "+"
+msgstr "+"
+
+msgid "-"
+msgstr "-"
+
+msgid "-x and -E are exclusive"
+msgstr "-x and -E are exclusive"
+
+msgid "1/3"
+msgstr ""
+
+msgid "100%"
+msgstr "100%"
+
+#, fuzzy
+msgid "2-way"
+msgstr "2-drożne łączenie"
+
+msgid "2-way merge"
+msgstr "2-drożne łączenie"
+
+msgid "2-way or 3-way?"
+msgstr ""
+
+msgid "2-way rules"
+msgstr "Reguły 2-drożne"
+
+msgid "2/3"
+msgstr ""
+
+msgid "200%"
+msgstr "200%"
+
+#, fuzzy
+msgid "3-way"
+msgstr "3-drożne łączenie"
+
+msgid "3-way merge"
+msgstr "3-drożne łączenie"
+
+msgid "3-way rules"
+msgstr "Reguły 3-drożne"
+
+msgid "3/3"
+msgstr ""
+
+msgid "50%"
+msgstr "50%"
+
+msgid "<put-name-here.ecms>"
+msgstr "<put-name-here.ecms>"
+
+#, fuzzy
+msgid ""
+"A new version of the software may be available. Do you want to check it now "
+"on Ellié Computing website?"
+msgstr ""
+"Może być dostępna nowsza wersja programu. Czy chcesz to sprawdzić na stronie "
+"Ellié Computing?"
+
+msgid ""
+"A session saves the state of a comparison with its URLs and options sets.\n"
+"It is automatically created when a comparison is closed. It is the "
+"equivalent of an ECMT file."
+msgstr ""
+"Sesja zapisuje stan porównania wraz URL i zestawami opcji.\n"
+"Jest ona tworzona automatycznie przy zamykaniu porównania. Jest to "
+"ekwiwalent pliku ECMT."
+
+msgid "About Ellie Computing Merge"
+msgstr "O Ellié Computing Merge"
+
+msgid "Access errors"
+msgstr "Błędy dostępu"
+
+msgid "Action type"
+msgstr "Typ działania"
+
+msgid "Actions log:"
+msgstr "Log działań:"
+
+msgid "Activate for:"
+msgstr "Activate for:"
+
+msgid "Activation conditions"
+msgstr "Warunki aktywacji"
+
+msgid ""
+"Activation of sharing will overwrite options with those of application, do "
+"you want to continue?\n"
+"(to save your data, use the import functionality from the matching "
+"application panel)"
+msgstr ""
+"Activation of sharing will overwrite options with those of application, do "
+"you want to continue?\n"
+"(to save your data, use the import functionality from the matching "
+"application panel)"
+
+msgid "Adds/Removes languages in this menu..."
+msgstr "Dodaje/usuwa języki z tego menu..."
+
+msgid "Advanced Text Comparisons"
+msgstr "Zaawansowane porównywanie"
+
+msgid "Alignment"
+msgstr "Wyrównanie"
+
+msgid "All Files"
+msgstr "Wszystkie pliki"
+
+msgid "All tags"
+msgstr "Wszystkie znaczniki"
+
+msgid "Allow comparisons of files content in background"
+msgstr "Zezwalaj na porównywanie zawartości plików w tle"
+
+msgid "Allow comparisons of files content in background at startup"
+msgstr "Zezwalaj na porównywanie zawartości plików w tle przy starcie"
+
+msgid "Allow conversions approximations"
+msgstr "Allow conversions approximations"
+
+msgid "Allow max line moves of"
+msgstr "Allow max line moves of"
+
+msgid "Allow partial patch application"
+msgstr "Allow partial patch application"
+
+msgid "Allow to reduce context by"
+msgstr "Zezwalaj na redukcję kontekstu przez"
+
+msgid "Allows comparisons of files content in background"
+msgstr "Zezwalaj na porównywanie zawartości plików w tle"
+
+msgid "Allows you to submit a problem to Ellié Computing technical staff"
+msgstr ""
+
+msgid "Always"
+msgstr "Zawsze"
+
+msgid "Always check files content"
+msgstr "Zawsze sprawdzaj zawartość pliku"
+
+msgid "Always consider files with different dates as different"
+msgstr "Zawsze uznawaj pliki o różnych datach jako różne"
+
+msgid "Always consider files with different sizes as different"
+msgstr "Zawsze uznawaj pliki o różnych rozmiarach jako różne"
+
+msgid "Always consider files with identical dates as equal"
+msgstr "Zawsze uznawaj pliki o identycznych datach jako równe"
+
+msgid ""
+"An ECMerge Status for Text Comparison saves the comparison and display "
+"options but also resolved conflicts and manual editions. Therefore, you can "
+"save a text file partially merged and reopen it later. ECMerge can also "
+"apply resolved conflicts and manual editions if the source files changed "
+"(not too much) since the .ecms document was saved."
+msgstr ""
+"An ECMerge Status for Text Comparison saves the comparison and display "
+"options but also resolved conflicts and manual editions. Therefore, you can "
+"save a text file partially merged and reopen it later. ECMerge can also "
+"apply resolved conflicts and manual editions if the source files changed "
+"(not too much) since the .ecms document was saved."
+
+msgid "Ancestor"
+msgstr "Ancestor"
+
+#, fuzzy
+msgid ""
+"Ancestor information was ignored because you are using Standard edition of "
+"ECMerge"
+msgstr ""
+"Plik został przycięty, ponieważ używasz wersji próbnej Ellié Computing Merge"
+
+#, fuzzy
+msgid "Ancestor version"
+msgstr "Kopiuj wersję ancestora do $0"
+
+msgid "Ancestor:"
+msgstr "Ancestor:"
+
+#, fuzzy
+msgid "Anonymous"
+msgstr "Logowanie anonimowe"
+
+msgid ""
+"Another document viewing the same files is already opened.\n"
+"Do you want to reuse it?"
+msgstr ""
+"Another document viewing the same files is already opened.\n"
+"Do you want to reuse it?"
+
+msgid "Answers 'no' to specified settings (comma separated list)"
+msgstr "Answers 'no' to specified settings (comma separated list)"
+
+msgid "Answers 'yes' to specified settings (comma separated list)"
+msgstr "Answers 'yes' to specified settings (comma separated list)"
+
+msgid "Any document type"
+msgstr "Dowolny typ dokumentu"
+
+msgid "Application"
+msgstr "Program"
+
+msgid "Application settings file to use instead of default location"
+msgstr "Application settings file to use instead of default location"
+
+msgid "Application:"
+msgstr "Program:"
+
+msgid "Apply merge rules..."
+msgstr "Zastosuj reguły łączenia..."
+
+msgid "Arguments:"
+msgstr "Argumenty:"
+
+msgid "Around differences"
+msgstr "Around differences"
+
+msgid "Arrange panels horizontally/vertically"
+msgstr "Rozmieść panele pionowo lub poziomo"
+
+msgid "Arrow"
+msgstr "Strzałka"
+
+msgid "Ask before"
+msgstr "Zapytaj przedtem"
+
+msgid "Asynchronous (hidden)"
+msgstr "Asynchronicznie (ukryte)"
+
+msgid "Attributes:"
+msgstr "Atrybuty:"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Auto-merge success"
+msgstr "Auto-merge success"
+
+#, fuzzy
+msgid "Automatic"
+msgstr "Auto"
+
+msgid "Automatic reconnection after"
+msgstr "Połącz ponownie po"
+
+msgid ""
+"Automatically check for updates at ECMerge start-up. The displayed page will "
+"list previous ECMerge versions along with a list of new features and bug "
+"fixes."
+msgstr ""
+"Automatycznie sprawdzaj aktualizacje przy starcie ECMerge. Wyświetlana lista "
+"będzie zawierać poprzednie wersje ECMerge z informacjami o nowych funkcjach "
+"i poprawkach."
+
+msgid "Automatically compare files content when unsure"
+msgstr "Automatically compare files content when unsure"
+
+msgid "Background..."
+msgstr "Tło..."
+
+msgid "Bare &XML"
+msgstr ""
+
+msgid "Base URL:"
+msgstr ""
+
+msgid "Base file should use this as the preferred encoding"
+msgstr ""
+
+msgid "Base file should use this title"
+msgstr ""
+
+msgid "Because of following error: $0"
+msgstr ""
+
+msgid "Bidirectional consolidation"
+msgstr ""
+
+msgid "Bidon..."
+msgstr "Bidon..."
+
+msgid "Binary Comparisons"
+msgstr "Porównania binarne"
+
+msgid "Binary Document"
+msgstr "Dokument binarny"
+
+#, c-format
+msgid "Binary copy from %s to %s"
+msgstr "Binary copy from %s to %s"
+
+#, fuzzy
+msgid "Binary document"
+msgstr "Dokument binarny"
+
+msgid ""
+"Binary documents can compare any files especially those that cannot be "
+"converted\n"
+"into text or image."
+msgstr ""
+
+msgid "Binary equality test"
+msgstr ""
+
+msgid "Binary file field"
+msgstr ""
+
+msgid "Blanking"
+msgstr "Blanking"
+
+msgid "Blocks of interest:"
+msgstr "Blocks of interest:"
+
+msgid "Boo&kmarks"
+msgstr "&Zakładki"
+
+msgid "Bookmark"
+msgstr "Zakładka"
+
+msgid "Bookmarks"
+msgstr "Zakładki"
+
+msgid "Both"
+msgstr "Obydwa"
+
+msgid "Bottom"
+msgstr "Do dołu"
+
+msgid "Branch:"
+msgstr "Gałąź:"
+
+msgid "Browse"
+msgstr "Przeglądaj"
+
+msgid "Browse in external explorer"
+msgstr "Przeglądaj w zewnętrznym eksploratorze"
+
+msgid "Browser"
+msgstr "Przeglądarka"
+
+msgid "Buy now"
+msgstr "Zakup"
+
+msgid "C&ollapse All"
+msgstr ""
+
+msgid "CSS"
+msgstr "CSS"
+
+#, fuzzy
+msgid "CSS Stylesheet"
+msgstr "Własny arkusz stylów"
+
+msgid "CSS to use when generating HTML reports:"
+msgstr "CSS używany do generowania raportów HTML:"
+
+msgid "Cannot copy from and to the same panel"
+msgstr "Cannot copy from and to the same panel"
+
+msgid "Cannot export in given format based on current source files"
+msgstr "Nie można wykonać eksportu w formacie opartym na plikach źródłowych"
+
+msgid "Cannot find help file $0."
+msgstr "Nie można znaleźć pliku pomocy $0."
+
+msgid "Cannot generate a patch from a single data source"
+msgstr "Cannot generate a patch from a single data source"
+
+msgid "Cannot handle non-local path $0"
+msgstr ""
+
+msgid ""
+"Cannot load document because your serial number for Standard edition does "
+"not allow documents with ancestor."
+msgstr ""
+"Nie można otworzyć dokumentu, ponieważ twój numer seryjny dla edycji "
+"Standard nie zezwala na otwieranie dokumentów z ancestorem."
+
+msgid "Change count"
+msgstr "Liczba zmian"
+
+msgid "Change images alignment"
+msgstr ""
+
+msgid "Changed"
+msgstr "Zmieniony"
+
+msgid "Changes count"
+msgstr "Liczba zmian"
+
+msgid "Changes the application preferences"
+msgstr "Zmienia preferencje programu"
+
+msgid "Changes the view and comparison options"
+msgstr "Zmiana opcji widoku i porównanń"
+
+msgid "Changing access rights"
+msgstr "Zmiana praw dostępu"
+
+msgid "Channel per channel"
+msgstr "Kanał na kanał"
+
+msgid "Character encoding used to create files:"
+msgstr "Kodowanie znaków używane przy tworzeniu plików:"
+
+#, fuzzy
+msgid "Check (place holder)"
+msgstr "Check exit code"
+
+msgid "Check date and size"
+msgstr "Sprawdź datę i rozmiar"
+
+msgid "Check exit code"
+msgstr "Check exit code"
+
+msgid "Check files content if date or size are different"
+msgstr "Sprawdź zawartość plików, jeżeli data i rozmiar są różne"
+
+msgid "Check for &Updates"
+msgstr "Sprawdź &aktualizacje"
+
+msgid "Check for Updates"
+msgstr "Sprawdź aktualizacje"
+
+#, fuzzy
+msgid "Check for software updates in background"
+msgstr "Sprawdzaj okresowo aktualizacje programu"
+
+msgid "Check for software updates periodically"
+msgstr "Sprawdzaj okresowo aktualizacje programu"
+
+msgid "Check the columns to be displayed:"
+msgstr "Wybierz wyświetlane kolumny:"
+
+msgid "Check the locations where to write result:"
+msgstr "Wybierz lokalizację zapisu wyników:"
+
+msgid "Check the shells for which to enable the extension:"
+msgstr ""
+
+msgid "Checkout"
+msgstr "Checkout"
+
+msgid "Checks the Ellie Computing web site for product updates"
+msgstr "Sprawdza aktualizacje produktu na stronie Ellié Computing"
+
+msgid "Checksums:"
+msgstr "Sumy kontrolne:"
+
+msgid "ChoiceItem"
+msgstr "ChoiceItem"
+
+msgid "Choose \"2-way\" when you only have 2 items to compare."
+msgstr ""
+
+msgid ""
+"Choose \"3-way\" when you know/have access to a common ancestor, i.e., an "
+"older\n"
+"version from which left and right versions are derived. It can be file or "
+"folder chosen by you \n"
+"or a SCC item (using date/label detail or automatically provided by your "
+"SCC), or a ZIP\n"
+"snapshot of a folder tree."
+msgstr ""
+
+msgid ""
+"Choose \"Diff\" when you wish to compare files/folders without\n"
+"editing any source."
+msgstr ""
+
+msgid ""
+"Choose \"Merge\" when you wish to combine files/folders content\n"
+"into one or several target locations."
+msgstr ""
+
+msgid "Choose Character Encoding"
+msgstr "Wybierz kodowanie znaków"
+
+msgid "Choose a file type:"
+msgstr "Wybierz typ pliku:"
+
+msgid "Choose the default result of the merge in typical situations:"
+msgstr "Wybierz domyślny wynik łączenia dla typowych sytuacji:"
+
+msgid "Choose the rules to apply:"
+msgstr "Wybierz reguły do użycia:"
+
+msgid "Choose which to keep"
+msgstr "Choose which to keep"
+
+msgid "Circle"
+msgstr "Okrąg"
+
+msgid "Clear all Bookmarks"
+msgstr "Wyczyść wszystkie zakładki"
+
+msgid "Clears all bookmarks in the current document"
+msgstr "Wyczyść wszystkie zakładki w bieżącym dokumencie"
+
+msgid "Clipboard"
+msgstr "Schowek"
+
+msgid "Close"
+msgstr "Zamknij"
+
+msgid "Closes all opened documents"
+msgstr "Zamyka wszystkie otwarte dokumenty"
+
+msgid "Closes the current document"
+msgstr "Zamyka bieżący dokument"
+
+msgid "Closes the current tab"
+msgstr "Zamyka bieżącą kartę"
+
+#, c-format
+msgid "Col %d"
+msgstr "Kol. %d"
+
+msgid "Colour..."
+msgstr "Kolor..."
+
+msgid "Coloured stylesheet"
+msgstr "Kolorowy arkusz stylów"
+
+msgid "Colours"
+msgstr "Kolory"
+
+msgid "Columns"
+msgstr "Kolumny"
+
+msgid "ComboItem"
+msgstr "ComboItem"
+
+msgid ""
+"Comma separated list of additional flags for ancestor from: read_only, "
+"no_mru, output"
+msgstr ""
+
+msgid ""
+"Comma separated list of additional flags for left from: read_only, no_mru, "
+"output"
+msgstr ""
+
+msgid "Comma separated list of additional flags for result from: no_mru"
+msgstr ""
+
+msgid ""
+"Comma separated list of additional flags for right from: read_only, no_mru, "
+"output"
+msgstr ""
+
+msgid "Commands"
+msgstr "Polecenia"
+
+msgid "Comment"
+msgstr "Komentarz"
+
+msgid "Comment:"
+msgstr "Komentarz:"
+
+msgid "Compact XML..."
+msgstr "Kompaktuj XML..."
+
+msgid "Compact at save time:"
+msgstr ""
+
+msgid "Compare To $0"
+msgstr ""
+
+msgid "Compare Together"
+msgstr "Porównaj razem"
+
+msgid "Compare again"
+msgstr "Porównaj ponownie"
+
+#, fuzzy
+msgid "Compare all sub-folders"
+msgstr "Skanuj podfoldery"
+
+msgid "Compare file contents if date/size did not determine its status"
+msgstr ""
+"Porównaj zawartość pliku, jeżeli data/rozmiar nie determinują jego statusu"
+
+msgid "Compare files and folders names case-sensitively"
+msgstr "Porównywanie nazw plików i folderów z uwzględnieniem wielkości liter"
+
+#, fuzzy
+msgid "Compare files content when metadata are not enough"
+msgstr ""
+"Porównaj zawartość pliku, jeżeli data/rozmiar nie determinują jego statusu"
+
+msgid "Compare with $0 as Ancestor"
+msgstr "Porównaj z $0 jako ancestorem"
+
+msgid "Comparison Statistics"
+msgstr "Statystyki porównania"
+
+msgid "Comparison Type"
+msgstr "Typ porównania"
+
+msgid "Comparison error"
+msgstr "Błąd porównania"
+
+msgid "Comparison errors"
+msgstr "Błędy porównania"
+
+msgid "Comparison not computed"
+msgstr "Comparison not computed"
+
+msgid "Comparison result"
+msgstr "Wynik porównania"
+
+msgid "Comparison type (hidden)"
+msgstr "Typ porównania (ukryty)"
+
+msgid "Comparison type:"
+msgstr "Typ porównania:"
+
+#, fuzzy
+msgid "Comparison wizard"
+msgstr "Błąd porównania"
+
+msgid "Comparisons Statistics..."
+msgstr "Statystyki porównań..."
+
+msgid "Compensate file system precision loss"
+msgstr "Compensate file system precision loss"
+
+msgid "Completely unloads then refreshes the current comparison"
+msgstr "Completely unloads then refreshes the current comparison"
+
+msgid "Compress"
+msgstr "Kompresuj"
+
+msgid "Compress blocks of"
+msgstr "Compress blocks of"
+
+msgid "Computing filename for next filters"
+msgstr "Computing filename for next filters"
+
+msgid "Configure..."
+msgstr "Konfiguruj..."
+
+msgid "Confirm deletion of selected converter?"
+msgstr "Czy usunąć wybrany konwerter?"
+
+#, fuzzy
+msgid "Confirm deletion of selected field?"
+msgstr "Czy usunąć wybrany typ plików?"
+
+msgid "Confirm deletion of selected file type?"
+msgstr "Czy usunąć wybrany typ plików?"
+
+msgid "Confirm the removal of the options set?"
+msgstr "Czy usunąć zestaw opcji?"
+
+#, fuzzy
+msgid ""
+"Conflict\n"
+"original line: $0, near actual line: $1\n"
+msgstr ""
+"Conflict\n"
+"original line: $0, near actual line: $1\n"
+
+msgid "Conflicting files"
+msgstr "Pliki z konfliktami"
+
+msgid "Conflicts"
+msgstr "Konflikty"
+
+msgid ""
+"Consider files with identical dates and matching size criterion as equal"
+msgstr ""
+"Uznaj pliki o identycznych datach i zgodnych z kryterium rozmiaru jako równe"
+
+msgid "Consider pixels as equal if difference is less than"
+msgstr ""
+
+msgid "Consider pixels as totally different if difference is greater than"
+msgstr ""
+
+msgid "Console:"
+msgstr "Konsola:"
+
+msgid "Content comparisons"
+msgstr "Porównanie zawartości"
+
+msgid "Content:"
+msgstr "Zawartość:"
+
+msgid "Context diff with 3 lines of context"
+msgstr "Context diff with 3 lines of context"
+
+msgid "Context diff, with specified number of context lines"
+msgstr "Context diff, with specified number of context lines"
+
+msgid "Context length:"
+msgstr "Długość kontekstu:"
+
+msgid "Context outside of blocks of interest:"
+msgstr "Context outside of blocks of interest:"
+
+msgid "Continue"
+msgstr "Kontynuuj"
+
+msgid "Converter"
+msgstr "Konwertor"
+
+msgid "Converters"
+msgstr "Konwertory"
+
+msgid ""
+"Converters auto-detection function object '$0' is not an ECMAScript function"
+msgstr ""
+
+msgid "Copies the selection and puts it on the Clipboard"
+msgstr "Kopiuje zaznaczenie i umieszcza je w Schowku"
+
+msgid "Copy"
+msgstr "Kopiuj"
+
+#, fuzzy
+msgid "Copy $0"
+msgstr "Kopiuj"
+
+msgid "Copy ancestor version to $0"
+msgstr "Kopiuj wersję ancestora do $0"
+
+msgid "Copy command line to clipboard"
+msgstr "Kopiuj wiersz polecenia do schowka"
+
+#, c-format
+msgid "Copy from %s to %s"
+msgstr "Kopiuj z %s do %s"
+
+msgid "Copy initial values from:"
+msgstr "kopiuj wartości inicjacyjne z:"
+
+msgid "Copy left version to $0"
+msgstr "Kopiuj lewą wersję do $0"
+
+msgid "Copy right version to $0"
+msgstr "Kopiuj prawą wersję do $0"
+
+#, fuzzy
+msgid "Copy to ancestor"
+msgstr "zachowaj ancestor"
+
+#, fuzzy
+msgid "Copy to left"
+msgstr "Kopiuj do..."
+
+#, fuzzy
+msgid "Copy to result"
+msgstr "Wynik porównania"
+
+#, fuzzy
+msgid "Copy to right"
+msgstr "Dopasuj do wysokości"
+
+msgid "Copy to..."
+msgstr "Kopiuj do..."
+
+msgid "Copy..."
+msgstr "Kopiuj..."
+
+msgid "Copyright © $0 - 2005-$1"
+msgstr ""
+
+msgid ""
+"Could not backup item $0 before saving because of error $1. Do you want to "
+"continue to save this item or skip it?"
+msgstr ""
+"Nie można wykonać kopii zapasowej pozycji $0 przed jej zapisem, ponieważ "
+"wystąpił błąd $1. Czy chcesz zapisać pozycję lub pominąć ją?"
+
+msgid ""
+"Could not backup item $0 before saving because of error $1. Do you want to "
+"continue to save?"
+msgstr ""
+"Nie można wykonać kopii zapasowej pozycji $0 przed jej zapisem, ponieważ "
+"wystąpił błąd $1. Czy chcesz zapisać pozycję?"
+
+msgid "Could not compare documents"
+msgstr "Nie można porównać dokumenty"
+
+msgid "Could not execute command: $0"
+msgstr "Nie można wykonać polecenia: $0"
+
+#, fuzzy, c-format
+msgid "Could not execute macro %s"
+msgstr "Nie można wykonać polecenia: %s"
+
+msgid ""
+"Could not find an item matching the constraint. Do you want to search from "
+"the end of the document?"
+msgstr ""
+"Nie można znaleźć pozycji zgodnej z warunkiem. Czy chcesz rozpocząć "
+"wyszukiwanie od końca dokumentu?"
+
+msgid ""
+"Could not find an item matching the constraint. Do you want to search from "
+"the start of the document?"
+msgstr ""
+"Nie można znaleźć pozycji zgodnej z warunkiem. Czy chcesz rozpocząć "
+"wyszukiwanie od początku dokumentu?"
+
+msgid "Could not find or launch a default browser"
+msgstr "Nie można znaleźć lub uruchomić domyślnej przeglądarki"
+
+#, c-format
+msgid ""
+"Could not load/import the document because of the following error:\n"
+"%s"
+msgstr ""
+"Nie można otworzyć/zaimportować dokumentu, ponieważ wystąpił następujący "
+"błąd:\n"
+"%s"
+
+msgid "Could not open $0"
+msgstr "Nie można otworzyć $0"
+
+msgid "Could not open document"
+msgstr "Nie można otworzyć dokumentu"
+
+msgid "Could not remove backup files"
+msgstr "Nie można usunąć plików kopii zapasowej"
+
+#, c-format
+msgid ""
+"Could not save the document because of the following error:\n"
+"%s"
+msgstr ""
+"Nie można zapisać dokumentu, ponieważ wystąpił następujący błąd:\n"
+"%s"
+
+msgid "Create a new options set"
+msgstr "Utwórz nowy zestaw opcji"
+
+#, c-format
+msgid "Creating folder %s"
+msgstr "Tworzenie folder %s"
+
+msgid "Cu&t"
+msgstr "Wy&tnij"
+
+msgid "Current document"
+msgstr "Bieżący dokument"
+
+msgid "Currently edited option set:"
+msgstr "Bieżąco edytowany zestaw opcji:"
+
+#, fuzzy
+msgid "Currently running the full Demo version"
+msgstr "Bieżąco uruchomiona jest ograniczona wersja demo."
+
+msgid "Currently selected option set:"
+msgstr "Bieżąco wybrany zestaw opcji:"
+
+msgid "Custom"
+msgstr "Własny"
+
+msgid "Custom stylesheet"
+msgstr "Własny arkusz stylów"
+
+msgid "Custom stylesheet URL:"
+msgstr "URL własnego arkusz stylów:"
+
+msgid "Cut"
+msgstr "Wytnij"
+
+msgid "Cuts the selection and puts it on the Clipboard"
+msgstr "Wytnij wybór i umieść w schowku"
+
+msgid "Data Sources Options"
+msgstr "Opcje źródła danych"
+
+msgid "Database:"
+msgstr "Baza danych:"
+
+#, fuzzy
+msgid "Date filters options page"
+msgstr "Usuwa przeglądany zestaw opcji"
+
+msgid "Date selection"
+msgstr "Wybór daty"
+
+msgid "Date/Time:"
+msgstr "Data/godzina:"
+
+msgid "Default File Type Options"
+msgstr "Opcje domyślnych typów plików"
+
+msgid "Default document type opened on startup:"
+msgstr "Domyślny typ dokumentu otwierany przy starcie:"
+
+msgid "Default file types:"
+msgstr "Domyślne typy plików:"
+
+#, fuzzy
+msgid "Default private key:"
+msgstr "Domyślne typy plików:"
+
+msgid "Default view opened on startup:"
+msgstr "Domyślny widok otwierany przy starcie:"
+
+msgid "Delete"
+msgstr "Usuń"
+
+msgid "Delete $0 version"
+msgstr ""
+
+msgid "Delete or keep ancestor"
+msgstr "Usuń lub zachowaj ancestora"
+
+msgid "Delete or keep left"
+msgstr "Usuń lub zachowaj lewy"
+
+msgid "Delete or keep right"
+msgstr "Usuń lub zachowaj prawy"
+
+msgid "Deleted"
+msgstr "Usunięty"
+
+msgid "Deletes viewed options set"
+msgstr "Usuwa przeglądany zestaw opcji"
+
+msgid "Deleting..."
+msgstr "Usuwanie..."
+
+#, fuzzy
+msgid "Deletion"
+msgstr "usuwanie"
+
+msgid "Demo version valid until $0"
+msgstr "Wersja Demo ważna do $0"
+
+msgid "Demonstration version"
+msgstr "Wersja demonstracyjna"
+
+msgid "Destination path for logs (in addition to standard error or log window)"
+msgstr ""
+"Destination path for logs (in addition to standard error or log window)"
+
+msgid "Destination path for the export"
+msgstr "Docelowa ścieżka eksportu"
+
+msgid "Destination path of the current action"
+msgstr "Docelowa ścieżka bieżącego działania"
+
+msgid "Diff"
+msgstr "Diff"
+
+#, fuzzy
+msgid "Diff &g; :"
+msgstr "Diff > :"
+
+msgid "Diff Content"
+msgstr "Diff Content"
+
+#, fuzzy
+msgid "Diff or Merge?"
+msgstr "Diff/Merge"
+
+#, c-format
+msgid "Diff with %s"
+msgstr "Diff with %s"
+
+msgid "Difference:"
+msgstr "Różnice:"
+
+msgid "Differences"
+msgstr "Różnice"
+
+msgid "Different"
+msgstr "Różni się"
+
+msgid "Different dates mean different files"
+msgstr "Różne daty oznaczają różne pliki"
+
+msgid "Different file dates mean different files"
+msgstr "Różne daty plików oznaczają różne pliki"
+
+msgid "Different file sizes mean different files"
+msgstr "Różne rozmiary plików oznaczają różne pliki"
+
+msgid "Different files (no conflict detected when auto-merging)"
+msgstr "Różne pliki (bez wykrytych konfliktów przy automatycznym łączeniu)"
+
+msgid "Disable"
+msgstr "Wyłącz"
+
+msgid "Disable syntax colouring"
+msgstr "Wyłącz kolory składni"
+
+#, fuzzy
+msgid "Disabled"
+msgstr "Wyłącz"
+
+msgid "Display"
+msgstr "Ekran"
+
+#, fuzzy
+msgid "Display &offsets"
+msgstr "Wyświetlaj niewidoczne znaki"
+
+msgid "Display &text column"
+msgstr ""
+
+msgid "Display PSNR and MSE"
+msgstr "Wyświetlaj PSNR i MSE"
+
+msgid "Display ancestor when specified"
+msgstr "Wyświetlaj ancestora gdy jest on określony"
+
+msgid "Display legend in HTML reports"
+msgstr "Wyświetlaj legendę w raportach HTML"
+
+msgid "Display line endings"
+msgstr "Wyświetlaj końce wierszy"
+
+msgid "Display line numbers"
+msgstr "Wyświetlaj numerację wierszy"
+
+msgid "Display margin"
+msgstr "Wyświetlaj marginesy"
+
+#, fuzzy
+msgid "Display passphrase"
+msgstr "Wyświetlaj niewidoczne znaki"
+
+msgid "Display usage info"
+msgstr "Display usage info"
+
+msgid "Display version info"
+msgstr "Wyświetlaj info wersji"
+
+msgid "Display white spaces"
+msgstr "Wyświetlaj niewidoczne znaki"
+
+msgid ""
+"Displays a list of all open tabs and provides commands that can be applied "
+"to the selected tabs"
+msgstr ""
+"Wyświetla listę wszystkich otwartych kart i poleceń, które mogą być używane "
+"w wybranych kartach"
+
+msgid "Displays all the toolbars"
+msgstr "Wyświetla wszystkie paski narzędzi"
+
+msgid "Displays available languages"
+msgstr "Wyświetla dostępne języki"
+
+msgid "Do not &check automatically for software updates in the future"
+msgstr ""
+
+msgid "Do not format these tags:"
+msgstr "Nie formatuj tych znaczników:"
+
+msgid "Do not save application settings file when closing the application."
+msgstr "Nie zapisuj ustawień aplikacji przy zamykaniu aplikacji."
+
+#, fuzzy
+msgid "Do not show this page again"
+msgstr "Nie formatuj tych znaczników:"
+
+msgid "Do not use proxy"
+msgstr "Nie używaj proxy"
+
+msgid "Do not use proxy for servers matching these patterns:"
+msgstr "Nie używaj proxy dla serwerów zgodnych z tymi schematami:"
+
+msgid ""
+"Do you really want to remove file $0 which is write protected, its content "
+"will be lost?"
+msgstr ""
+"Czy na pewno chcesz usunąć chroniony przed zapisem plik $0, jego zawartość "
+"zostanie utracona?"
+
+msgid ""
+"Do you really want to remove file $0 which is write protected, its content "
+"will be lost? or do you want to skip it?"
+msgstr ""
+"Czy na pewno chcesz usunąć chroniony przed zapisem plik $0, jego zawartość "
+"zostanie utracona lub pominąć to?"
+
+msgid "Do you really want to remove file $0, its content will be lost?"
+msgstr "Czy na pewno chcesz usunąć plik $0, jego zawartość zostanie utracona?"
+
+msgid ""
+"Do you really want to remove file $0, its content will be lost? or do you "
+"want to skip it?"
+msgstr ""
+"Czy na pewno chcesz usunąć plik $0, jego zawartość zostanie utracona lub "
+"pominąć to?"
+
+msgid ""
+"Do you really want to remove folder $0, all the contained files and folders "
+"will be lost?"
+msgstr ""
+"Czy na pewno chcesz usunąć folder $0, wszystkie zawarte w nim pliki i "
+"podfoldery zostaną utracone?"
+
+msgid ""
+"Do you really want to remove folder $0, all the contained files and folders "
+"will be lost? or do you want to skip it?"
+msgstr ""
+"Czy na pewno chcesz usunąć folder $0, wszystkie zawarte w nim pliki i "
+"podfoldery zostaną utracone lub pominąć to?"
+
+msgid "Do you really want to remove folder $0?"
+msgstr "Czy na pewno chcesz usunąć folder $0?"
+
+msgid "Do you really want to remove folder $0? or do you want to skip it?"
+msgstr "Czy chcesz usunąć lub pominąć folder $0?"
+
+msgid "Do you want to close the documents before opening the workspace?"
+msgstr "Czy chcesz zamknąć dokumenty przed otwarciem obszaru roboczego?"
+
+msgid "Do you want to rename item at path $0 with name $1?"
+msgstr ""
+
+msgid "Do you want to save the changes you've made in the property pages?"
+msgstr "Czy chcesz zapisać zmiany wykonane na stronach właściwości?"
+
+msgid "Document not recognized because of the following error: $0"
+msgstr ""
+"Dokument nie został poprawnie rozpoznany, ponieważ wystąpił następujący "
+"błąd: $0"
+
+msgid "Document not yet loaded completely"
+msgstr ""
+
+msgid "Document options"
+msgstr "Opcje dokumentu"
+
+#, fuzzy
+msgid "Document quick options"
+msgstr "Opcje dokumentu"
+
+msgid ""
+"Document settings template (.ecmt), used to specify comparison, sources, "
+"export options"
+msgstr ""
+"Szablon ustawień dokumentu (.ecmt), używany do określania porównań, źródeł, "
+"opcji eksportu"
+
+msgid "Document type"
+msgstr "Typ dokumentu"
+
+msgid "Down arrow"
+msgstr "Strzałka w dół"
+
+msgid "Dynamic"
+msgstr ""
+
+msgid "Dynamic field"
+msgstr ""
+
+msgid "Dynamic fields definition script:"
+msgstr ""
+
+msgid "E&xit"
+msgstr "&Wyjście"
+
+msgid "E&xport"
+msgstr "E&ksport"
+
+#, fuzzy
+msgid ""
+"ECMerge Standard only supports 2-Way comparisons and merges. To perform 3-"
+"Way comparisons, use ECMerge Pro. The trial version is always a Pro version."
+msgstr ""
+"ECMerge Standard obsługuje tylko 2-drożne porównania. By uzyskać dostęp do 3-"
+"drożnych porównań użyj ECMerge Pro."
+
+msgid ""
+"ECMerge can compare files and folders accessible on your computer, your "
+"local network (Windows shared folders, mounted volumes), many version "
+"controls repositories and FTP/FTPS (FTP over SSL) servers."
+msgstr ""
+"ECMerge can compare files and folders accessible on your computer, your "
+"local network (Windows shared folders, mounted volumes), many version "
+"controls repositories and FTP/FTPS (FTP over SSL) servers."
+
+msgid ""
+"ECMerge can generate Unix patch files. It will help you to participate to "
+"Open Source projects. You can even start a merge operation, include only few "
+"changes in the result view and generate a patch between any existing version "
+"(left, ancestor, right) and the temporary result view. This allows you to "
+"make several patch files for different modifications saved at once."
+msgstr ""
+"ECMerge can generate Unix patch files. It will help you to participate to "
+"Open Source projects. You can even start a merge operation, include only few "
+"changes in the result view and generate a patch between any existing version "
+"(left, ancestor, right) and the temporary result view. This allows you to "
+"make several patch files for different modifications saved at once."
+
+msgid ""
+"ECMerge can generate basic comparison reports for binary files as the binary "
+"view is not supported for the moment."
+msgstr ""
+"ECMerge can generate basic comparison reports for binary files as the binary "
+"view is not supported for the moment."
+
+msgid ""
+"ECMerge chooses the appropriate comparison type depending on items being "
+"files or\n"
+"folders. Then files contents are interpreted according to Files types as "
+"defined in \n"
+"Files Types section of Preferences."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"ECMerge contains a built-in converter for Microsoft Word, RTF and OpenOffice "
+"Writer. You can use third-party tools to convert Adobe PDF documents into "
+"plain text or HTML and compare them."
+msgstr ""
+"Użyj innych narzędzi do konwertowania dokumentów Microsoft Word lub Adobe "
+"PDF na prosty tekst lub HTML i porównaj je."
+
+#, fuzzy
+msgid ""
+"ECMerge is a cross-platform software. It runs on Windows, Linux, Mac OS X "
+"and Solaris. If you need it on another platform (BSD, HP, AIX...), do not "
+"hesitate to contact Ellié Computing Team at info@elliecomputing.com . "
+msgstr ""
+"ECMerge jest programem dla wielu-platform. Pracuje z Windows, Linux, Mac OS "
+"X i Solaris. jeśeli uzywasz innej platformy (BSD, HP, AIX...), skontaktuj "
+"się z Ellié Computing Team. "
+
+#, fuzzy
+msgid ""
+"ECMerge is available as an ActiveX component. You can use it in a web site "
+"(Intranet, Internet) or in any application (C++, Visual Basic, .Net). The "
+"component can be delivered with the exact subset of features you need (only "
+"2-way diff, no merge, no report, no image diff). Contact Ellié Computing "
+"Team at sales@elliecomputing.com for more information."
+msgstr ""
+"ECMerge jest dostępny także jako komponent ActiveX. Możesz używać go na "
+"stronie Web (Intranet, Internet) lub aplikacji (C++, Visual Basic, .Net). "
+"Komponent może być zawierać tylko funkcje, których potrzebujesz (tylko 2-"
+"drożne porównanie, bez łączenia, bez raportów, bez porównania obrazów). "
+"Skontaktuj się z Ellié Computing Team, by uzyskać więcej informacji."
+
+#, fuzzy
+msgid ""
+"ECMerge is delivered with a built-in XML converter which pretty prints XML "
+"trees (tags indentation). This converter can also compact the XML text at "
+"saving time (remove line ending characters and formatting tabulations). This "
+"makes the XML-based file comparisons easier."
+msgstr ""
+"ECMerge is delivered with a built-in XML converter which pretty prints XML "
+"trees (tags indentation). This converter can also compact the XML text at "
+"saving time (remove line ending characters and formatting tabulations).This "
+"makes the XML-based file comparisons easier."
+
+msgid "ECMerge serial number"
+msgstr ""
+
+msgid ""
+"ECMerge supports bookmarks on directories. Toogle bookmarks on items when "
+"browsins folders and use the \"Select bookmarked items\" to perform an "
+"action such as copy, delete, resolve using this version..."
+msgstr ""
+"ECMerge supports bookmarks on directories. Toogle bookmarks on items when "
+"browsins folders and use the \"Select bookmarked items\" to perform an "
+"action such as copy, delete, resolve using this version..."
+
+msgid ""
+"Each line in this list represents a local path to which you associate a tool:"
+msgstr ""
+"Każdy wiersz na tej liście reprezentuje ścieżkę lokalną, która jest "
+"skojarzona z określonym narzędziem:"
+
+msgid "Each line in this list represents a tool and its parameters:"
+msgstr "Każdy wiersz na tej liście reprezentuje narzędzie i jego parametry:"
+
+msgid "Easy synchronization"
+msgstr ""
+
+#, fuzzy
+msgid "Edit"
+msgstr "&Edycja"
+
+msgid "Edit File Type..."
+msgstr "Edytuj typ pliku..."
+
+#, fuzzy
+msgid "Edit Site..."
+msgstr "&Edytuj..."
+
+#, fuzzy
+msgid "Edit names filters"
+msgstr "Filtry nazwy pliku"
+
+msgid "Edition"
+msgstr "Edycja"
+
+msgid "Elapsed time:"
+msgstr "Upłynęło czasu:"
+
+msgid "Ellie Computing &Online"
+msgstr "Ellié Computing &Online"
+
+msgid "Ellie Computing &Website"
+msgstr "&Strona Web Ellié Computing"
+
+msgid "Ellié Computing - Text tool"
+msgstr "Ellié Computing - Text tool"
+
+msgid "Ellié Computing Merge"
+msgstr "Ellié Computing Merge"
+
+msgid "Email address (for anonymous login):"
+msgstr "Adres email (logowanie anonimowe):"
+
+msgid "Email:"
+msgstr ""
+
+msgid ""
+"Embed sub-reports, currently exclusive with -x and forces sub-reports to the "
+"same format as top reports. Used in folder comparison only."
+msgstr ""
+"Embed sub-reports, currently exclusive with -x and forces sub-reports to the "
+"same format as top reports. Used in folder comparison only."
+
+msgid "Enable Shells Extensions"
+msgstr ""
+
+msgid "Encoding for the result file"
+msgstr "Kodowanie pliku wynikowego"
+
+msgid "Encoding to use when text is generated to stdout"
+msgstr "Encoding to use when text is generated to stdout"
+
+msgid "Encoding used to load files when auto-detection fails:"
+msgstr "Kodowanie używane dla otwieranych plików przy nieudanej auto-detekcji:"
+
+msgid "Encoding:"
+msgstr "Kodowanie:"
+
+msgid "Encrypt communication"
+msgstr "Encrypt communication"
+
+msgid ""
+"Enforce result code to be computed from the merge result, even if in simple "
+"GUI, if merged OK, exit code 0, other codes are errors"
+msgstr ""
+"Enforce result code to be computed from the merge result, even if in simple "
+"GUI, if merged OK, exit code 0, other codes are errors"
+
+msgid "Enter 32 hexadecimal digits"
+msgstr ""
+
+#, fuzzy
+msgid "Enter orphaned folders"
+msgstr "Pliki i foldery"
+
+msgid ""
+"Enter the files names pattern, use 'dos:' for DOS-like, re:/retext/flags for "
+"Perl like, else simple text:"
+msgstr ""
+
+msgid ""
+"Enter the patterns (use '-*.txt' to exclude something, see Name filters\n"
+"documentation for more help, enter single space to deactivate all filters):"
+msgstr ""
+
+msgid "Enter the text pattern to search, same notation:"
+msgstr ""
+
+#, fuzzy
+msgid "Eq &l; :"
+msgstr "= < :"
+
+msgid "Equal dates mean equal files"
+msgstr "Równe daty oznaczają równe pliki"
+
+msgid "Equal file dates mean equal files"
+msgstr "Równe daty plików oznaczają równe pliki"
+
+msgid "Equal file sizes mean equal files (dangerous)"
+msgstr "Równe rozmiary plików oznaczają równe pliki (niebezpieczne)"
+
+msgid "Equal file sizes mean equal files, if size criterion is OK"
+msgstr "Equal file sizes mean equal files, if size criterion is OK"
+
+#, fuzzy
+msgid "Equality Test Document"
+msgstr "Dokument tekstowy"
+
+msgid "Error"
+msgstr "Błąd"
+
+msgid ""
+"Error while applying converter: $0\n"
+"Command line was: $1"
+msgstr ""
+
+msgid "Error while getting Find/Replace options"
+msgstr ""
+
+msgid "Estimated Size"
+msgstr "Szacunkowy rozmiar"
+
+msgid "Estimating work..."
+msgstr ""
+
+msgid "Evaluating filter '$0' output file name:"
+msgstr ""
+
+msgid "Every 2 months"
+msgstr "Co 2 miesiące"
+
+msgid "Every 3 months"
+msgstr "Co 3 miesiące"
+
+msgid "Every 6 months"
+msgstr "Co 6 miesięcy"
+
+msgid "Exact"
+msgstr "Taki sam"
+
+msgid "Exact file dates"
+msgstr "Dokładne daty plików"
+
+msgid "Exactness:"
+msgstr "Takie same:"
+
+msgid "Exclude patterns"
+msgstr "Schematy wykluczeń"
+
+msgid "Executables (*.exe,*.bat,*.com)|*.exe;*.bat;*.com"
+msgstr "Wykonywalne (*.exe,*.bat,*.com)|*.exe;*.bat;*.com"
+
+msgid "Execute given script file (after loading and exporting document if any)"
+msgstr "Wykonaj podany plik skryptu (po otwarciu i eksporcie dokumentu)"
+
+msgid "Execute given script file (just before loading document if any)"
+msgstr "Wykonaj podany plik skryptu (przed otwarciem dokumentu)"
+
+msgid "Exit code for success:"
+msgstr "Exit code for success:"
+
+msgid "Exits Ellie Computing Merge"
+msgstr "Wyjście z  Ellié Computing Merge"
+
+msgid "Expand tabs to"
+msgstr "Ustaw tabulatory na"
+
+#, fuzzy
+msgid "Explorer extension"
+msgstr "Rozszerzenie:"
+
+msgid "Export"
+msgstr "Eksport"
+
+msgid "Export &all panels"
+msgstr "Eksportuj &wszystkie panele"
+
+msgid "Export &current panel"
+msgstr "Eksportuj &bieżący panel"
+
+msgid "Export XML/HTML"
+msgstr "Eksport XML/HTML"
+
+msgid ""
+"Export format for sub-reports, one from: unixpatch, html or xml. Used in "
+"folder comparison only."
+msgstr ""
+"Export format for sub-reports, one from: unixpatch, html or xml. Used in "
+"folder comparison only."
+
+msgid "Export format, one from: none, unixpatch, html or xml"
+msgstr "Export format, one from: none, unixpatch, html or xml"
+
+msgid "Export patch"
+msgstr "Eksport patcha"
+
+msgid "Expression to search:"
+msgstr ""
+
+msgid "Extension:"
+msgstr "Rozszerzenie:"
+
+msgid "FTP:"
+msgstr "FTP:"
+
+msgid "Factory settings"
+msgstr "Ustawienia fabryczne"
+
+msgid "Fields"
+msgstr ""
+
+msgid "File"
+msgstr "Plik"
+
+msgid "File Date Filters"
+msgstr "Filtry daty pliku"
+
+msgid "File Merges"
+msgstr "Łączenie plików"
+
+msgid "File Name Filters"
+msgstr "Filtry nazwy pliku"
+
+msgid "File Status Filters"
+msgstr "Filtry statusu pliku"
+
+msgid "File Type Creation"
+msgstr "File Type Creation"
+
+msgid "File Type Description"
+msgstr "Opis typu pliku"
+
+msgid "File Type Name:"
+msgstr "Nazwa typu pliku:"
+
+msgid "File Type Options"
+msgstr "Opcje nazwy pliku"
+
+msgid "File Types"
+msgstr "Typy plików"
+
+#, fuzzy
+msgid "File browser:"
+msgstr "Przeglądarka Web:"
+
+msgid "File comparison report type"
+msgstr "Typ raportu porównywania plików"
+
+msgid "File creations"
+msgstr "Tworzenie pliku"
+
+msgid "File date"
+msgstr "Data pliku"
+
+msgid "File deletions"
+msgstr "Usuwanie pliku"
+
+msgid "File name"
+msgstr "Nazwa pliku"
+
+msgid "File name:"
+msgstr "Nazwa pliku:"
+
+msgid "File size"
+msgstr "Rozmiar pliku"
+
+msgid "File unlocks"
+msgstr "File unlocks"
+
+msgid ""
+"File(s)/Directory(ies) concerned by operation, for 3 way merges, first is "
+"common ancestor, then source, then target"
+msgstr ""
+"File(s)/Directory(ies) concerned by operation, for 3 way merges, first is "
+"common ancestor, then source, then target"
+
+msgid "Files and folders"
+msgstr "Pliki i foldery"
+
+msgid "Files with orphans (left or right side missing)"
+msgstr "Files with orphans (left or right side missing)"
+
+msgid "Find"
+msgstr "Znajdź"
+
+msgid "Find &Next"
+msgstr "Z&najdź następny"
+
+msgid "Find Next"
+msgstr "Znajdź następny"
+
+msgid "Find Previou&s"
+msgstr "Znajdź &poprzedni"
+
+msgid "Find Previous"
+msgstr "Znajdź poprzedni"
+
+msgid "Find and Replace"
+msgstr "Znajdź i zastąp"
+
+msgid "Find..."
+msgstr "Znajdź..."
+
+msgid "Find:  "
+msgstr "Znajdź:  "
+
+msgid "Finds the next occurrence of the search text"
+msgstr "Znajduje następne wystąpienie wyszukiwanego tekstu"
+
+msgid "Finds the previous occurrence of the search text"
+msgstr "Znajduje poprzednie wystąpienie wyszukiwanego tekstu"
+
+msgid "Finds the specified text"
+msgstr "Znajduje określony tekst"
+
+msgid "Firewall / Proxy"
+msgstr "Firewall / Proxy"
+
+msgid "First offset to test:"
+msgstr ""
+
+msgid "Fixed difference"
+msgstr "Poprawione różnice"
+
+msgid "Folder"
+msgstr "Folder"
+
+msgid "Folder $0 is locked"
+msgstr "Folder $0 jest zablokowany"
+
+msgid "Folder $0 was not created"
+msgstr "Folder $0 nie został utworzony"
+
+msgid "Folder 2-way merge rules"
+msgstr "Reguły 2-drożnego łączenia folderów"
+
+msgid "Folder 3-way merge rules"
+msgstr "Reguły 3-drożnego łączenia folderów"
+
+msgid ""
+"Folder Comparison XML/HTML reports can include embedded reports for files "
+"(Text, Image, Binary) or independant reports in any format (patch, XML, "
+"HTML)."
+msgstr ""
+"Folder Comparison XML/HTML reports can include embedded reports for files "
+"(Text, Image, Binary) or independant reports in any format (patch, XML, "
+"HTML)."
+
+msgid "Folder Document"
+msgstr "Folder Document"
+
+#, fuzzy
+msgid "Folder Merging"
+msgstr "Tworzenie folderów"
+
+msgid "Folder creations"
+msgstr "Tworzenie folderów"
+
+msgid "Folder deletions"
+msgstr "Usuwanie folderów"
+
+#, fuzzy
+msgid "Folder document"
+msgstr "Folder Document"
+
+msgid ""
+"Folder documents can compare local directories, FTP sites, SCC repositories "
+"(CVS, \n"
+"Subversion, Mercurial, Bazaar, Visual SourceSafe, see Preferences/SCC Tools "
+"for a\n"
+"complete list), or ZIP-like archives."
+msgstr ""
+
+msgid "Folder specific"
+msgstr "Folder specific"
+
+#, fuzzy
+msgid ""
+"Folder synchronization rules can help you in mirroring directory contents. "
+"\"Mirror\" will make the target side identical to the source side, deletiing "
+"or copying files as appropriate."
+msgstr ""
+"Folder synchronization rules can help you in mirroring directory contents. "
+"\"Mirror\" will transfer new items (files/folders added since ancestor) and "
+"remove deleted items (files/folders deleted since ancestor)."
+
+msgid "Folder unlocks"
+msgstr "Folder unlocks"
+
+msgid "Folders"
+msgstr "Foldery"
+
+msgid "Folders Comparison Options"
+msgstr "Opcje porównywania folderów"
+
+msgid "Folders Comparisons"
+msgstr "Porównania folderów"
+
+msgid "Folders Display"
+msgstr "Wyświetlanie folderów"
+
+msgid "Font..."
+msgstr "Czcionka..."
+
+msgid "For all text files"
+msgstr "Dla wszystkich plików tekstowych"
+
+msgid ""
+"Forces creation of result file in quiet mode/sip mode, even if already "
+"existing"
+msgstr ""
+"Forces creation of result file in quiet mode/sip mode, even if already "
+"existing"
+
+msgid "Foreground..."
+msgstr "Pierwszy plan..."
+
+msgid "Format lines in a single column for identical parts"
+msgstr "Format wierszy w pojedynczej kolumnie dla identycznych części"
+
+msgid "Format:"
+msgstr "Format:"
+
+msgid "Formatting"
+msgstr "Formatowanie"
+
+msgid "Free compare"
+msgstr "Free compare"
+
+msgid "From &File type..."
+msgstr "Z &typu pliku..."
+
+msgid "From &Options set..."
+msgstr "Z zestawu &opcji..."
+
+msgid "From Factory &Settings"
+msgstr "Z &ustawień fabrycznych"
+
+#, fuzzy
+msgid "Full reload"
+msgstr "Pełne odświeżanie"
+
+msgid ""
+"Function body taking 'filename' and 'expects' as parameters, return true if "
+"filter should be activated"
+msgstr ""
+"Function body taking 'filename' and 'expects' as parameters, return true if "
+"filter should be activated"
+
+msgid "Function body taking 'filename' as parameter, return new filename"
+msgstr "Function body taking 'filename' as parameter, return new filename"
+
+msgid "Generate file reports for:"
+msgstr "Generuj raporty dla następujących pozycji:"
+
+msgid "Generate or copy art-work to sub-documents folder"
+msgstr "Generate or copy art-work to sub-documents folder"
+
+msgid "Generate simple XML/HTML reports for binary files"
+msgstr "Generuj proste raporty XML/HTML dla plików binarnych"
+
+msgid "Generate sub documents in a sub folder"
+msgstr "Generuje dokumenty w podfolderze"
+
+msgid "Generates a report in UNIX diff patch format for the active comparison"
+msgstr "Generates a report in UNIX diff patch format for the active comparison"
+
+msgid "Generates a report in XML/HTML format for the active comparison"
+msgstr "Generuje raport w formacie XML/HTML dla aktywnego porównania"
+
+msgid "Generating XML report..."
+msgstr "Generowanie raportu XML..."
+
+msgid "Generating patches..."
+msgstr "Generating patches..."
+
+msgid "Generating sub-reports..."
+msgstr "Generating sub-reports..."
+
+msgid "Go to line"
+msgstr "Przejdź do wiersza"
+
+#, fuzzy
+msgid "Go to offset"
+msgstr "Przejdź do wiersza"
+
+#, fuzzy
+msgid "Go up in hierarchy"
+msgstr "w lewej hierarchii"
+
+msgid "Goto Text Position"
+msgstr ""
+
+msgid "Group folders"
+msgstr "Group folders"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTML (embedded)"
+msgstr "HTML (wbudowany)"
+
+msgid "HTTP:"
+msgstr "HTTP:"
+
+msgid "He&x"
+msgstr ""
+
+msgid "Height:"
+msgstr "Wysokość:"
+
+msgid "Help"
+msgstr "Pomoc"
+
+#, fuzzy
+msgid "Hide equal"
+msgstr "Ukryj pozycję"
+
+msgid "Hide files or folders missing"
+msgstr "Ukryj brakujące pliki lub foldery"
+
+msgid "Hide files or folders present"
+msgstr "Ukryj pliki lub foldery reprezentowane"
+
+msgid "Hide files present"
+msgstr "Ukryj pliki reprezentowane"
+
+msgid "Hide files when"
+msgstr "Ukryj pliki gdy"
+
+msgid "Hide identical folders with no content shown"
+msgstr "Ukryj identyczne foldery bez widocznej zawartości"
+
+msgid "Hide item"
+msgstr "Ukryj pozycję"
+
+#, fuzzy
+msgid "Hide orphans"
+msgstr "Zachowaj ten"
+
+#, fuzzy
+msgid "Hide system files"
+msgstr "view the file"
+
+msgid "Hide system hidden files and folders"
+msgstr "Ukryj ukryte foldery i pliki systemowe"
+
+msgid "Hides files or folders missing in ancestor hierarchy"
+msgstr "Ukrywa pliki lub foldery brakujące w hierarchii ancestora"
+
+msgid "Hides files or folders missing in left hierarchy"
+msgstr "Ukrywa pliki lub foldery brakujące w lewej hierarchii"
+
+msgid "Hides files or folders missing in result hierarchy"
+msgstr "Ukrywa pliki lub foldery brakujące w hierarchii wyniku"
+
+msgid "Hides files or folders missing in right hierarchy"
+msgstr "Ukrywa pliki lub foldery brakujące w prawej hierarchii"
+
+msgid "Hides files or folders present in ancestor hierarchy"
+msgstr "Ukrywa pliki lub foldery reprezentowane w hierarchii ancestora"
+
+msgid "Hides files or folders present in left hierarchy"
+msgstr "Ukrywa pliki lub foldery reprezentowane w lewej hierarchii"
+
+msgid "Hides files or folders present in result hierarchy"
+msgstr "Ukrywa pliki lub foldery reprezentowane w hierarchii wyniku"
+
+msgid "Hides files or folders present in right hierarchy"
+msgstr "Ukrywa pliki lub foldery reprezentowane w prawej hierarchii"
+
+msgid "Hides files when all identical"
+msgstr "Ukrywa pliki, gdy wszystkie są identyczne"
+
+msgid "Hides files when ancestor and right are identical"
+msgstr "Ukrywa pliki, gdy ancestor i prawy są identyczne"
+
+msgid "Hides files when conflicting"
+msgstr "Ukrywa pliki przy konflikcie"
+
+msgid "Hides files when different"
+msgstr "Ukrywa pliki, gdy są różne"
+
+msgid "Hides files when left and ancestor are identical"
+msgstr "Ukrywa pliki, gdy lewy i ancestor są identyczne"
+
+msgid "Hides files when left and right are identical"
+msgstr "Ukrywa pliki, gdy prawy i lewy są identyczne"
+
+msgid "Hides system hidden files and folders"
+msgstr "Ukrywa ukryte foldery i pliki systemowe"
+
+msgid "Horizontal"
+msgstr "Poziomo"
+
+msgid "Host Name/Address:"
+msgstr "Nazwa/adres hosta:"
+
+msgid "Host Name:"
+msgstr "Nazwa hosta:"
+
+msgid "INVALID SERIAL NUMBER"
+msgstr "NIEPRAWIDŁOWY NUMER SERYJNY"
+
+msgid "Identical files"
+msgstr "Identyczne pliki"
+
+msgid "If all the versions are identical:"
+msgstr "Jeżeli wszystkie wersje są identyczne:"
+
+msgid "If an item was added (or two identical items):"
+msgstr "Jeżeli została dodana pozycja (lub dwie identyczne pozycje):"
+
+msgid ""
+"If an item was removed (and other side removed or identical to ancestor):"
+msgstr ""
+"If an item was removed (and other side removed or identical to ancestor):"
+
+msgid ""
+"If both left and right versions exist and changed differently since ancestor:"
+msgstr ""
+"If both left and right versions exist and changed differently since ancestor:"
+
+msgid "If both versions exist and are different:"
+msgstr "Jeżeli obydwie wersje istnieją i są różne:"
+
+msgid "If both versions exist and are identical:"
+msgstr "Jeżeli obydwie wersje istnieją i są identyczne:"
+
+msgid "If left and right versions are different:"
+msgstr "Jeżeli lewa i prawa wersja są różne:"
+
+msgid ""
+"If left version changed since ancestor, but right version does not exist:"
+msgstr ""
+"If left version changed since ancestor, but right version does not exist:"
+
+msgid "If left version exists, but not right version:"
+msgstr "If left version exists, but not right version:"
+
+msgid "If not, you can review first the actions in the result panel"
+msgstr ""
+
+msgid ""
+"If right version changed since ancestor, but left version does not exist:"
+msgstr ""
+"If right version changed since ancestor, but left version does not exist:"
+
+msgid "If right version exists, but not left version:"
+msgstr "If right version exists, but not left version:"
+
+msgid "If the file already exists, keep its encoding parameters"
+msgstr "Jeżeli plik już istnieje, to zachowaj parametry kodowania"
+
+msgid "If the item is missing but present in 'Other' folder:"
+msgstr "If the item is missing but present in 'Other' folder:"
+
+msgid "If the source file had a detectable encoding, keep it"
+msgstr "Jeżeli plik źródła my wykrywalne kodowanie, to zachowaj je"
+
+msgid ""
+"If the source files of copy or merge have coherent detectable encodings, use "
+"deduced encoding"
+msgstr ""
+"If the source files of copy or merge have coherent detectable encodings, use "
+"deduced encoding"
+
+#, fuzzy
+msgid ""
+"If you need to compare or merge periodically the same set of files/folders, "
+"save a Comparison Template. It will keep all the document options and will "
+"show in the Launcher in the folder 'Sessions/Named'. "
+msgstr ""
+"If you need to compare or merge periodically the same set of files/folders, "
+"save the Comparison document as a Status or Template. It will keep all the "
+"document options. "
+
+#, fuzzy
+msgid "Ignore"
+msgstr "Zignorowano"
+
+#, fuzzy
+msgid "Ignore #0 like #1"
+msgstr "Ignorowane wiersze"
+
+msgid "Ignore Unicode signature"
+msgstr "Ignoruj sygnaturę Unicode"
+
+msgid "Ignore all white spaces"
+msgstr "Ignoruj wszystkie niewidoczne znaki"
+
+msgid "Ignore case"
+msgstr "Ignoruj wielkość liter"
+
+msgid "Ignore differences in character case"
+msgstr "Ignoruj różnice wielkości znaków"
+
+msgid "Ignore differences in line ending characters"
+msgstr "Ignoruj różnice znaków końca wiersza"
+
+msgid "Ignore differences in whitespaces"
+msgstr "Ignoruj różnice w niewidocznych znakach"
+
+msgid "Ignore differences in whitespaces at end of lines"
+msgstr "Ignoruj różnice w niewidocznych znakach na końcu wierszy"
+
+msgid "Ignore differences in whitespaces at start of lines"
+msgstr "Ignoruj różnice w niewidocznych znakach na początku wierszy"
+
+msgid "Ignore differences in whitespaces in middle of lines"
+msgstr "Ignoruj różnice w niewidocznych znakach wewnątrz wierszy"
+
+msgid "Ignore end of line marker"
+msgstr "Ignoruj znaki końca wiersza"
+
+#, fuzzy
+msgid "Ignore fixed columns:"
+msgstr "Ignorowane wiersze"
+
+#, fuzzy
+msgid "Ignore spans with expression:"
+msgstr "Wstawiaj spacje po naciśnięciu TAB"
+
+#, fuzzy
+msgid "Ignore text defined in file type \"Text to Ignore\" panel"
+msgstr "Ignore lines defined in file type \"Lines to ignore\" panel"
+
+msgid "Ignore this item"
+msgstr "Ignoruj tą pozycję"
+
+msgid "Ignored"
+msgstr "Zignorowano"
+
+msgid "Ignored change"
+msgstr "Ignorowane zmiany"
+
+msgid "Ignored lines"
+msgstr "Ignorowane wiersze"
+
+msgid "Image Comparisons"
+msgstr "Porównywanie obrazów"
+
+msgid "Image Diff"
+msgstr "Image Diff"
+
+msgid "Image Document"
+msgstr "Dokument obrazu"
+
+msgid "Image Viewer"
+msgstr "Przeglądarka obrazów"
+
+#, fuzzy
+msgid "Image document"
+msgstr "Dokument obrazu"
+
+msgid ""
+"Image documents can compare most of image types. Common formats such as\n"
+"Bitmap, JPEG, GIF or PNG are natively supported. Other formats can be "
+"displayed\n"
+"using converters."
+msgstr ""
+
+msgid "Image fits entirely in window, no need to scroll"
+msgstr ""
+
+msgid "Images"
+msgstr "Obrazy"
+
+#, fuzzy
+msgid "Images are identical"
+msgstr "Dokumenty są identyczne"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import &all panels"
+msgstr "Importuj &wszystkie panele"
+
+msgid "Import &current panel"
+msgstr "Importuj &bieżacy panel"
+
+msgid "Import Options"
+msgstr "Opcje importu"
+
+msgid "Import patch"
+msgstr "Import patcha"
+
+msgid "Imports diff patch"
+msgstr "Imports diff patch"
+
+msgid ""
+"In 3-way Text Comparisons, hide the ancestor to get more space for the left "
+"and right views.The lines deleted from the ancestor version are inserted in "
+"the two other panels, and displayed with the \"deleted\" background colour. "
+msgstr ""
+"In 3-way Text Comparisons, hide the ancestor to get more space for the left "
+"and right views.The lines deleted from the ancestor version are inserted in "
+"the two other panels, and displayed with the \"deleted\" background colour. "
+
+msgid ""
+"In Text Comparisons, you can configure which side (left, ancestor, right) to "
+"take ignored changes from. Even if not significant for the comparison "
+"algorithm, ignored changes can be useful in the final version."
+msgstr ""
+"In Text Comparisons, you can configure which side (left, ancestor, right) to "
+"take ignored changes from. Even if not significant for the comparison "
+"algorithm, ignored changes can be useful in the final version."
+
+msgid ""
+"In Text Comparisons, you can ignore changes made of lines matching a given "
+"pattern."
+msgstr ""
+"In Text Comparisons, you can ignore changes made of lines matching a given "
+"pattern."
+
+msgid ""
+"In XML/HTML Reports for Folders Comparisons, you can configure ECMerge to "
+"generate file reports for identical, different and/or conflicting items. "
+"Therefore, whether your goal is to focus on identical or different files, "
+"you can get reports matching exactly your needs."
+msgstr ""
+"In XML/HTML Reports for Folders Comparisons, you can configure ECMerge to "
+"generate file reports for identical, different and/or conflicting items. "
+"Therefore, whether your goal is to focus on identical or different files, "
+"you can get reports matching exactly your needs."
+
+msgid "In-line differences"
+msgstr "Różnice wewnątrz wiersza"
+
+msgid "Include Patterns:"
+msgstr "Schematy włączeń:"
+
+msgid "Include only #0 like #1"
+msgstr ""
+
+msgid "Include patterns"
+msgstr "Schematy włączeń"
+
+msgid "Indent ancestor and right folders hierarchies"
+msgstr "Indent ancestor and right folders hierarchies"
+
+msgid ""
+"Individual reports for text and/or binary files will be generated as HTML "
+"files."
+msgstr ""
+"Indywidualne raporty dla plików tekstowych i/lub binarnych będą generowane "
+"jako pliki HTML."
+
+msgid ""
+"Individual reports for text and/or binary files will be generated as XML "
+"files."
+msgstr ""
+"Indywidualne raporty dla plików tekstowych i/lub binarnych będą generowane "
+"jako pliki XML."
+
+#, fuzzy
+msgid "Information"
+msgstr "Formatowanie"
+
+#, fuzzy
+msgid "Input file name"
+msgstr "Nazwa pliku"
+
+msgid "Input file name (without escaping)"
+msgstr ""
+
+msgid "Input script or Pattern"
+msgstr "Input script or Pattern"
+
+msgid "Insert spaces when pressing TAB"
+msgstr "Wstawiaj spacje po naciśnięciu TAB"
+
+msgid "Inserted"
+msgstr "Wstawiony"
+
+msgid "Installation check of $0 failed because of error $1."
+msgstr ""
+
+msgid "Installation of $0 failed because of error $1."
+msgstr ""
+
+msgid ""
+"Interpret single parameter as a conflict file, opening a merge document if "
+"possible"
+msgstr ""
+
+msgid "Item $0 missing"
+msgstr "Brak pozycji $0"
+
+#, c-format
+msgid "Item %s is in error (%s)"
+msgstr "Przy pozycji %s wystąpił błąd (%s)"
+
+#, c-format
+msgid "Item %s is not resolved"
+msgstr "Pozycja %s nie została rozwiązana"
+
+msgid "Item properties"
+msgstr "Właściwości elementu"
+
+msgid "Items"
+msgstr "Pozycje"
+
+msgid "Join differences separated by less than"
+msgstr "Połącz różnice oddzielone przez mniej niż"
+
+msgid "Jump directly to final page next time"
+msgstr ""
+
+msgid "Just break into lines"
+msgstr "Just break into lines"
+
+#, fuzzy
+msgid "Keep"
+msgstr "Zachowaj ten"
+
+msgid "Keep and merge sub-items"
+msgstr ""
+
+msgid "Keep current document settings"
+msgstr "Zachowaj bieżące ustawienia dokumentu"
+
+#, fuzzy
+msgid "Keep least recent"
+msgstr "zachowaj najnowszą"
+
+#, fuzzy
+msgid "Keep most recent"
+msgstr "zachowaj najnowszą"
+
+#, fuzzy
+msgid "Keep orphans"
+msgstr "Zachowaj ten"
+
+msgid "Keep the most recent file"
+msgstr "Zachowaj najnowszy plik"
+
+msgid "Keep the oldest file"
+msgstr "Zachowaj najstarszy plik"
+
+msgid "Keep this"
+msgstr "Zachowaj ten"
+
+msgid "Keeps the most recent file for selected items"
+msgstr "Zachowuje najnowszy plik dla wybranych pozycji"
+
+msgid "Keeps the oldest file for selected items"
+msgstr "Zachowuje starszy plik dla wybranych pozycji"
+
+msgid "Key Bindings"
+msgstr "Skróty klawiszowe"
+
+msgid "Known hosts file:"
+msgstr ""
+
+msgid "Konqueror (KDE)"
+msgstr "Konqueror (KDE)"
+
+msgid "Label:"
+msgstr "Label:"
+
+msgid "Languages"
+msgstr "Języki"
+
+#, fuzzy
+msgid "Large"
+msgstr "element docelowy"
+
+msgid "Last checked on: $0 GMT"
+msgstr "Ostatnie sprawdzanie: $0 GMT"
+
+msgid "Last modified:"
+msgstr "Ostatnia modyfikacja:"
+
+msgid "Last offset to test:"
+msgstr ""
+
+msgid "Last workspace"
+msgstr "Ostatni obszar roboczy"
+
+msgid "Launcher"
+msgstr "Eksplorator"
+
+msgid "Left"
+msgstr "Lewy"
+
+msgid "Left location:"
+msgstr "Lewa lokalizacja:"
+
+#, fuzzy
+msgid "Left version"
+msgstr "zachowaj lewą wersję"
+
+msgid "Left:"
+msgstr "Lewy:"
+
+msgid "Length"
+msgstr ""
+
+#, fuzzy
+msgid "Length:"
+msgstr "Lewy:"
+
+msgid "Let settings roam with user profile"
+msgstr "Let settings roam with user profile"
+
+msgid "Limit images size to the following dimensions:"
+msgstr "Ogranicz rozmiar obrazów do następujących wymiarów:"
+
+msgid "Limit miniatures size to the following dimensions:"
+msgstr "Ogranicz rozmiar miniatur do następujących wymiarów:"
+
+msgid "Limited demo will have the following limited features:\n"
+msgstr "Wersja demo posiada następujące ograniczenia:\n"
+
+msgid "Limited demonstration version"
+msgstr "Ograniczona wersja demonstracyjna"
+
+#, c-format
+msgid "Line %d/%d"
+msgstr "Wiersz %d/%d"
+
+msgid "Line endings:"
+msgstr "Końce wierszy:"
+
+msgid "Lines covered by multi-line expression:"
+msgstr "Lines covered by multi-line expression:"
+
+msgid "Lines matching:"
+msgstr "Zgodne wiersze:"
+
+#, fuzzy
+msgid "Lines to ignore"
+msgstr "Ignorowane wiersze"
+
+msgid "Linking line colour:"
+msgstr "Kolor linii łączoących:"
+
+msgid "Listing and filtering..."
+msgstr "Listing and filtering..."
+
+msgid "Lists sub-folders content recursively"
+msgstr "Lists sub-folders content recursively"
+
+msgid ""
+"Loading text comparisons from a Status file is not supported in command line "
+"application"
+msgstr ""
+"Loading text comparisons from a Status file is not supported in command line "
+"application"
+
+msgid "Loading..."
+msgstr "Otwieranie..."
+
+msgid "Local path $0 is not under a known mapping. See Mappings configuration"
+msgstr ""
+
+msgid "Local path:"
+msgstr "Ścieżka lokalna:"
+
+msgid "Locks user interface for what is asked, only quit or save is available"
+msgstr "Locks user interface for what is asked, only quit or save is available"
+
+msgid "Log actions descriptions(hidden)"
+msgstr "Log actions descriptions(hidden)"
+
+msgid "Log commands / details "
+msgstr "Log poleceń / szczegółów "
+
+msgid "Logs"
+msgstr "Logi"
+
+msgid "MIME type"
+msgstr "Typ MIME"
+
+msgid "MMM"
+msgstr "MMM"
+
+msgid "Macro toolbar $0"
+msgstr ""
+
+msgid "Make item visible"
+msgstr "Uwidocznij pozycje"
+
+msgid "Mark all patched items"
+msgstr "Mark all patched items"
+
+msgid "Marker"
+msgstr "Marker"
+
+msgid "Markers"
+msgstr "Markery"
+
+msgid "Mask:"
+msgstr ""
+
+msgid "Match &case"
+msgstr "Uwzględnij &wielkość"
+
+msgid "Match &whole word"
+msgstr "&Tylko całe wyrazy"
+
+#, fuzzy
+msgid "Matching"
+msgstr "Ścieżka"
+
+msgid "Max"
+msgstr "Maks."
+
+msgid "Maximize application at startup"
+msgstr "Maksymalizuj program przy starcie"
+
+msgid "Maximum distance (bytes):"
+msgstr ""
+
+msgid "Maximum number of sessions:"
+msgstr "Maksymalna liczba sesji:"
+
+msgid "Maximum reconnections count:"
+msgstr "Maksymalna liczba ponowień połączenia:"
+
+msgid "Merge"
+msgstr "Połącz"
+
+msgid "Merge Files (*.ecms,*.ecmt)|*.ecms;*.ecmt"
+msgstr "Pliki łączenia (*.ecms,*.ecmt)|*.ecms;*.ecmt"
+
+msgid "Merge Status Files (*.ecms)|*.ecms"
+msgstr "Pliki statusów łączenia (*.ecms)|*.ecms"
+
+msgid "Merge Template Files (*.ecmt)|*.ecmt"
+msgstr "Pliki szablonów łączenia (*.ecmt)|*.ecmt"
+
+msgid "Merge result"
+msgstr "Wynik łączenia"
+
+msgid "Merge result locations"
+msgstr "Merge result locations"
+
+msgid "Merge result writes"
+msgstr "Merge result writes"
+
+msgid "Merged"
+msgstr "Połączono"
+
+msgid "Merging..."
+msgstr "Łączenie..."
+
+msgid "Message"
+msgstr "Komunikat"
+
+msgid "Metadata comparisons"
+msgstr "Porównywanie metadanych"
+
+msgid "Min"
+msgstr "Min."
+
+msgid "Miniatures"
+msgstr "Miniatury"
+
+msgid "Minimal match (bytes):"
+msgstr ""
+
+msgid "Minus sign"
+msgstr "Znak minusa"
+
+msgid "Mirror $0"
+msgstr ""
+
+msgid ""
+"Mirroring was setup for selected items. Do you want to act immediately?\n"
+msgstr ""
+
+msgid "Modified after"
+msgstr "Zmodyfikowany po"
+
+msgid "Modified before"
+msgstr "Zmodyfikowany przed"
+
+msgid "Monochrome stylesheet"
+msgstr "Monochromatyczny arkusz stylów"
+
+msgid "Monthly"
+msgstr "Miesięcznie"
+
+msgid "More Languages..."
+msgstr "Więcej języków..."
+
+msgid "Move &Down"
+msgstr "W &dół"
+
+msgid "Move &Up"
+msgstr "&W górę"
+
+msgid "Move image on screen"
+msgstr ""
+
+msgid "Moves the cursor to the next bookmark"
+msgstr "Przenosi kursor do następnej zakładki"
+
+msgid "Moves the cursor to the next conflict"
+msgstr "Przenosi kursor do następnego konfliktu"
+
+msgid "Moves the cursor to the next difference"
+msgstr "Przenosi kursor do następnej różnicy"
+
+msgid "Moves the cursor to the next unresolved conflict"
+msgstr "Przenosi kursor do następnego nierozwiązanego konfliktu"
+
+msgid "Moves the cursor to the previous bookmark"
+msgstr "Przenosi kursor do poprzedniej zakładki"
+
+msgid "Moves the cursor to the previous conflict"
+msgstr "Przenosi kursor do poprzedniego konfliktu"
+
+msgid "Moves the cursor to the previous difference"
+msgstr "Przenosi kursor do poprzedniej różnicy"
+
+msgid "Moves the cursor to the previous unresolved conflict"
+msgstr "Przenosi kursor do poprzedniego nierozwiązanego konfliktu"
+
+msgid "Multi panel sort"
+msgstr "Multi panel sort"
+
+msgid "Multiple difference"
+msgstr "Wiele różnic"
+
+msgid "N/A"
+msgstr "B/D"
+
+msgid ""
+"NB: default file types are per options set, to share those options import "
+"them from a file type with appropriate pattern"
+msgstr ""
+"NB: default file types are per options set, to share those options import "
+"them from a file type with appropriate pattern"
+
+msgid "NEWER SERIAL NUMBER REQUIRED TO RUN"
+msgstr "DO URUCHOMIENIA WYMAGANY JEST NOWSZY NUMER SERYJNY"
+
+msgid "Name"
+msgstr "Nazwa"
+
+msgid "Name filters options page"
+msgstr ""
+
+msgid "Name:"
+msgstr "Nazwa:"
+
+msgid "Named"
+msgstr "Nazwane"
+
+#, fuzzy
+msgid "Named Sessions"
+msgstr "Sesje"
+
+msgid "Named sessions are ECM? files that you save on disk by yourself."
+msgstr ""
+
+msgid "Nautilus (Gnome)"
+msgstr "Nautilus (Gnome)"
+
+msgid "Need 3-way merge"
+msgstr "Need 3-way merge"
+
+msgid "Need to merge left and right"
+msgstr "Need to merge left and right"
+
+msgid "Never"
+msgstr "Nigdy"
+
+msgid "New"
+msgstr "Nowy"
+
+#, fuzzy
+msgid "New &Binary Comparison"
+msgstr "Porównania binarne"
+
+msgid "New &Browser"
+msgstr "Nowa &przeglądarka"
+
+msgid "New &Comparison..."
+msgstr "&Nowe porównanie..."
+
+msgid "New &Image Comparison"
+msgstr "Nowe porównanie &obrazu"
+
+msgid "New &window"
+msgstr "Nowe &okno"
+
+#, fuzzy
+msgid "New Comparison"
+msgstr "&Nowe porównanie..."
+
+msgid "New F&older Comparison"
+msgstr "Nowe porównanie &folderu"
+
+#, fuzzy
+msgid "New Site..."
+msgstr "&Nowy..."
+
+msgid "New Text &File Comparison"
+msgstr "Nowe porównanie pliku &tekstowego"
+
+#, fuzzy
+msgid "New Workspace"
+msgstr "Obszary robocze"
+
+msgid "New document"
+msgstr "Nowy dokument"
+
+msgid "New documents"
+msgstr "Nowe dokumenty"
+
+msgid "New folder"
+msgstr "Nowy folder"
+
+#, fuzzy
+msgid "New session"
+msgstr "Sesje"
+
+msgid "New text file.txt"
+msgstr "nowy plik tekstowy file.txt"
+
+msgid "Next Bookmark"
+msgstr "Następna zakładka"
+
+msgid "Next Conflict"
+msgstr "Następny konflikt"
+
+#, fuzzy
+msgid "Next Difference Inside Line"
+msgstr "Następna różnica"
+
+msgid "Next Unresolved Conflict"
+msgstr "Następny nierozwiązany konflikt"
+
+msgid "Next conflict"
+msgstr "Następny konflikt"
+
+msgid "Next difference"
+msgstr "Następna różnica"
+
+msgid "Next unresolved conflict"
+msgstr "Następny nierozwiązany konflikt"
+
+msgid "No"
+msgstr "Nie"
+
+#, fuzzy
+msgid "No action"
+msgstr "Typ operacji:"
+
+msgid "No serial number registered.\n"
+msgstr "Brak zarejestrowanego numeru seryjnego.\n"
+
+msgid "Normal diff, without context"
+msgstr "Normal diff, without context"
+
+msgid "Normal viewing (1:1)"
+msgstr "Przeglądanie standardowe (1:1)"
+
+msgid "Not found"
+msgstr "Nie znaleziono"
+
+#, fuzzy
+msgid "Not matching"
+msgstr "Zgodne wiersze:"
+
+msgid "Not yet computed"
+msgstr "Jeszcze nie obliczono"
+
+msgid "Not yet determined"
+msgstr "Jeszcze nie określono"
+
+#, fuzzy
+msgid "Note"
+msgstr "Nie"
+
+msgid "Nothing to do."
+msgstr "Nie ma nic do wykonania."
+
+msgid ""
+"Now please review the changes in the Result bottom panel, \n"
+"then click the 'Write merge results' button to finalize your work or see the "
+"exact list of operations with the Test button\n"
+"You can change item per item which side to keep using the Resolve with Left/"
+"Right toolbar buttons"
+msgstr ""
+
+msgid "Number of comparison threads:"
+msgstr "Liczba wątków porównań:"
+
+msgid "Number of path steps to remove from source path start:"
+msgstr "Number of path steps to remove from source path start:"
+
+msgid ""
+"Number of threads to use for comparison (default is number of processors "
+"plus one)"
+msgstr ""
+"Liczba wątków porównań (domyślnie jest to liczba procesorów plus jeden)"
+
+msgid "O&pen Comparison..."
+msgstr "O&twórz porównanie..."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Offset $0/$1"
+msgstr ""
+
+msgid "Offset:"
+msgstr ""
+
+msgid "Offsets &base"
+msgstr ""
+
+msgid "Only for XML files"
+msgstr "Tylko dla plików XML"
+
+msgid "Only hide a file if it exists everywhere"
+msgstr "Only hide a file if it exists everywhere"
+
+msgid "Only if different pixels"
+msgstr "Only if different pixels"
+
+msgid "Only if not identical"
+msgstr "Tylko, jeżeli nie są identyczne"
+
+msgid "Only if sizes are equal"
+msgstr "Tylko, jeżeli rozmiary są równe"
+
+msgid "Open"
+msgstr "Otwórz"
+
+msgid "Open &again..."
+msgstr "Otwórz &ponownie..."
+
+msgid "Open &similar..."
+msgstr "Otwórz po&dobne..."
+
+#, fuzzy
+msgid "Open Conflict File..."
+msgstr "Otwórz konflikty"
+
+msgid "Open Conflicts"
+msgstr "Otwórz konflikty"
+
+msgid "Open Diff"
+msgstr "Open Diff"
+
+msgid "Open Diff As"
+msgstr "Open Diff As"
+
+msgid "Open Merge"
+msgstr "Open Merge"
+
+msgid "Open a in preview "
+msgstr "Otwórz w podglądzie "
+
+msgid "Open as comparaison"
+msgstr "Otwórz jako porównanie"
+
+msgid "Open files or directories for differentiation or merge"
+msgstr "Open files or directories for differentiation or merge"
+
+msgid "Open in external application"
+msgstr "Otwórz w zewnętrnej aplikacji"
+
+msgid "Open items separately"
+msgstr "Otwórz pozycje oddzielnie"
+
+msgid "Opening..."
+msgstr "Otwieranie..."
+
+msgid "Opens a Comparison Status file"
+msgstr "Otwiera status porównania pliku"
+
+msgid "Opens a browser"
+msgstr "Otwiera przeglądarkę"
+
+#, fuzzy
+msgid "Opens a new Binary Comparison"
+msgstr "Otwiera nowe porównanie obrazów"
+
+msgid "Opens a new Ellie Computing Merge application"
+msgstr "Opens a new Ellié Computing Merge application"
+
+msgid "Opens a new Image Comparison"
+msgstr "Otwiera nowe porównanie obrazów"
+
+msgid "Opens a new text file for editing or viewing"
+msgstr "Otwiera edycję lub przeglądanie nowego pliku tekstowego"
+
+msgid ""
+"Opens again current file, differentiation or merge, allowing to modify the "
+"paths and/or to revert to start situation"
+msgstr ""
+"Opens again current file, differentiation or merge, allowing to modify the "
+"paths and/or to revert to start situation"
+
+msgid "Opens an existing text file for editing or viewing"
+msgstr "Otwiera edycję lub przeglądanie istniejącego pliku tekstowego"
+
+msgid "Opens launcher and opens sites section"
+msgstr ""
+
+msgid "Opens the help section about macros and scripting"
+msgstr "Otwiera sekcję pomocy makr i skryptów"
+
+msgid "Opens the help topics"
+msgstr "Otwiera tematy pomocy"
+
+msgid "Opens the tutorial"
+msgstr "Otwiera samouczek"
+
+msgid "Opens two or three files for differentiation or merge"
+msgstr "Opens two or three files for differentiation or merge"
+
+msgid "Opens two or three folders for differentiation or merge"
+msgstr "Opens two or three folders for differentiation or merge"
+
+msgid "Opens two or three text files for differentiation or merge"
+msgstr "Opens two or three text files for differentiation or merge"
+
+msgid "Operation not available in this view."
+msgstr "Operacja nie jest dostępna w tym widoku."
+
+msgid "Operations on masked items"
+msgstr "Operations on masked items"
+
+msgid "Options"
+msgstr "Opcje"
+
+msgid "Options Handling"
+msgstr "Opcje obsługi"
+
+msgid "Options Set"
+msgstr "Zestaw opcji"
+
+msgid "Options Sets"
+msgstr "Zestawy opcji"
+
+msgid "Options sets"
+msgstr "Zestawy opcji"
+
+msgid "Original"
+msgstr "Oryginał"
+
+msgid "Other location"
+msgstr "Inna lokalizacja"
+
+msgid "Output extension:"
+msgstr "Rozszerzenie wyjściowe:"
+
+#, fuzzy
+msgid "Output file name"
+msgstr "Output lines"
+
+msgid "Output file name (without escaping)"
+msgstr ""
+
+msgid "Output folders not defined"
+msgstr "Nie zdefiniowano folderu wyjściowego"
+
+msgid "Output lines"
+msgstr "Output lines"
+
+msgid "Output places not yet defined"
+msgstr "Output places not yet defined"
+
+msgid "Outputs a folder"
+msgstr "Outputs a folder"
+
+msgid "Overwrite items hidden manually"
+msgstr "Overwrite items hidden manually"
+
+msgid "Overwrite resolved items"
+msgstr "Nadpisz rozwiązane pozycje"
+
+msgid "Overwrite written items"
+msgstr "Nadpisz zapisane pozycje"
+
+msgid "Overwriting files (no date available)"
+msgstr "Zastępowanie plików (brak dostępnej daty)"
+
+msgid "Overwriting files with same date"
+msgstr "Zastępowanie plików z tą samą datą"
+
+msgid "Overwriting newer files"
+msgstr "Zastępowanie nowszych plików"
+
+msgid "Overwriting older files"
+msgstr "Zastępowanie starszych plików"
+
+msgid "PATCH files (*.diff;*.patch)|*.diff;*.patch|All files"
+msgstr "Pliki PATCH (*.diff;*.patch)|*.diff;*.patch|Wszystkie pliki"
+
+msgid "Passive mode"
+msgstr "Tryb pasywny"
+
+msgid "Passphrase:"
+msgstr ""
+
+msgid "Password:"
+msgstr "Hasło:"
+
+msgid "Paste"
+msgstr "Wklej"
+
+msgid "Patch"
+msgstr "Ścieżka"
+
+msgid "Patch Encoding:"
+msgstr "Kodowanie patcha:"
+
+msgid "Patch file:"
+msgstr "Plik patcha:"
+
+msgid "Patching may remove target files:"
+msgstr "Patching may remove target files:"
+
+msgid "Path"
+msgstr "Ścieżka"
+
+msgid "Path:"
+msgstr "Ścieżka:"
+
+msgid "Patterns"
+msgstr "Schematy"
+
+msgid "Place a shortcut to ECMerge in $(HOME)/bin directory"
+msgstr ""
+
+msgid "Plain text file recognitions and conversions"
+msgstr "Plain text file recognitions and conversions"
+
+msgid "Please choose the options set:"
+msgstr "Wybierz zestaw opcji:"
+
+msgid "Please choose where to write the merge result before saving it."
+msgstr "Please choose where to write the merge result before saving it."
+
+msgid "Please click on Register to enter a final serial number\n"
+msgstr "Please click on Register to enter a final serial number\n"
+
+msgid ""
+"Please click on Register to enter a serial number corresponding to the "
+"current software version\n"
+msgstr ""
+"Kliknij Zarejestruj i wprowadź numer seryjny stosowny do bieżącej wersji "
+"programu\n"
+
+msgid "Please click on Register to enter your serial number\n"
+msgstr "Kliknij Zarejestruj, by wprowadzić numer seryjny\n"
+
+msgid "Please enter a new name for the options set:"
+msgstr "Wprowadź nową nazwę dla zestawu opcji:"
+
+msgid "Please enter a text for script"
+msgstr "Please enter a text for script"
+
+msgid ""
+"Please enter files dates to set for all files as 'modification[|creation[|"
+"access]]':\n"
+"(using a format such as YYYY/MM/DD HH:MM:SS[.mmmm])"
+msgstr ""
+
+msgid ""
+"Please enter the poduct key as stated\n"
+"in the Order information."
+msgstr ""
+"Please enter the poduct key as stated\n"
+"in the Order information."
+
+msgid "Please enter the position to reach (0-#0):"
+msgstr ""
+
+msgid "Please make a choice for script"
+msgstr "Please make a choice for script"
+
+msgid "Please specify a label for the file type"
+msgstr "Określ etykietę dla typu plików"
+
+#, fuzzy
+msgid ""
+"Please use --serial-number with a serial number corresponding to the current "
+"software version\n"
+msgstr "Wprowadź numer seryjny stosowny do bieżącej wersji programu\n"
+
+msgid "Please use only ASCII characters and valid C languages escapes"
+msgstr ""
+
+msgid "Plus sign"
+msgstr "Znak plusa"
+
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Portions to ignore inside lines"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Preferencje"
+
+msgid "Preset configurations:"
+msgstr "Preset configurations:"
+
+msgid "Pretty print at load time:"
+msgstr "Pretty print at load time:"
+
+msgid "Pretty-print XML..."
+msgstr "Pretty-print XML..."
+
+msgid "Prevents ECMerge from loading macros/*.js files at startup"
+msgstr ""
+
+msgid "Preview"
+msgstr "Podgląd"
+
+msgid "Preview report not supported in command line"
+msgstr "Podgląd raportu nie jest obsługiwany z wiersza poleceń"
+
+msgid "Preview:"
+msgstr "Podgląd:"
+
+msgid "Previous Bookmark"
+msgstr "Poprzednia zakładka"
+
+msgid "Previous Conflict"
+msgstr "Poprzedni konflikt"
+
+#, fuzzy
+msgid "Previous Difference Inside Line"
+msgstr "Poprzednia różnica"
+
+msgid "Previous Unresolved Conflict"
+msgstr "Poprzedni nierozwiązany konflikt"
+
+msgid "Previous conflict"
+msgstr "Poprzedni konflikt"
+
+msgid "Previous difference"
+msgstr "Poprzednia różnica"
+
+msgid "Previous unresolved conflict"
+msgstr "Poprzedni nierozwiązany konflikt"
+
+msgid "Print comparison details in XML/HTML format"
+msgstr "Drukuj szczegóły porównania w formacie XML/HTML"
+
+msgid "Print comparison statistics in XML/HTML format"
+msgstr "Drukuj statystyki porównania w formacie XML/HTML"
+
+#, fuzzy
+msgid "Private key file:"
+msgstr "Plik patcha:"
+
+#, fuzzy
+msgid "Problem description:"
+msgstr "Opis typu pliku"
+
+msgid "Product Key:"
+msgstr "Klucz produktu:"
+
+msgid "Professional Edition"
+msgstr "Professional Edition"
+
+msgid "Progression:"
+msgstr "Postęp:"
+
+msgid "Prompt"
+msgstr "Zapytaj"
+
+msgid "Prompt before checking for software updates"
+msgstr "Zapytaj przed sprawdzaniem aktualizacji"
+
+msgid "Properties..."
+msgstr "Właściwości..."
+
+msgid ""
+"Propose only choices ensuring safe re-loading given loading encoding options"
+msgstr ""
+"Propose only choices ensuring safe re-loading given loading encoding options"
+
+msgid "Protocol:"
+msgstr "Protokół:"
+
+msgid "Purchase a final licence for this software"
+msgstr "Purchase a final licence for this software"
+
+msgid "Put remaining rejected patch elements into clipboard"
+msgstr "Put remaining rejected patch elements into clipboard"
+
+#, fuzzy
+msgid "Question"
+msgstr "usuwanie"
+
+#, fuzzy
+msgid "Quick edit name filters"
+msgstr "Filtry nazwy pliku"
+
+msgid "R&ename..."
+msgstr "&Zmień nazwę..."
+
+msgid "R&eplace..."
+msgstr "&Zastąp..."
+
+msgid "REVERTING TO TIME LIMITED FULL TRIAL"
+msgstr ""
+
+msgid "Ramp"
+msgstr "Ramp"
+
+msgid "Recent:"
+msgstr "Ostatnie:"
+
+msgid "Rectangle"
+msgstr "Rectangle"
+
+msgid "Recursive only for folders matching:"
+msgstr "Recursive only for folders matching:"
+
+msgid "Redo"
+msgstr "Powtórz"
+
+msgid "Redoes the previously undone action"
+msgstr "Powtarza poprzednio anulowane działanie"
+
+msgid "Reformat:"
+msgstr "Przeformatuj:"
+
+msgid "Refresh"
+msgstr "Odśwież"
+
+#, fuzzy
+msgid "Refreshes the current comparison when files changed"
+msgstr "Odświeża bieżące porównanie"
+
+msgid "Refreshing..."
+msgstr "Trwa odświeżanie..."
+
+msgid "Register"
+msgstr "Zarejestruj"
+
+msgid "Register this program"
+msgstr "Zarejestruj program"
+
+msgid "Regular expression"
+msgstr "Wyrażenia regularne"
+
+msgid "Regular expression searched one or more times in each line"
+msgstr ""
+
+msgid "Rejected patch elements"
+msgstr "Rejected patch elements"
+
+msgid ""
+"Rejections descriptions\n"
+"\n"
+"(conflicts and hand typed portions in their context)\n"
+msgstr ""
+"Rejections descriptions\n"
+"\n"
+"(conflicts and hand typed portions in their context)\n"
+
+msgid "Relax this rule for text files (hidden)"
+msgstr "Relax this rule for text files (hidden)"
+
+msgid "Reload"
+msgstr "Otwórz ponownie"
+
+msgid "Remaining actions"
+msgstr "Remaining actions"
+
+msgid "Remaining time:"
+msgstr "Remaining time:"
+
+msgid "Remember tags left untouched for compaction"
+msgstr "Remember tags left untouched for compaction"
+
+msgid "Remo&ve"
+msgstr "&Usuń"
+
+msgid "Removal"
+msgstr "Removal"
+
+msgid "Remove orphans"
+msgstr ""
+
+msgid "Remove this item from result"
+msgstr "Usuń tą pozycję z wyników"
+
+#, c-format
+msgid "Removing %s"
+msgstr "Usuwanie %s"
+
+msgid "Rename"
+msgstr "Zmień nazwę"
+
+msgid ""
+"Reorders all sources but ancestors, using most recent as left (currently "
+"ignored)"
+msgstr ""
+
+msgid ""
+"Reorders all sources, using most ancient as ancestor if any then most recent "
+"as left (currently ignored)"
+msgstr ""
+
+msgid "Replace"
+msgstr "Zamiana"
+
+msgid "Replace &All"
+msgstr "Z&astąp wszystko"
+
+msgid "Replace..."
+msgstr "Zastąp..."
+
+msgid "Replace:   "
+msgstr "Zastąp:   "
+
+msgid "Replaces specific text with different text"
+msgstr "Zastępuje określony tekst innym tekstem"
+
+msgid "Replaces the selection with the content of the Clipboard"
+msgstr "Zastępuje wybór zawartością schowka"
+
+msgid "Report Options"
+msgstr "Opcje raportu"
+
+msgid "Report generations"
+msgstr "Report generations"
+
+msgid "Report title:"
+msgstr "Tytuł raportu:"
+
+msgid "Reports"
+msgstr "Raporty"
+
+#, fuzzy
+msgid "Reports display options..."
+msgstr "Opcje raportu"
+
+msgid "Repository/Path:"
+msgstr "Repozytorium/Ścieżka:"
+
+msgid "Reset toolbars"
+msgstr "Domyślne ustawienia pasków narzędzi"
+
+msgid "Reset written state"
+msgstr "Reset written state"
+
+#, fuzzy
+msgid "Resolve All with Left"
+msgstr "Rozwiązuj z lewym"
+
+#, fuzzy
+msgid "Resolve All with ancestor"
+msgstr "Rozwiązuj z ancestorem"
+
+#, fuzzy
+msgid "Resolve All with right"
+msgstr "Rozwiązuj z prawym"
+
+msgid "Resolve in-line (favour left)"
+msgstr "Resolve in-line (favour left)"
+
+msgid "Resolve in-line (favour right)"
+msgstr "Resolve in-line (favour right)"
+
+#, fuzzy
+msgid "Resolve in-line (left then right)"
+msgstr "Rozwiązuj z lewym, a potem z prawym"
+
+#, fuzzy
+msgid "Resolve in-line (right then left)"
+msgstr "Rozwiązuj z prawym, a potem z lewym"
+
+msgid "Resolve with ancestor"
+msgstr "Rozwiązuj z ancestorem"
+
+msgid "Resolve with left"
+msgstr "Rozwiązuj z lewym"
+
+msgid "Resolve with left and right in-line"
+msgstr "Resolve with left and right in-line"
+
+msgid "Resolve with left then right"
+msgstr "Rozwiązuj z lewym, a potem z prawym"
+
+msgid "Resolve with right"
+msgstr "Rozwiązuj z prawym"
+
+msgid "Resolve with right then left"
+msgstr "Rozwiązuj z prawym, a potem z lewym"
+
+msgid "Resolves the currently selected conflicts with ancestor"
+msgstr "Rozwiązuje bieżąco wybrane konflikty z ancestorem"
+
+msgid "Resolves the currently selected conflicts with left"
+msgstr "Rozwiązuje bieżąco wybrane konflikty z lewym"
+
+msgid "Resolves the currently selected conflicts with left then right"
+msgstr "Rozwiązuje bieżąco wybrane konflikty z lewym, a potem z prawym"
+
+msgid "Resolves the currently selected conflicts with right"
+msgstr "Rozwiązuje bieżąco wybrane konflikty z prawym"
+
+msgid "Resolves the currently selected conflicts with right then left"
+msgstr "Rozwiązuje bieżąco wybrane konflikty z prawym, a potem z lewym"
+
+msgid "Respect aspect ratio"
+msgstr "Zachowuj proporcje"
+
+msgid "Result"
+msgstr "Wynik"
+
+msgid "Result:"
+msgstr "Wynik:"
+
+msgid ""
+"Reuses the current paths to open another document, differentiation or merge"
+msgstr ""
+"Reuses the current paths to open another document, differentiation or merge"
+
+msgid "Reversed:"
+msgstr "Reversed:"
+
+msgid "Review connection log"
+msgstr ""
+
+msgid "Revision:"
+msgstr "Revision:"
+
+msgid "Right"
+msgstr "Prawy"
+
+msgid "Right location:"
+msgstr "Prawa lokalizacja:"
+
+#, fuzzy
+msgid "Right version"
+msgstr "zachowaj prawą wersję"
+
+msgid "Right:"
+msgstr "Prawy:"
+
+msgid "Role"
+msgstr ""
+
+msgid "Role:"
+msgstr ""
+
+msgid "Roles of fields to ignore:"
+msgstr ""
+
+msgid "Rounded rectangle"
+msgstr "Zaokrąglony prostokąt"
+
+msgid "Rules to deduce encoding of written files"
+msgstr "Rules to deduce encoding of written files"
+
+msgid "Running"
+msgstr ""
+
+msgid "SCC Mapping"
+msgstr "SCC Mapping"
+
+msgid "SCC Tool"
+msgstr "SCC Tool"
+
+msgid "SCC:"
+msgstr "SCC:"
+
+msgid "SERIAL NUMBER NEEDED TO RUN"
+msgstr "DO URUCHOMIENIA WYMAGANY JEST NUMER SERYJNY"
+
+msgid "Sample"
+msgstr "Przykład"
+
+msgid "Sample:"
+msgstr "Przykład:"
+
+msgid "Save"
+msgstr "Zapisz"
+
+#, c-format
+msgid "Save %s"
+msgstr "Zapisz %s"
+
+msgid "Save &comparison"
+msgstr "Zapisz &porównanie"
+
+msgid "Save A&ll"
+msgstr "Zapisz &wszystko"
+
+msgid "Save Password"
+msgstr "Zapisz hasło"
+
+#, fuzzy
+msgid "Save Session As..."
+msgstr "Sesje"
+
+msgid "Save as &folder item result"
+msgstr "Save as &folder item result"
+
+msgid "Save co&mparison as..."
+msgstr "Zapisz p&orównanie jako..."
+
+msgid "Save comparison status..."
+msgstr "Zapisz status porównania..."
+
+msgid "Save comparison template..."
+msgstr "Zapisz szablon porównania..."
+
+msgid "Save comparison..."
+msgstr "Zapisz porównanie..."
+
+msgid "Save result &as..."
+msgstr "Zapisz wynik &jako..."
+
+msgid "Save, solve conflict and close"
+msgstr "Zapisz, rozwiąż konflikt i zamknij"
+
+msgid "Saves all documents"
+msgstr "Zapisuje wszystkie dokumenty"
+
+msgid "Saves as folder item result, solving the item conflict"
+msgstr "Saves as folder item result, solving the item conflict"
+
+msgid "Saves the comparison to a file"
+msgstr "Zapisuje porównanie do pliku"
+
+msgid "Saves the comparison to a new file"
+msgstr "Zapisuje porównanie do nowego pliku"
+
+msgid "Saves the current merge, solves the conflict and closes the document"
+msgstr "Zapisuje bieżące łączenie, rozwiązuje konflikt i zamyka dokument"
+
+msgid "Saves the result"
+msgstr "Zapisuje wynik"
+
+msgid "Saves the result with a new name"
+msgstr "Zapisuje wynik pod nowa nazwą"
+
+msgid "Saving binary document as Status or Template is not supported"
+msgstr ""
+"Zapisywanie dokumentu binarnego jako status lub szablon nie jest obsługiwane"
+
+msgid "Scale"
+msgstr "Skala"
+
+#, fuzzy
+msgid "Scan for files updates"
+msgstr "Dokładne daty plików"
+
+msgid "Scan sub-folders"
+msgstr "Skanuj podfoldery"
+
+msgid "Scan sub-folders at start"
+msgstr "Skanuj podfoldery przy starcie"
+
+msgid "Scheme:"
+msgstr "Schemat:"
+
+msgid "Scope"
+msgstr "Zakres"
+
+msgid ""
+"Scope of the report, one from: all or bookmarks. Used in folder comparison "
+"reports only."
+msgstr ""
+"Scope of the report, one from: all or bookmarks. Used in folder comparison "
+"reports only."
+
+msgid "Script Message"
+msgstr "Script Message"
+
+msgid "Script:"
+msgstr "Skrypt:"
+
+msgid "Search"
+msgstr "Wyszukaj"
+
+msgid "Search up"
+msgstr "Wyszukuj w &górę"
+
+msgid "Search: passed end of document"
+msgstr ""
+
+msgid "Search: reached the starting point of the search"
+msgstr ""
+
+msgid "Searching..."
+msgstr "Wyszukiwanie..."
+
+msgid "Secure Shell (SSH)"
+msgstr ""
+
+msgid "Security distance:"
+msgstr "Dystans bezpieczeństwa:"
+
+msgid "Select"
+msgstr "Wybierz"
+
+msgid "Select &All"
+msgstr "&Zaznacz wszystko"
+
+msgid "Select Bookmarked Items"
+msgstr "Wybierz pozycje z zakładkami"
+
+msgid "Select File Type"
+msgstr "Wybierz typ pliku"
+
+msgid "Select as Ancestor"
+msgstr "Wybierz jako ancestor"
+
+msgid "Select as result location"
+msgstr "Wybierz lokalizacje wyniku"
+
+msgid "Select date and time from calendar:"
+msgstr "Wybierz datę i czas z kalendarza:"
+
+msgid "Select font:"
+msgstr "Wybierz czcionkę:"
+
+msgid "Select for Comparison"
+msgstr "Wybierz porównanie"
+
+msgid "Select output"
+msgstr "Wybierz wyjście"
+
+msgid "Select the software update checking periodicity:"
+msgstr "Wybierz okres czasu sprawdzania aktualizacji programu:"
+
+msgid "Selection"
+msgstr "Zaznaczenie"
+
+msgid "Selection only"
+msgstr "Tylko zaznaczenie"
+
+msgid "Selects all the bookmarked items in the current document"
+msgstr "Wybierz w bieżącym dokumencie wszystkie pozycje z zakładkami"
+
+msgid "Selects all the current view content"
+msgstr "Zaznacza całą zawartość bieżącego widoku"
+
+msgid "Serial number to use for this execution"
+msgstr "Serial number to use for this execution"
+
+msgid "Server:"
+msgstr "Serwer:"
+
+msgid "Session with key '$0' was already recycled"
+msgstr "Session with key '$0' was already recycled"
+
+msgid "Sessions"
+msgstr "Sesje"
+
+msgid "Set &text output options..."
+msgstr "Set &text output options..."
+
+msgid "Set Favourite Languages"
+msgstr "Ustaw ulubione języki"
+
+msgid "Set as &default"
+msgstr "Us&taw jako domyślny"
+
+msgid "Set as default"
+msgstr "Ustaw jako domyślny"
+
+#, fuzzy
+msgid "Set dates"
+msgstr "Aktualizacje"
+
+msgid "Shape..."
+msgstr "Kształt..."
+
+msgid "Shell Extension Installation"
+msgstr ""
+
+msgid "Short arrow"
+msgstr "Krótka strzałka"
+
+msgid "Show"
+msgstr "Pokaż"
+
+#, fuzzy
+msgid "Show all"
+msgstr "Pokaż"
+
+msgid "Show date text"
+msgstr "Pokaż datę tekstu"
+
+msgid "Show difference image:"
+msgstr "Show difference image:"
+
+msgid "Show hidden items"
+msgstr "Pokaz ukryte pozycje"
+
+msgid "Show number of skipped lines"
+msgstr "Pokaż liczbę pominiętych wierszy"
+
+msgid "Show oldest/newest icon"
+msgstr "Show oldest/newest icon"
+
+msgid "Show original images:"
+msgstr "Pokaż oryginalne obrazy:"
+
+msgid "Show tips at startup"
+msgstr "Pokazuj porady przy starcie"
+
+msgid "Show/Hide ancestor for diff/merge"
+msgstr "Show/Hide ancestor for diff/merge"
+
+#, fuzzy
+msgid "Show/Hide hidden items"
+msgstr "Pokaz ukryte pozycje"
+
+msgid "Show/Hide launcher"
+msgstr "Pokaż/Ukryj eksplorator"
+
+msgid "Show/Hide log view"
+msgstr "Pokaż/Ukryj widok logu"
+
+msgid "Shows files types panel of Preferences"
+msgstr ""
+
+msgid "Shows hidden items"
+msgstr "Pokazuje ukryte pozycje"
+
+msgid "Shows or hides toolbars"
+msgstr "Pokazuje lub ukrywa paski narzędzi"
+
+msgid "Shows the statistics for the current comparison"
+msgstr "Pokazuje statystyki bieżącego porównania"
+
+msgid "Shows/hides ancestor for diff/merge"
+msgstr "Shows/hides ancestor for diff/merge"
+
+#, fuzzy
+msgid "Signature"
+msgstr "Miniatury"
+
+#, fuzzy
+msgid "Signature:"
+msgstr "Miniatury"
+
+msgid ""
+"Silent if possible, for merges, show interface only if a conflict is "
+"detected, if merged OK, exit code 0, other codes are errors"
+msgstr ""
+"Silent if possible, for merges, show interface only if a conflict is "
+"detected, if merged OK, exit code 0, other codes are errors"
+
+msgid ""
+"Silent, for merges only, if a conflict is detected, returns exit code 1, if "
+"merged OK, exit code 0, other codes are errors"
+msgstr ""
+"Silent, for merges only, if a conflict is detected, returns exit code 1, if "
+"merged OK, exit code 0, other codes are errors"
+
+msgid "Similar"
+msgstr "Podobny"
+
+#, fuzzy
+msgid "Site"
+msgstr "Rozmiar:"
+
+#, fuzzy
+msgid "Site name:"
+msgstr "Nazwa pliku:"
+
+msgid "Sites"
+msgstr ""
+
+msgid "Size:"
+msgstr "Rozmiar:"
+
+#, fuzzy
+msgid "Small"
+msgstr "Pokaż"
+
+msgid "Smart Import"
+msgstr "Smart Import"
+
+#, fuzzy
+msgid "Software Updates"
+msgstr "Aktualizacje"
+
+msgid "Solve by merging files"
+msgstr "Solve by merging files"
+
+msgid "Solve conflicts with typical rules"
+msgstr "Solve conflicts with typical rules"
+
+msgid "Solves conflicts for selected items with typical rules"
+msgstr "Solves conflicts for selected items with typical rules"
+
+msgid "Solves selected items by merging files"
+msgstr "Rozwiązuje wybrane pozycje przez łączenie plików"
+
+msgid ""
+"Some conflicts were already resolved, all of them will be reset, do you want "
+"to continue?"
+msgstr ""
+"Some conflicts were already resolved, all of them will be reset, do you want "
+"to continue?"
+
+msgid "Some conflicts were already resolved, do you want to overwrite them?"
+msgstr "Some conflicts were already resolved, do you want to overwrite them?"
+
+msgid ""
+"Some conflicts were not resolved. Do you want to save conflicts with all "
+"sides included or skip?"
+msgstr ""
+"Niektóre konflikty zostały już rozwiązane. Czy chcesz zapisać konflikty z "
+"dołączonymi wszystkimi stronami lub pominąć to?"
+
+msgid ""
+"Some items were already resolved.\n"
+"Do you want to change their resolution action? or do you want to skip them?"
+msgstr ""
+"Niektóre pozycje zostały już rozwiązane.\n"
+"Czy chcesz zmienić operację rozwiązania lub pominąć to?"
+
+msgid ""
+"Some items were already written. Resetting their resolution action may "
+"produce unexpected results.\n"
+"Do you want to change their resolution action? or do you want to skip them?"
+msgstr ""
+
+msgid ""
+"Some work has already been realized in following documents and you are "
+"changing the differentiation options.\n"
+"Do you want to continue and loose current work?\n"
+"$0"
+msgstr ""
+
+msgid "Source Code Controls Mappings"
+msgstr ""
+
+msgid "Source Code Controls Tools"
+msgstr ""
+
+msgid "Source file should use this as the preferred encoding"
+msgstr ""
+
+msgid "Source file should use this title"
+msgstr ""
+
+msgid "Source side:"
+msgstr "Strona źródła:"
+
+msgid "Source:"
+msgstr "Źródło:"
+
+msgid ""
+"Specifies a script text to evaluate (after --script was loaded and executed, "
+"if any)"
+msgstr ""
+
+msgid ""
+"Specifies a script text to evaluate (just after --pdl-script was loaded and "
+"executed, if any)"
+msgstr ""
+
+msgid "Specify applications to be used for file preprocessing:"
+msgstr ""
+
+msgid "Specify which diff algorithm to use for each file pattern:"
+msgstr ""
+
+msgid "Specify which fields in the file may be ignored:"
+msgstr ""
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Standard Edition"
+msgstr "Standard Edition"
+
+msgid ""
+"Start mode, one from: edit, view, diff2, diff3, merge2 or merge3. Note that "
+"edit and view modes are not allowed in pure command line application."
+msgstr ""
+
+msgid "Start new comparisons in merge mode"
+msgstr ""
+
+msgid "Start offset"
+msgstr ""
+
+#, fuzzy
+msgid "Start:"
+msgstr "element docelowy"
+
+#, fuzzy
+msgid "Static Field"
+msgstr "Filtry statusu pliku"
+
+#, fuzzy
+msgid "Status Filters"
+msgstr "Filtry statusu pliku"
+
+msgid "Status filters options page"
+msgstr ""
+
+msgid "Status of submission-------------------------------------"
+msgstr ""
+
+msgid "Status: solved with $0 and $1, with $2 lines, modified by hand: $3\n"
+msgstr ""
+
+msgid "Status: solved with $0, with $2 lines, modified by hand: $3\n"
+msgstr ""
+
+msgid "Status: solved, with $2 lines, modified by hand: $3\n"
+msgstr ""
+
+msgid "Status: unresolved\n"
+msgstr "Status: nierozwiązany\n"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Store rejections for each file aside:"
+msgstr ""
+
+msgid "Stretch smallest image to match the largest size"
+msgstr ""
+
+msgid "Stretch to Match"
+msgstr ""
+
+msgid "Stretch to Match Height"
+msgstr "Rozciągnij do zgodnej wysokości"
+
+msgid "Stretch to Match Width"
+msgstr "Rozciągnij do zgodnej szerokości"
+
+msgid "Study character level differences"
+msgstr "Analizuj różnice na poziomie znaków"
+
+msgid "Study word level differences"
+msgstr "Analizuj różnice na poziomie wyrazów"
+
+msgid "Subject:"
+msgstr ""
+
+msgid "Submit a problem..."
+msgstr ""
+
+msgid "Summary of the remain: "
+msgstr ""
+
+msgid "Surround changes:"
+msgstr ""
+
+msgid "Swap Sources"
+msgstr "Zamiana źródeł"
+
+msgid "Swap ancestor and right sources"
+msgstr "Zamień ancestora i prawe źródło"
+
+msgid "Swap beetwen 2-way and 3-way Comparisons"
+msgstr "Przełącz pomiędzy 2-drożnym i 3-drożnym porównaniem"
+
+msgid "Swap between diff/merge modes"
+msgstr ""
+
+msgid "Swap between view/edit modes"
+msgstr "Przełącz pomiędzy trybem przeglądu/edycji"
+
+msgid "Swap left and ancestor sources"
+msgstr "Zamień ancestora i lewe źródło"
+
+msgid "Swap left and right sources"
+msgstr "Zamień prawe i lewe źródło"
+
+msgid "Swaps ancestor and right sources"
+msgstr "Zamienia ancestora i prawe źródło"
+
+#, fuzzy
+msgid ""
+"Swaps beetwen 2-way and 3-way Comparisons or turns a single sided document "
+"into a comparison"
+msgstr "Przełącza pomiędzy 2-drożnym i 3-drożnym porównaniem"
+
+msgid "Swaps between diff/merge modes"
+msgstr ""
+
+msgid "Swaps left and ancestor sources"
+msgstr "Zamienia ancestora i lewe źródło"
+
+msgid "Swaps left and right sources"
+msgstr "Zamienia prawe i lewe źródło"
+
+msgid "Swaps the comparison view horizontally/vertically"
+msgstr "Zmienia układ widoku na poziomy lub pionowy"
+
+msgid "Synchronize left to right"
+msgstr ""
+
+msgid "Synchronize lines selection (hidden)"
+msgstr ""
+
+msgid "Synchronize right to left"
+msgstr ""
+
+msgid "System default language"
+msgstr "Domyślny język systemu"
+
+msgid "TIME LIMITED FULL TRIAL"
+msgstr ""
+
+msgid "TRIAL VERSION"
+msgstr "WERSJA PRÓBNA"
+
+msgid "TRIAL VERSION EXPIRED"
+msgstr "WERSJA PRÓBNA WYGASŁA"
+
+msgid "Tabs"
+msgstr "Karty"
+
+msgid "Tags Found at loading time:"
+msgstr ""
+
+msgid "Tags with no spaces"
+msgstr "Znaczniki bez spacji"
+
+msgid "Take ignored changes text from:"
+msgstr ""
+
+msgid "Take settings from:"
+msgstr "Pobierz ustawienia z:"
+
+msgid ""
+"Takes options from default options set. If no options set is selected (--"
+"default, --factory, --options-set or --doc-settings), default options set "
+"will be used."
+msgstr ""
+
+msgid ""
+"Takes options from factory settings, else default options set is used for "
+"command line comparison."
+msgstr ""
+
+msgid ""
+"Takes options from named options set, else default options set is used for "
+"command line comparison."
+msgstr ""
+
+msgid "Target file should use this as the preferred encoding"
+msgstr ""
+
+msgid "Target file should use this title"
+msgstr ""
+
+msgid "Target side:"
+msgstr "Strona docelowa:"
+
+msgid "Target:"
+msgstr "Docelowy:"
+
+msgid "Temporary copy"
+msgstr ""
+
+msgid "Test Wizard..."
+msgstr ""
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Text Comparisons"
+msgstr "Porównywanie tekstu"
+
+msgid "Text Document"
+msgstr "Dokument tekstowy"
+
+msgid "Text Editor"
+msgstr "Edytor tekstu"
+
+msgid "Text File"
+msgstr "Plik tekstowy"
+
+msgid "Text Files Comparison Options"
+msgstr "Opcje porównywania plików tekstowych"
+
+msgid "Text conversions"
+msgstr "Konwersje tekstu"
+
+#, c-format
+msgid "Text converting copy from %s to %s"
+msgstr ""
+
+#, fuzzy
+msgid "Text document"
+msgstr "Dokument tekstowy"
+
+msgid ""
+"Text documents can compare text-based files (plain text, Microsoft Office\n"
+"or OpenOffice documents, any kind of file that can be converted into plain "
+"text)."
+msgstr ""
+
+msgid "Text files"
+msgstr "Pliki tekstowe"
+
+msgid "Text input options"
+msgstr ""
+
+msgid "Text output options"
+msgstr ""
+
+#, fuzzy
+msgid "Text to Ignore"
+msgstr "Ignorowane wiersze"
+
+msgid ""
+"Text to Ignore is used only when the option \"\"Ignore text defined in file "
+"type \"Text to Ignore\" panel\"\"\n"
+" is checked in Text Comparison options panel."
+msgstr ""
+
+msgid "Thank you for registering $0."
+msgstr "Dziękujemy za zarejestrowanie $0."
+
+msgid "Thank you for using $0."
+msgstr "Dziękujemy za używanie $0."
+
+msgid ""
+"The ECMerge \"all platforms\" bundle automatically gives you access to newly "
+"supported platforms."
+msgstr ""
+
+msgid ""
+"The Launcher helps you manage your comparisons. It saves automatically all "
+"your comparison sessions, let you manage FTP/S and SCC sites, workspaces, "
+"named sessions..."
+msgstr ""
+
+msgid "The action had no effect on the rules set for the selected items"
+msgstr ""
+
+msgid ""
+"The change of options set for current session to '$0' causes loss of "
+"modifications,\n"
+" do you want to replace the session settings or keep them?\n"
+"$1"
+msgstr ""
+
+msgid ""
+"The change to the user interface language option will take effect when you "
+"next start Ellié Computing Merge."
+msgstr ""
+"Zmiana języku interfejsu przyniesie efekt przy następnym uruchomieniu Ellié "
+"Computing Merge."
+
+#, fuzzy
+msgid ""
+"The content of this view could not be loaded because of following error:\n"
+"$0"
+msgstr ""
+"Zawartość tego widoku nie może zostać załadowana, ponieważ wystąpił "
+"następujący błąd:\n"
+"$0"
+
+msgid "The document was not recognized"
+msgstr "Dokument nie został rozpoznany"
+
+msgid "The documents are different"
+msgstr "Dokumenty są różne"
+
+msgid "The documents are identical"
+msgstr "Dokumenty są identyczne"
+
+msgid ""
+"The error $1 happened during the treatment of item $0.\n"
+"Do you want to retry, skip the item or cancel?"
+msgstr ""
+
+msgid ""
+"The file was truncated because you are using the evaluation version of Ellie "
+"Computing Merge"
+msgstr ""
+"Plik został przycięty, ponieważ używasz wersji próbnej Ellié Computing Merge"
+
+#, fuzzy
+msgid ""
+"The following information will be lost:\n"
+"$0"
+msgstr ""
+"Została utracona następująca informacja:\n"
+"$0"
+
+msgid ""
+"The item $0 could not be unprotected because of the error $1 of class '$2'.\n"
+"Do you want to retry to unprotect it or skip it?"
+msgstr ""
+
+msgid ""
+"The item $0 could not be unprotected because of the error $1 of class '$2'.\n"
+"Do you want to retry to unprotect it?"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The item $0 is not yet resolved.\n"
+"Do you want to stop or skip it?"
+msgstr ""
+"Pozycja $0 nie została jeszcze rozwiązana.\n"
+"Czy chcesz zatrzymać lub pominąć pozycję?"
+
+#, fuzzy
+msgid ""
+"The item $0 is write protected.\n"
+"Do you want to unprotect it or skip it?"
+msgstr ""
+"Pozycja $0 jest chroniona przed zapisem.\n"
+"Czy chcesz to zmienić lub pominąć pozycję?"
+
+msgid ""
+"The item $0 is write protected.\n"
+"Do you want to unprotect it?"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The item $0 will be overwriten, its previous content will be lost.\n"
+"Do you want to continue or skip it?"
+msgstr ""
+"Pozycja $0 zostanie nadpisana, a poprzednia zawartość zostanie utracona.\n"
+"Czy chcesz kontynuować lub pominąć to?"
+
+msgid ""
+"The item $0 will be overwriten, its previous content will be lost.\n"
+"Do you want to continue?"
+msgstr ""
+
+msgid "The option set marked as 'Edited' here is edited in the sub-panels."
+msgstr ""
+
+msgid "The path $0 does not point to a folder"
+msgstr "Ścieżka $0 nie jest ścieżką folderu"
+
+msgid ""
+"The reference copy of options set '$0' changed in the application since the "
+"session was last activated,\n"
+" do you want to replace the session settings or keep them?\n"
+"$1"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The server did not accept current authentication information, please enter "
+"new information below:"
+msgstr ""
+"Serwer nie zaakceptował bieżącej nazwy użytkownika lub hasła\n"
+"Wprowadź poniżej nowe dane:"
+
+msgid ""
+"The source files for loaded comparisons changed.\n"
+"Do you want to reload saved modifications using partial matching and "
+"displacement or discard them?"
+msgstr ""
+
+msgid ""
+"The source files for loaded comparisons changed. Some of the saved "
+"modifications could not be restored.\n"
+"Do you want to copy saved information into the clipboard?"
+msgstr ""
+
+msgid ""
+"The volume for this path does not exist, cannot create directories under it"
+msgstr ""
+
+msgid "There are no configurable options for this report type."
+msgstr ""
+
+msgid ""
+"There is already some work in progress, it will be lost. Do you want to "
+"continue?"
+msgstr ""
+
+msgid "This background colour is also used to highlight conflicts."
+msgstr "Ten kolor tła będzie także używany do wyróżnienia konfliktów."
+
+msgid ""
+"This document is used to solve conflicts in a folder. You cannot save the "
+"merge result elsewhere without breaking the link to the folder.\n"
+"Do you want to disconnect the output settings of this document from the "
+"folder's?"
+msgstr ""
+
+msgid "This expression is matched against each line individually"
+msgstr ""
+
+msgid ""
+"This expression is searched throughout the entire file, ignoring line ends, "
+"then lines entirely covered are ignored"
+msgstr ""
+
+msgid ""
+"This file is not surrounded by well-named files for $0.\n"
+"It does not contain textual conflict markers.\n"
+"ECMerge currently support markers for: $1."
+msgstr ""
+
+msgid "This name is already used for another options set."
+msgstr "Ta nazwa została już uzyta dla innego zestawu opcji."
+
+#, fuzzy
+msgid "This system does not support listing folders"
+msgstr "Ścieżka $0 nie jest ścieżką folderu"
+
+msgid ""
+"This view is empty, please use the combo field or the drop-down menu to "
+"select a source.\n"
+"You can also paste or drop data on this pane."
+msgstr ""
+
+msgid "This view is empty."
+msgstr ""
+
+msgid "Three-way Comparison"
+msgstr "Porównanie trzy-drożne"
+
+msgid "Three-way comparison"
+msgstr "Porównanie trzy-drożne"
+
+msgid "Thresholds"
+msgstr "Progi"
+
+msgid "Thunar (Xfce)"
+msgstr ""
+
+msgid "Time zones"
+msgstr "Strefy czasowe"
+
+msgid "Timestamp comparison"
+msgstr "Porównanie sygnatury czasu"
+
+msgid "Timestamp difference"
+msgstr "Różnica sygnatury czasu"
+
+msgid "Title"
+msgstr "Tytuł"
+
+msgid "Title for the result file"
+msgstr "Nazwa dla pliku wyników"
+
+msgid "Title of the report."
+msgstr "Tytuł raportu."
+
+msgid "To &File type..."
+msgstr ""
+
+msgid "To &Options set..."
+msgstr "Do &zestawu opcji..."
+
+msgid "Today"
+msgstr "Dzisiaj"
+
+msgid "Toggle Bookmark"
+msgstr "Dodaj/usuń zakładkę"
+
+msgid "Toggles a bookmark on/off for the current line"
+msgstr "Dodaje/usuwa zakładkę dla bieżącego wiersza"
+
+msgid "Toolbar icon size:"
+msgstr ""
+
+msgid "Top"
+msgstr "Na początek"
+
+msgid "Touch"
+msgstr ""
+
+msgid "Treat blank lines as empty lines"
+msgstr ""
+"Potraktuj wiersze zawierające tylko niewidoczne znaki jako puste wiersze"
+
+msgid "Triggers debugger just after launch"
+msgstr ""
+
+msgid "Try recursive listing"
+msgstr ""
+
+msgid "Try to resynchronize after a change"
+msgstr ""
+
+#, fuzzy
+msgid "Turn into Comparison"
+msgstr "Porównywanie tekstu"
+
+#, fuzzy
+msgid "Turn options for fast comparison"
+msgstr "Otwórz jako porównanie"
+
+msgid "Turn options for thorough comparison"
+msgstr ""
+
+msgid "Type of action:"
+msgstr "Typ operacji:"
+
+msgid "Type of comparison:"
+msgstr "Typ porównania:"
+
+msgid "Type of view to use, one of: texts,images,binaries,folders"
+msgstr ""
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "Un-ignore #0 like #1"
+msgstr ""
+
+msgid "Un-include only #0 like #1"
+msgstr ""
+
+msgid "Unchanged"
+msgstr "Niezmieniony"
+
+msgid "Unchanged lines"
+msgstr "Niezmienione wiersze"
+
+msgid "Undo"
+msgstr "Cofnij"
+
+msgid "Undoes the last action"
+msgstr "Wycofuje ostatnie działanie"
+
+msgid "Unified diff with 3 lines of context"
+msgstr ""
+
+msgid "Unified diff, with specified number of unified context lines"
+msgstr ""
+
+msgid "Unix Patch"
+msgstr "Unix Patch"
+
+msgid "Unknown type"
+msgstr "Nieznany typ"
+
+#, fuzzy
+msgid "Unlocking"
+msgstr "Odblokowywanie %s"
+
+#, c-format
+msgid "Unlocking %s"
+msgstr "Odblokowywanie %s"
+
+msgid "Unresolve"
+msgstr ""
+
+msgid "Unresolved items"
+msgstr "Nierozwiązane pozycje"
+
+msgid "Unresolves the currently selected conflicts"
+msgstr ""
+
+msgid "Upgrade to SSL with AUTH command"
+msgstr "Zaktualizuj do SSL z poleceniem AUTH"
+
+msgid "Use"
+msgstr "Użyj"
+
+msgid "Use &other image height"
+msgstr "Użyj &innej wysokości obrazu"
+
+msgid "Use &other image width"
+msgstr "Użyj &innej szerokości obrazu"
+
+msgid "Use CRC32 checksum when available"
+msgstr "Użyj sumy kontrolnej CRC32, gdy jest dostępna"
+
+msgid "Use CRC32 when available"
+msgstr "Użyj CRC32, gdy jest dostępna"
+
+msgid ""
+"Use Ctrl+1/2/3 to solve conflicts with text portions taken from the ancestor/"
+"left/right side, Ctrl+0 to reset the solution."
+msgstr ""
+
+msgid ""
+"Use Ctrl+Shift+O to open an ECMerge Status or Template document, and Ctrl"
+"+Shift+S to save it."
+msgstr ""
+"Użyj Ctrl+Shift+O, by otworzyć to status lub szablon dokumentu ECMerge i Ctrl"
+"+Shift+S, by zapisać go."
+
+msgid ""
+"Use F7/Shift+F7, F8/Shift+F8, F9/Shift+F9 to navigate easilly in the "
+"differences, conflicts, unresolved conflicts."
+msgstr ""
+
+msgid "Use HTTP proxy for all (tunneling)"
+msgstr "Użyj HTTP proxy dla wszystkich (tunelowanie)"
+
+msgid "Use MD5 checksum when available"
+msgstr "Użyj sumy kontrolnej MD5, gdy jest dostępna"
+
+msgid "Use MD5 when available"
+msgstr "Użyj MD5, gdy jest dostępna"
+
+msgid "Use Proxy"
+msgstr "Użyj proxy"
+
+msgid ""
+"Use a semi-colon (;) separated list of columns ranges e.g. 1-10;50-52;80-"
+msgstr ""
+
+#, fuzzy
+msgid "Use agent"
+msgstr "Użyj raportów obrazów"
+
+msgid "Use dates to hide files"
+msgstr "Użyj dat do ukrycia plików"
+
+msgid "Use default loading encoding"
+msgstr ""
+
+msgid "Use image reports"
+msgstr "Użyj raportów obrazów"
+
+msgid "Use o&riginal image height"
+msgstr "Użyj &oryginalnej wysokości obrazu"
+
+msgid "Use o&riginal image width"
+msgstr "Użyj &oryginalnej szerokości obrazu"
+
+msgid "Use only command line interface"
+msgstr "Użyj tylko interfejsu wiersza poleceń"
+
+msgid "Use shared converters"
+msgstr ""
+
+msgid "Use shared file types"
+msgstr ""
+
+#, fuzzy
+msgid "Use sub-expressions"
+msgstr "Wyrażenia regularne"
+
+#, fuzzy
+msgid ""
+"Use the contextual menu of Windows Explorer, Finder or your favorite Linux "
+"file manager to select files or directories to compare and launch ECMerge in "
+"one click."
+msgstr ""
+"Użyj menu podręcznego Windows Explorer do wybrania plików lub folderów w "
+"celu porównania ich w ECMerge z pomocą jednego kliknięcia."
+
+msgid "Use these settings for all panels"
+msgstr "Użyj tych opcji dla wszystkich paneli"
+
+msgid ""
+"Use third-party tools to convert or render text-based or proprietary image "
+"formats (Adobe Photoshop, Paint Shop Pro, SVG...) into BMP, GIF or PNG and "
+"compare them."
+msgstr ""
+
+msgid "Use this comment for all the items"
+msgstr "Użyj tego komentarza dla wszystkich pozycji"
+
+msgid "Use this converter for folders sub-document comparisons "
+msgstr ""
+
+msgid ""
+"Use this file type for comparison of files matching the following patterns:"
+msgstr ""
+
+msgid "Use this font in place of system default"
+msgstr "Użyj tej czcionki zamiast domyślnej czcionki systemowej"
+
+msgid "Use visual comparison as comparison criterium for folder items"
+msgstr ""
+"Użyj porównania wizualnego jako kryterium porównań dla pozycji folderów"
+
+msgid "Used when comparison type is not automatic"
+msgstr ""
+
+msgid "User info:"
+msgstr "Użytkownik:"
+
+msgid ""
+"User interface language, one from: en, fr, es, de or it. When not set, uses "
+"the language from the user settings."
+msgstr ""
+
+msgid "User interface language:"
+msgstr "Język interfejsu użytkownika:"
+
+msgid "Username:"
+msgstr "Użytkownik:"
+
+msgid "Uses in-line information to merge left and right version"
+msgstr ""
+
+msgid ""
+"Using the so-called \"silent-if-possible\" mode, you can make ECMerge "
+"graphical application open only if the merge operation requires manual "
+"conflicts resolution."
+msgstr ""
+
+msgid "Validates typed URLs"
+msgstr ""
+
+msgid "Verify host (SSL)"
+msgstr "Weryfikuj host (SSL)"
+
+msgid "Verify peer certificate authenticity (SSL)"
+msgstr "Weryfikuj certyfikat uwierzytelnienia (SSL)"
+
+msgid "Verify server public key MD5 checksum (SSH):"
+msgstr ""
+
+msgid "Version $0 (build $1)"
+msgstr "Version $0 (build $1)"
+
+msgid "Vertical"
+msgstr "Pionowo"
+
+msgid "View"
+msgstr "Widok"
+
+msgid "View and comparison options..."
+msgstr "Opcje przeglądu i porównań..."
+
+msgid "View the image normally, with no zoom factor"
+msgstr "View the image normally, with no zoom factor"
+
+msgid "Visits the Ellie Computing Knowledge Base web site"
+msgstr "Odwiedź stronę Web bazy wiedzy Ellié Computing"
+
+msgid "Visits the Ellie Computing Technical Support web site"
+msgstr "Odwiedź stronę Web pomocy technicznej Ellié Computing"
+
+msgid "Visits the Ellie Computing web site"
+msgstr "Odwiedź stronę Web Ellié Computing"
+
+msgid "Warning: patch to apply is empty"
+msgstr ""
+
+msgid "Warning: source of patch for $0 should be $1 and is not"
+msgstr ""
+
+msgid "Web / FTP"
+msgstr ""
+
+msgid "Web Updates"
+msgstr "Aktualizacje"
+
+msgid "Web browser:"
+msgstr "Przeglądarka Web:"
+
+msgid "Weekly"
+msgstr "Co tydzień"
+
+msgid ""
+"Welcome in the \"New Session\" wizard.\n"
+" \n"
+"You will be prompted to choose few basic elements to configure your "
+"session.\n"
+" \n"
+"Click Next to continue, or Cancel to exit the assistant."
+msgstr ""
+
+msgid ""
+"When a temporary copy of an options set is made, isolate it from shared "
+"converters and file types"
+msgstr ""
+
+msgid ""
+"When an action needs additional parameters, prompt the user. By default, "
+"prompt is disabled and the default will occur (generally skipping the action)"
+msgstr ""
+
+msgid ""
+"When checked, spans to be ignored or kept are sub-expressions\n"
+"between parentheses rather than the entire expression"
+msgstr ""
+
+msgid "When dropping 2 or 3 items:"
+msgstr "Przy przeciąganiu 2 lub 3 pozycji:"
+
+msgid ""
+"When loading a named session, accept any change from the application's "
+"options set reference copy"
+msgstr ""
+
+msgid "When merge is applicable"
+msgstr ""
+
+msgid "When merge is not applicable"
+msgstr ""
+
+#, fuzzy
+msgid "When negated, excludes all sub-folders"
+msgstr "Generuje dokumenty w podfolderze"
+
+msgid "When previous rules do not define the encoding"
+msgstr ""
+
+msgid "When starting ECMerge, show:"
+msgstr "Pokazuj po starcie ECMerge:"
+
+msgid ""
+"When using post-processed XML output, specifies the XSL stylesheet to use"
+msgstr ""
+
+msgid "Which are distant from less than"
+msgstr ""
+
+#, fuzzy
+msgid "Which document type?"
+msgstr "Dowolny typ dokumentu"
+
+msgid "Which strictly overlap"
+msgstr ""
+
+#, c-format
+msgid "While comparing for %s: %s"
+msgstr ""
+
+#, c-format
+msgid "While writing for %s: %s"
+msgstr ""
+
+msgid "Whole document"
+msgstr "Cały dokument"
+
+msgid "Width:"
+msgstr "Szerokość:"
+
+msgid "Within differences only"
+msgstr "Tylko w różnicach"
+
+msgid "Working..."
+msgstr "Praca w toku..."
+
+msgid "Workspace name already in use"
+msgstr "Ta nazwa obszaru roboczego jest już w użyciu"
+
+msgid "Workspaces"
+msgstr "Obszary robocze"
+
+msgid "Wrap long lines"
+msgstr "Zawijaj długie wiersze"
+
+msgid "Write"
+msgstr "Zapis"
+
+msgid "Write merge result to $0"
+msgstr ""
+
+msgid "Write to result folder(s)"
+msgstr "Zapisz do folderów wyników"
+
+msgid "Writes all solved items to result folder(s)"
+msgstr "Zapisuje wszystkie rozwiązane pozycje do folderów wyników"
+
+#, c-format
+msgid "Writing merge results for %s"
+msgstr ""
+
+msgid "Writing..."
+msgstr "Zapisywanie..."
+
+msgid "XML"
+msgstr "XML"
+
+msgid "XML (embedded)"
+msgstr "XML (wbudowany)"
+
+#, fuzzy
+msgid "XML Tag Completion"
+msgstr "Porównywanie tekstu XML"
+
+msgid "XML Text Comparisons"
+msgstr "Porównywanie tekstu XML"
+
+msgid "XML Validation"
+msgstr ""
+
+msgid "XSL Style-sheet (optional):"
+msgstr "Arkusz stylów XSL (opcjonalne):"
+
+msgid "XSL Stylesheet(*.xsl)|*.xsl"
+msgstr "Arkusz stylów XSL(*.xsl)|*.xsl"
+
+msgid "XSL result extension:"
+msgstr "XSL result extension:"
+
+msgid "XSL stylesheet can be specified only for XML report"
+msgstr "Arkusz stylów XSL może być określony tylko dla raportów XML"
+
+msgid "XSLT processor:"
+msgstr "Procesor XSLT:"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "Yesterday"
+msgstr "Wczoraj"
+
+#, fuzzy
+msgid ""
+"You are changing the access rights for the folder $0.\n"
+"Do you also want to the set the access rights for contained items?"
+msgstr ""
+"Zmiana praw dostępu dla folderu $0.\n"
+"Czy chcesz zmienić także prawa dostępu dla pozycji zawartych e tym folderze?"
+
+msgid ""
+"You are viewing the original, image shifting is available only on comparison "
+"views."
+msgstr ""
+
+msgid ""
+"You can choose to start up the application on latest workspace or a "
+"specific \n"
+"comparison type, please open the Preferences box to choose your startup "
+"screen."
+msgstr ""
+
+msgid ""
+"You can configure Option Sets to get presets of Comparison and Display "
+"Options. For example, you can define an Option Set for C++ projects (where "
+"you exclude .o[bj] files, you set the Text Comparison as case sensitive, and "
+"a security area of 3 lines), one for web projects..."
+msgstr ""
+
+msgid ""
+"You can define the exact metadata rules to apply in Folder Comparisons to "
+"determine a file differentiation status (identical, different, conflicting, "
+"unknown). Metadata rules compare only file size and modification date. Files "
+"with an unknown status will be processed with the appropriate content "
+"comparison algorithm. The metadata comparison is very efficient in many "
+"situations because it does not need to retrieve the files from remote "
+"servers (FTP)."
+msgstr ""
+
+msgid ""
+"You can deploy web site files to your FTP account. ECMerge can remember your "
+"account infos and all the needed settings in the Launcher 'Sites' folder, "
+"see Customize / Sites menu."
+msgstr ""
+
+msgid ""
+"You can display line ending characters to highlight differences between text "
+"files using different line terminators (CR, CR/LF, LF)."
+msgstr ""
+
+msgid ""
+"You can drag and drop a file or a directory on the source combo to open it. "
+"You can also copy/paste URLs in the combos. Then, for URLs to FTP servers, "
+"use the \"Select File or Folder (FTP)\" Browse button menu item to change "
+"the advanced parameters."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You can drag and drop files or directories on ECMerge to open a comparison. "
+"You can swap the sources if need to set the items in their role."
+msgstr ""
+"Przeciągnij i upuść pliki lub katalogi do ECMerge, by je porównać. Możesz "
+"przełączyć źródła, jeżeli chcesz zamienić ich role."
+
+msgid ""
+"You can expand and collapse folders tree on selected items by pressing the "
+"Star (*) key."
+msgstr ""
+
+msgid ""
+"You can generate Comparison HTML Reports to make an evaluation of the merge "
+"task duration. The statistics section gives you a detailled view of the "
+"number of conflicts and how much data is involved (number of lines, number "
+"of blocks). For Folder Comparisons, the statistics section also shows the "
+"number of new/deleted files."
+msgstr ""
+
+msgid ""
+"You can generate comparison reports in XML format from the command line and "
+"integrate them into your workflow."
+msgstr ""
+
+msgid ""
+"You can get a free serial number for an unlimited-feature evaluation from "
+"the Help/Get a Serial Number menu item."
+msgstr ""
+
+msgid ""
+"You can make all changes considered as conflicts in Text 3-Way merge. To do "
+"this, open the document/application Options dialog box, File Merges section, "
+"and select \"Surround all changes\"."
+msgstr ""
+
+msgid ""
+"You can probably configure your source version control software to use "
+"ECMerge to compare and merge concurrent source code file versions. Search "
+"for 'Integration with Configuration Management System' in Help file."
+msgstr ""
+
+msgid ""
+"You can set a timezone shift for each datasource. This allows time-based "
+"comparison with folders located on remote servers. It can be very useful "
+"when connecting to FTP server."
+msgstr ""
+
+msgid ""
+"You can set up a cutoff date to filter out files in a Folder Comparison. You "
+"can include only files modified before/after a given date or a fixed number "
+"of days."
+msgstr ""
+
+msgid ""
+"You can setup blocks of interest in Text Comparison XML and HTML reports and "
+"skip non-interesting lines. This will generate smaller files and will be "
+"more focused on the merge task."
+msgstr ""
+
+msgid ""
+"You can use your own CSS in HTML reports. To do this, you just need to enter "
+"the CSS path in the Options/Reports options panel."
+msgstr ""
+"Możesz użyć twojego własnego CSS w raportach HTML. By to zrobić, powinieneś "
+"wprowadzić ścieżkę w sekcji Opcje/Raporty panelu opcji."
+
+msgid ""
+"You cannot remove this option set, it is already in use by some running "
+"document"
+msgstr ""
+"Nie możesz usunąć tego zestawu opcji, ponieważ jest on używany przez otwarty "
+"dokument"
+
+msgid ""
+"You changed the result of one or more conflicts by hand, do you want to "
+"loose these modifications and continue new resolution action?"
+msgstr ""
+
+msgid ""
+"You did not yet save the document as ECMS/ECMT\n"
+"A default name was copied."
+msgstr ""
+"Nie zapisałeś jeszcze dokumentu jako ECMS/ECMT\n"
+"Skopiowana została nazwa domyślna."
+
+msgid ""
+"You dropped 2 or 3 items.\n"
+"Do you want to launch a comparison for them?"
+msgstr ""
+"Przeciągnąłeś 2 lub 3 pozycje.\n"
+"Czy chcesz wykonać ich porównanie?"
+
+msgid ""
+"You generally need to log off before installation or uninstallation of the "
+"plugin(s) is in effect"
+msgstr ""
+
+msgid "You must select a path for input."
+msgstr "Musisz wybrać ścieżkę wejściową."
+
+msgid "You must select a path for output."
+msgstr "Musisz wybrać ścieżkę wyjściową."
+
+msgid "You must set a name for the converter."
+msgstr "Musisz podać nazwę dla konwerora."
+
+msgid "You must set a pattern for the converter."
+msgstr ""
+
+msgid "You must set a script content for the converter activation."
+msgstr ""
+
+msgid "You must set a valid application path for the converter."
+msgstr "Musisz podać prawidłową ścieżkę dla konwertera."
+
+msgid "You must set some arguments for the converter."
+msgstr "Musisz podać argumenty dla konwertera."
+
+msgid ""
+"Your evaluation period has expired. Please enter a final serial number to "
+"activate this software."
+msgstr ""
+
+msgid "Your licence key does not allow 3-Way comparisons."
+msgstr "Twój klucz licencyjny nie zezwala na 3-drożne porównania."
+
+msgid "Your licence key does not allow Unix Patch reports generation."
+msgstr "Twój klucz licencyjny nie zezwala na generowanie raportów Unix Patch."
+
+msgid "Your licence key does not allow XML/HTML reports generation."
+msgstr "Twój klucz licencyjny nie zezwala na generowanie raportów XML/HTML."
+
+msgid "Your licence key does not allow merges."
+msgstr ""
+
+msgid "Your licence key does not allow statistics generation."
+msgstr "Twój klucz licencyjny nie zezwala na generowanie statystyk."
+
+msgid "Your licence key does not allow this type of document ($0)"
+msgstr "Twój klucz licencyjny nie zezwala na obsługę tego typu dokumentów ($0)"
+
+#, fuzzy
+msgid ""
+"Your serial number is bound to host '$0', component is executed on host '$1'"
+msgstr "Twój numer seryjny nie jest przeznaczony dla komponentu ECMerge"
+
+msgid "Your serial number is not for ECMerge command line"
+msgstr "Twój numer seryjny nie jest przeznaczony dla wiersza poleceń ECMerge"
+
+msgid "Your serial number is not for ECMerge component"
+msgstr "Twój numer seryjny nie jest przeznaczony dla komponentu ECMerge"
+
+msgid "Your serial number is not for ECMerge graphical user interface"
+msgstr "Twój numer seryjny nie jest przeznaczony dla GUI ECMerge"
+
+msgid "Your serial number is not for ECMerge standalone version"
+msgstr ""
+"Twój numer seryjny nie jest przeznaczony dla samodzielnej wersji ECMerge"
+
+msgid ""
+"Your serial number is not valid on this platform. Please check that you "
+"copied and pasted it correctly.\n"
+"If you still have issues, please contact our Technical Support."
+msgstr ""
+"Twój numer seryjny nie jest prawidłowy dla tej platformy. Sprawdź czy "
+"poprawnie go skopiowałeś i wkleiłeś.\n"
+"Jeżeli wciąż masz z tym problem, skontaktuj się naszą pomocą techniczną."
+
+msgid ""
+"Your serial number is not valid. Please check that you copied and pasted it "
+"correctly.\n"
+"If you still have issues, please contact our Technical Support."
+msgstr ""
+"Twój numer seryjny nie jest prawidłowy. Sprawdź czy poprawnie go skopiowałeś "
+"i wkleiłeś.\n"
+"Jeżeli wciąż masz z tym problem, skontaktuj się naszą pomocą techniczną."
+
+msgid ""
+"Your subscription period has expired. Please enter another serial number to "
+"activate this software."
+msgstr ""
+
+msgid "Zoom in"
+msgstr "Powiększ"
+
+msgid "Zoom out"
+msgstr "Pomniejsz"
+
+msgid "Zoom to height"
+msgstr "Dopasuj do wysokości"
+
+msgid "Zoom to width"
+msgstr "Dopasuj do szerokości"
+
+msgid "Zoom to window"
+msgstr "Dopasuj do okna"
+
+#, fuzzy
+msgid "[temporary copy]"
+msgstr "temporary"
+
+msgid "a file was expected"
+msgstr ""
+
+msgid "all identical"
+msgstr "wszystkie identyczne"
+
+msgid "ancestor"
+msgstr "ancestor"
+
+msgid "ancestor and right identical"
+msgstr "ancestor i prawy są identyczne"
+
+msgid "ancestor argument not allowed with ECMerge Standard."
+msgstr "argument ancestora nie jest dozwolony w ECMerge Standard."
+
+msgid "any difference"
+msgstr "dowolna różnica"
+
+msgid "at end of lines"
+msgstr "na końcu wierszy"
+
+msgid "at start of lines"
+msgstr "na początku wierszy"
+
+msgid "binary documents cannot yet be saved"
+msgstr ""
+
+msgid "cannot convert document to $0"
+msgstr "nie można przekonwertować dokumentu na $0"
+
+msgid "cannot define both $0 and $1"
+msgstr ""
+
+msgid "cannot generate XML/HTML export for a single text file"
+msgstr ""
+"nie można wygenerować eksportu XML/HTML dla pojedynczego pliku tekstowego"
+
+msgid "cannot import these type of data from here"
+msgstr ""
+
+msgid "cannot load comparison statistics from url $0"
+msgstr "nie można otworzyć statystyk porównania z URL $0"
+
+msgid "cannot set report title when main format is not XML or HTML"
+msgstr ""
+"nie można ustawić tytułu raportu gdy główny format nie jest XML lub HTML"
+
+msgid "cannot set scope when main format is not Unix patch, XML or HTML"
+msgstr ""
+"nie można ustawić zakresu gdy główny format nie jest Unix patch, XML lub HTML"
+
+msgid "cannot set sub-report format when main format is not XML or HTML"
+msgstr ""
+
+msgid ""
+"cannot specify more than one of --factory, --default, --options-set or --doc-"
+"settings"
+msgstr ""
+
+msgid "change"
+msgid_plural "changes"
+msgstr[0] "zmiana"
+msgstr[1] "zmiana"
+
+msgid "changed lines longer than"
+msgstr "zmienione wiersze dłuższe niż"
+
+msgid "conflict"
+msgid_plural "conflicts"
+msgstr[0] "konflikt"
+msgstr[1] "konflikt"
+
+msgid "conflicting"
+msgstr ""
+
+msgid "could not convert file $0 from '$1' encoding to memory encoding"
+msgstr ""
+
+msgid "could not load image. $0"
+msgstr "nie można otworzyć obrazu. $0"
+
+msgid "could not open the clipboard"
+msgstr "Nie można otworzyć schowka"
+
+msgid "could not synchronize conflict information, bailing out"
+msgstr ""
+
+msgid "days ago"
+msgstr "dni temu"
+
+msgid "deletion"
+msgid_plural "deletions"
+msgstr[0] "usuwanie"
+msgstr[1] "usuwanie"
+
+msgid "different"
+msgstr "różni się"
+
+msgid "document"
+msgstr "dokument"
+
+msgid "document is partially unloaded, cannot output result"
+msgstr ""
+
+msgid "dummy"
+msgstr "dummy"
+
+msgid "edit the file"
+msgstr "edytuj plik"
+
+msgid "error while getting success code"
+msgstr ""
+
+msgid "files"
+msgstr "Plik"
+
+msgid "folder"
+msgid_plural "folders"
+msgstr[0] "folder"
+msgstr[1] "folder"
+
+msgid "folders"
+msgstr "folders"
+
+msgid ""
+"for folders comparisons, files starting with one letter in two are excluded "
+"(a, c, e, ...)\n"
+"\n"
+msgstr ""
+
+msgid "for text comparisons, only the first half of the file is loaded\n"
+msgstr ""
+
+msgid "format not specified"
+msgstr "nie określono formatu"
+
+msgid "format not supported for load_new_document"
+msgstr "nieobsługiwany format dla load_new_document"
+
+msgid "format not supported for this type of documents"
+msgstr "Nieobsługiwany format dla tego typu dokumentów"
+
+msgid "format not yet supported for this type of documents"
+msgstr "format nie jest jeszcze obsługiwany dla tego typu dokumentów"
+
+msgid "found #0 files, amongst #1 searched files"
+msgstr ""
+
+msgid "found at position #0 as #1"
+msgstr ""
+
+msgid "gnome-terminal -e \"$0\""
+msgstr "gnome-terminal -e \"$0\""
+
+msgid "h"
+msgstr "h"
+
+msgid "identical"
+msgid_plural "identical"
+msgstr[0] "wszystkie identyczne"
+msgstr[1] "wszystkie identyczne"
+
+msgid "identical (all)"
+msgstr "Identyczne (wszystko)"
+
+msgid "ignore the item"
+msgstr "ignoruj pozycję"
+
+msgid "in ancestor"
+msgstr "w ancestorze"
+
+msgid "in ancestor hierarchy"
+msgstr "w hierarchii ancestora"
+
+msgid "in left hierarchy"
+msgstr "w lewej hierarchii"
+
+msgid "in middle of lines"
+msgstr "w środku wierszy"
+
+msgid "in result"
+msgstr "w wyniku"
+
+msgid "in result hierarchy"
+msgstr "w hierarchii wyniku"
+
+msgid "in right hierarchy"
+msgstr "w prawej hierarchii"
+
+msgid "inserted/deleted lines longer than"
+msgstr "Wstawione/usunięte wiersze dłuższe niż"
+
+msgid "insertion"
+msgid_plural "insertions"
+msgstr[0] "wstawianie"
+msgstr[1] "wstawianie"
+
+msgid "invalid document type: $0"
+msgstr "Nieprawidłowy typ dokumentu: $0"
+
+msgid "invalid log URL"
+msgstr "Nieprawidłowy URL logu"
+
+msgid "invalid start mode type."
+msgstr "invalid start mode type."
+
+msgid "keep ancestor"
+msgstr "zachowaj ancestor"
+
+msgid "keep left version"
+msgstr "zachowaj lewą wersję"
+
+msgid "keep most recent"
+msgstr "zachowaj najnowszą"
+
+msgid "keep oldest"
+msgstr "zachowaj najstarszą"
+
+msgid "keep right version"
+msgstr "zachowaj prawą wersję"
+
+msgid "keep the item"
+msgstr "zachowaj pozycję"
+
+msgid "konqueror $(inputurl)"
+msgstr "konqueror $(inputurl)"
+
+msgid "konsole -e sh -c \"$0\""
+msgstr "konsole -e sh -c \"$0\""
+
+msgid "left"
+msgstr "lewy"
+
+msgid "left and ancestor identical"
+msgstr "lewy i ancestor są identyczne"
+
+msgid "left and right identical"
+msgstr "Lewy i prawy są identyczne"
+
+msgid "let unresolved"
+msgstr "let unresolved"
+
+msgid "line(s)"
+msgstr "wierszy"
+
+msgid "lines"
+msgstr "wierszy"
+
+msgid "listing was cancelled, press Test to get stats again"
+msgstr ""
+
+msgid "merge result"
+msgstr ""
+
+msgid "merges two files side-by-side"
+msgstr ""
+
+msgid "merges two files with a common ancestor"
+msgstr ""
+
+msgid "min"
+msgstr "min."
+
+msgid "mirror ancestor"
+msgstr "odzwierciedlenie ancestora"
+
+msgid "mirror left version"
+msgstr "odzwierciedlenie prawej wersji"
+
+msgid "mirror right version"
+msgstr "odzwierciedlenie lewej wersji"
+
+msgid "missing file name to store result"
+msgstr ""
+
+msgid ""
+"missing input files (with --doc-settings or 2/3 files or directories).\n"
+"Type merge --help for more help."
+msgstr ""
+
+msgid "missing source"
+msgstr "brakujące źródło"
+
+msgid "missing target"
+msgstr ""
+
+msgid ""
+"mixed objects types (folders and files) or no document type can handle these "
+"sources"
+msgstr ""
+
+msgid "mozilla $(inputurl)"
+msgstr "mozilla $(inputurl)"
+
+msgid "nautilus $(inputurl)"
+msgstr "nautilus $(inputurl)"
+
+msgid "no"
+msgstr "nie"
+
+msgid "no write support for binary documents"
+msgstr "bez obsługi zapisu dla dokumentów binarnych"
+
+msgid "non-blank characters"
+msgstr "widocznych znaków"
+
+msgid "not enough files names in input for requested mode $0"
+msgstr ""
+
+msgid "nothing to do"
+msgstr "nie ma nic do wykonania"
+
+msgid "number of steps ($1) to remove too large for '$0', name totally removed"
+msgstr ""
+
+msgid "operation on item $0 failed with error: $1"
+msgstr ""
+
+#, fuzzy
+msgid "or click on Continue to run the full Demo version"
+msgstr "lub kliknij Kontynuuj, by uruchomić limitowaną wersję Demo."
+
+msgid "output"
+msgstr "wyjście"
+
+msgid "output flag redundant for result"
+msgstr ""
+
+msgid "output format not supported"
+msgstr "nieobsługiwany format wyjściowy"
+
+msgid "output locations not well specified"
+msgstr ""
+
+msgid "parallel connections"
+msgstr "równoległe połączenia"
+
+msgid "patch item path '$0' not strictly under base target directory"
+msgstr ""
+
+msgid "pending comparisons"
+msgstr ""
+
+msgid "please only enter digits"
+msgstr "proszę wprowadzać tylko cyfry"
+
+msgid "querying XML filters options dialog box not supported in command line"
+msgstr ""
+
+msgid "querying status document name not supported in command line"
+msgstr ""
+
+msgid "read_only flag forbidden for result"
+msgstr ""
+
+msgid "remove the item"
+msgstr "usuń pozycję"
+
+msgid "resolved/written states"
+msgstr ""
+
+msgid "right"
+msgstr "prawy"
+
+msgid "seconds"
+msgstr "sekundach"
+
+msgid "shortcut defined for $0 but macro does not exist anymore"
+msgstr ""
+
+msgid "shows differences between two files"
+msgstr "Pokazuje różnice pomiędzy dwoma plikami"
+
+msgid "shows differences between two files and a common ancestor"
+msgstr "Pokazuje różnice pomiędzy dwoma plikami i podstawowym ancestorem"
+
+msgid "size not provided by the file system"
+msgstr ""
+
+msgid "skip blanks"
+msgstr ""
+
+msgid "sleep a bit before starting (may help debugging)"
+msgstr ""
+
+msgid "source"
+msgstr "źródło"
+
+msgid "source and target are identical"
+msgstr ""
+
+msgid "spaces"
+msgstr "spacje"
+
+msgid "sub-report format only valid with folder comparisons."
+msgstr ""
+
+msgid "target"
+msgstr "element docelowy"
+
+msgid "temporary"
+msgstr "temporary"
+
+msgid "text"
+msgstr "tekst"
+
+msgid ""
+"text field\n"
+"second line"
+msgstr ""
+
+msgid "this type of document cannot yet be viewed"
+msgstr "Ten typ dokumentu nie może być jeszcze przeglądany"
+
+msgid "too many file names ($0)"
+msgstr "zbyt wiele nazw plików ($0)"
+
+msgid "too many output modes specified"
+msgstr "określono zbyt wiele trybów wyjściowych"
+
+msgid "trying to detach a document which is not linked to a folder comparison."
+msgstr ""
+
+msgid "unchanged lines longer than"
+msgstr "niezmienione wiersze dłuższe niż"
+
+msgid "unknown flag $0 in parameter $1"
+msgstr "nieznana flaga $0 w parametrze $1"
+
+msgid "unknown options set $0"
+msgstr "nieznany zestaw opcji $0"
+
+msgid "unknown or invalid document type: $0"
+msgstr "nieznany lub nieprawidłowy typ dokumentu: $0"
+
+msgid "unnamed #"
+msgstr "nienazwany #"
+
+#, fuzzy
+msgid "untitled comparison"
+msgstr "Porównywanie plików"
+
+msgid "untitled document"
+msgstr "nienazwany dokument"
+
+#, fuzzy
+msgid "untitled merge"
+msgstr "nienazwany dokument"
+
+msgid "use rules"
+msgstr "użyj reguł"
+
+msgid "use standard 3-way algorithm"
+msgstr ""
+
+msgid "used for new sessions"
+msgstr ""
+
+msgid "user interface mode $0 not handled"
+msgstr ""
+
+msgid "view the file"
+msgstr ""
+
+#, fuzzy
+msgid "works only on a text documents"
+msgstr "Zamyka wszystkie otwarte dokumenty"
+
+#, fuzzy
+msgid "works only on folder documents"
+msgstr "Zamyka wszystkie otwarte dokumenty"
+
+msgid "wrong value for export format"
+msgstr "zła wartość formatu eksportu"
+
+msgid "wrong value for scope"
+msgstr "zła wartość zakresu"
+
+msgid "xsltproc -o $(output) $(xsl) $(input)"
+msgstr "xsltproc -o $(output) $(xsl) $(input)"
+
+msgid "xterm -e sh -c \"$0\""
+msgstr "xterm -e sh -c \"$0\""
+
+msgid "yes"
+msgstr "tak"
+
+msgid "you must specify a location where to save the document or the report."
+msgstr "musisz określić lokalizację zapisu dokumentu lub raportu."
+
+msgid "{Automatic}Auto"
+msgstr "Auto"
+
+msgid "{Changes}All"
+msgstr "Wszystko"
+
+msgid "{FileAttr}Compressed"
+msgstr "Skompresowany"
+
+msgid "{FileAttr}Execute"
+msgstr "Wykonywanie"
+
+msgid "{FileAttr}Group"
+msgstr "Grupa"
+
+msgid "{FileAttr}Hidden"
+msgstr "Ukryty"
+
+msgid "{FileAttr}Others"
+msgstr "Pozostałe"
+
+msgid "{FileAttr}Read"
+msgstr "Odczyt"
+
+msgid "{FileAttr}To be archived"
+msgstr "To be archived"
+
+msgid "{FileAttr}User"
+msgstr "Użytkownik"
+
+msgid "{FileAttr}Write"
+msgstr "Zapis"
+
+msgid "{Generic Copy Action}Binary Copy"
+msgstr "Kopia binarna"
+
+msgid "{Generic Copy Action}Copy"
+msgstr "Kopiuj"
+
+msgid "{Generic Copy Action}Custom"
+msgstr "Własny"
+
+msgid "{Generic Copy Action}Mirror"
+msgstr "Odzwierciedlenie"
+
+msgid "{Generic Copy Action}Update"
+msgstr "Aktualizacja"
+
+msgid "{Sessions}Auto"
+msgstr "Auto"
+
+msgid "{daysagofilterstart}"
+msgstr " "
+
+msgid "{dont translate}Available since: $0"
+msgstr ""
+
+msgid "{dont translate}New version: $0 ($1)"
+msgstr ""
+
+msgid "{file explorer}$0 extension"
+msgstr "$0 extension"
+
+msgid "{gorrywin2kfix}"
+msgstr " "
+
+msgid "{open limit}When opening more than"
+msgstr "Przy otwieraniu więcej niż"
+
+msgid "{open limit}views:"
+msgstr "widoki:"
+
+msgid "{source of patch}absent"
+msgstr "absent"
+
+msgid "{source of patch}present"
+msgstr "obecna"
+
+#~ msgid "%0"
+#~ msgstr "%0"
+
+#~ msgid "&File"
+#~ msgstr "&Plik"
+
+#~ msgid "Activates the next tab"
+#~ msgstr "Uaktywnij następną kartę"
+
+#~ msgid "Activates the previous tab"
+#~ msgstr "Uaktywnij poprzednią kartę"
+
+#~ msgid "Any"
+#~ msgstr "Dowolny"
+
+#~ msgid "Compacts XML text"
+#~ msgstr "Kompaktuje tekst XML"
+
+#~ msgid "Diff/Merge"
+#~ msgstr "Diff/Merge"
+
+#~ msgid "Disconnect"
+#~ msgstr "Rozłącz"
+
+#~ msgid "Ellié Computing - Merge tool"
+#~ msgstr "Ellié Computing - Merge tool"
+
+#~ msgid "FTP"
+#~ msgstr "FTP"
+
+#, fuzzy
+#~ msgid "Field name"
+#~ msgstr "Nazwa pliku"
+
+#~ msgid "Get a Free &Demo Serial Number"
+#~ msgstr "Uzyskaj numer seryjny darmowej wersji &Demo"
+
+#~ msgid "Get a Free Demo Serial Number"
+#~ msgstr "Uzyskaj numer seryjny darmowej wersji Demo"
+
+#~ msgid ""
+#~ "Get a Free Demo Serial Number to evaluate the software with no limitation"
+#~ msgstr ""
+#~ "Uzyskaj numer seryjny darmowej wersji Demo, by wypróbować ten program bez "
+#~ "ograniczeń"
+
+#~ msgid ""
+#~ "Hide the Image Diff and Zoom toolbars if you don't compare images "
+#~ "visually."
+#~ msgstr ""
+#~ "Hide the Image Diff and Zoom toolbars if you don't compare images "
+#~ "visually."
+
+#~ msgid "Image Zoom"
+#~ msgstr "Powiększenie obrazu"
+
+#, fuzzy
+#~ msgid "Inline &Down"
+#~ msgstr "W &dół"
+
+#~ msgid "Jumps to a specific line"
+#~ msgstr "Skocz do wiersza"
+
+#~ msgid "Makes operation recursive"
+#~ msgstr "Makes operation recursive"
+
+#~ msgid "Move to &Next Document"
+#~ msgstr "Przejdź do &następnego dokumentu"
+
+#~ msgid "Move to &Previous Document"
+#~ msgstr "Przejdź do &poprzedniego dokumentu"
+
+#, fuzzy
+#~ msgid "Name already in use"
+#~ msgstr "Ta nazwa obszaru roboczego jest już w użyciu"
+
+#, fuzzy
+#~ msgid "New Binary Comparison"
+#~ msgstr "Porównania binarne"
+
+#~ msgid "New Folder Comparison"
+#~ msgstr "Nowe porównanie folderu"
+
+#~ msgid "New Image Comparison"
+#~ msgstr "Nowe porównanie obrazu"
+
+#~ msgid "New Text Comparison"
+#~ msgstr "Nowe porównanie tekstu"
+
+#, fuzzy
+#~ msgid "New Worskpace"
+#~ msgstr "Obszary robocze"
+
+#~ msgid "Not enough resources to open more views (Win9x/WinMe limitation)"
+#~ msgstr ""
+#~ "Za mało zasobów, by otworzyć więcej widoków (ograniczenia Win9x/WinMe)"
+
+#~ msgid "Opens a new Folder Comparison"
+#~ msgstr "Otwiera nowe porównanie folderów"
+
+#~ msgid "Opens a new Text Comparison"
+#~ msgstr "Otwiera nowe porównanie tekstów"
+
+#~ msgid "Pretty-prints XML text to help comparisons"
+#~ msgstr "Pretty-prints XML text to help comparisons"
+
+#~ msgid "Recursive listing of sub-folders"
+#~ msgstr "Recursive listing of sub-folders"
+
+#, fuzzy
+#~ msgid "Save Session As"
+#~ msgstr "Sesje"
+
+#~ msgid "Swaps beetwen 2-way and 3-way Comparisons"
+#~ msgstr "Przełącza pomiędzy 2-drożnym i 3-drożnym porównaniem"
+
+#~ msgid "Swaps between view/edit modes"
+#~ msgstr "Przełącza pomiędzy trybem przeglądu/edycji"
+
+#~ msgid ""
+#~ "The view below is a text editor where you can solve conflicts and edit "
+#~ "the whole text content by hand."
+#~ msgstr ""
+#~ "The view below is a text editor where you can solve conflicts and edit "
+#~ "the whole text content by hand."
+
+#~ msgid "There are no binary comparison options yet."
+#~ msgstr "There are no binary comparison options yet."
+
+#~ msgid "Writes to result folder(s)"
+#~ msgstr "Zapisuje do folderów wyników"
+
+#~ msgid "could not gain access to the clipboard"
+#~ msgstr "nie można uzyskać dostępu do schowka"
+
+#~ msgid "other"
+#~ msgstr "inne"
+
+#~ msgid "resolutions actions"
+#~ msgstr "resolutions actions"

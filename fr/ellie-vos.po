@@ -1,0 +1,936 @@
+# Ellié Computing VOS
+# Copyright (C) 2005 Ellié Computing
+# This file is distributed under the same license as enclosing product
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ellie-vos 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-07 09:48+0200\n"
+"PO-Revision-Date: 2005-11-07 14:45+0100\n"
+"Last-Translator: Armel Asselin <armel.asselin@elliecomputing.com>\n"
+"Language-Team: FRENCH <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " Advanced Server "
+msgstr " Advanced Server "
+
+msgid " Datacenter Edition "
+msgstr " Datacenter Edition "
+
+msgid " Datacenter Server "
+msgstr " Datacenter Server "
+
+msgid " Enterprise Edition "
+msgstr " Enterprise Edition "
+
+msgid " Home Edition "
+msgstr " Edition Familiale"
+
+msgid " OSR2"
+msgstr " OSR2"
+
+msgid " Professional "
+msgstr " Professionnel "
+
+msgid " SE"
+msgstr " SE"
+
+msgid " Server "
+msgstr " Serveur "
+
+msgid " Server 4.0 "
+msgstr " Serveur 4.0 "
+
+msgid " Server 4.0, Enterprise Edition "
+msgstr " Server 4.0, Enterprise Edition "
+
+msgid " Standard Edition "
+msgstr " Standard Edition "
+
+msgid " Web Edition "
+msgstr " Web Edition "
+
+msgid " Workstation 4.0 "
+msgstr " Workstation 4.0 "
+
+msgid ""
+"$0\n"
+"Error class: $1"
+msgstr ""
+"$0\n"
+"Classe d'erreur : $1"
+
+msgid "2 weeks ago"
+msgstr "Il y a 2 semaines"
+
+msgid "3 weeks ago"
+msgstr "Il y a 3 semaines"
+
+msgid "A reference to another object prevents this action"
+msgstr "Une référence vers un autre object empêche cette opération"
+
+msgid "Access rights prevents this action"
+msgstr "Les droits d'accès empêchent cette opération"
+
+msgid "Arabic"
+msgstr "Arabe"
+
+msgid "Arabic - ANSI"
+msgstr "Arabe -ANSI"
+
+msgid "Armenian"
+msgstr "Arménien"
+
+msgid "Assamese - ISCII"
+msgstr "Assamese - ISCII"
+
+msgid "Authentication failed"
+msgstr "Echec d'authentification"
+
+msgid "BIG5 - Microsoft"
+msgstr "BIG5 - Chinois: caractères traditionels – Taiwan et Hong Kong"
+
+msgid "Baltic"
+msgstr "Balte"
+
+msgid "Baltic - ANSI"
+msgstr "Balte - ANSI"
+
+msgid "Bengali - ISCII"
+msgstr "Bengali - ISCII"
+
+msgid "CVOSIODesc does not have Length"
+msgstr "CVOSIODesc n'a pas de membre Length"
+
+msgid "CVOSIODesc does not have Seek"
+msgstr "CVOSIODesc n'a pas de membre Seek"
+
+msgid "Central European - ANSI"
+msgstr "Europe orientale et centrale - ANSI"
+
+msgid "Character not recognized in VosUnicode"
+msgstr "Caractère non reconnu dans VosUnicode"
+
+msgid "Chinese"
+msgstr "Chinois"
+
+msgid "Chinese BIG5"
+msgstr "Chinois BIG5"
+
+msgid "Chinese CCITT"
+msgstr "Chinois CCITT"
+
+msgid "Conflict detected"
+msgstr "Conflit détecté"
+
+msgid "Could not commit"
+msgstr "Impossible de valider"
+
+msgid "Could not determine item MIME type"
+msgstr "Impossible de déterminer le type MIME"
+
+msgid "Croatia"
+msgstr "Croate"
+
+msgid "Current state of the object prevents user from doing that"
+msgstr ""
+"L'état courant de l'objet empèche l'utilisateur de réaliser cette action"
+
+msgid "Cyrillic"
+msgstr "Cyrillique"
+
+msgid "Cyrillic - ANSI"
+msgstr "Cyrillique - ANSI"
+
+msgid "Day before yesterday"
+msgstr "Avant-hier"
+
+msgid "Devanagari - ISCII"
+msgstr "Devanagari - ISCII"
+
+msgid "Earlier this month"
+msgstr "Plus tôt dans le mois"
+
+msgid "Earlier this week"
+msgstr "Plus tôt dans la semaine"
+
+msgid "Error during Report generation"
+msgstr "Erreur pendant la génération d'un rapport"
+
+msgid "Europa 3"
+msgstr "Europa 3"
+
+msgid "Extended Alpha Lowercase"
+msgstr "Extended Alpha Lowercase"
+
+msgid ""
+"FTP listing line $0 not recognized:\n"
+"$1"
+msgstr ""
+"ligne $0 non reconnue dans le listing FTP :\n"
+"$1"
+
+msgid "Failed to compute comparison summary"
+msgstr "Erreur en calculant le résumé de la comparaison"
+
+msgid "Failed to compute detailed comparison"
+msgstr "Erreur en calculant le détail de la comparaison"
+
+msgid "Failed to list the content of a folder"
+msgstr "Erreur pendant le listage du contenu d'un répertoire"
+
+msgid "Failed to write output"
+msgstr "Erreur lors de l'écriture du résultat"
+
+msgid "File or folder already exists"
+msgstr "Le fichier ou le dossier existe déjà"
+
+msgid "File system item has wrong or unexpected type for operation"
+msgstr ""
+"Le type de l'objet du système de fichier ne correspond pas pour l'opération "
+"voulue"
+
+msgid "File system item not found"
+msgstr "Objet absent du système de fichiers"
+
+msgid "Function not implemented"
+msgstr "Fonctionalité absente"
+
+msgid "Georgian"
+msgstr "Géorgien"
+
+msgid "Greek"
+msgstr "Grec"
+
+msgid "Greek - ANSI"
+msgstr "Grec - ANSI"
+
+msgid "Greek 1"
+msgstr "Grec 1"
+
+msgid "Gujarati - ISCII"
+msgstr "Gujarati - ISCII"
+
+msgid "HP Roman 8"
+msgstr "HP Roman 8"
+
+msgid "Hebrew"
+msgstr "Hebreux"
+
+msgid "Hebrew - ANSI"
+msgstr "Hebreux - ANSI"
+
+msgid "Hongkong Chinese"
+msgstr "Chinois Hong Kong"
+
+msgid "IA5 German"
+msgstr "IA5 Allemand"
+
+msgid "IA5 International Alphabet n°5: IRV"
+msgstr "IA5 (Alphabet International n°5)"
+
+msgid "IA5 Norwegian"
+msgstr "IA5 Norvégien"
+
+msgid "IA5 Swedish"
+msgstr "IA5 Suédois"
+
+msgid "IBM- Arabic"
+msgstr "IBM- Arabe"
+
+msgid "IBM- BALTIC"
+msgstr "IBM- Balte"
+
+msgid "IBM- Canadian French"
+msgstr "IBM- Français canadien"
+
+msgid "IBM- Cyrillic (was Russian)"
+msgstr "IBM Cyrillic (Russe)"
+
+msgid "IBM- GREEK"
+msgstr "IBM- Grec"
+
+msgid "IBM- Hebrew"
+msgstr "IBM- Hebreux"
+
+msgid "IBM- Icelandic"
+msgstr "IBM-Islandais"
+
+msgid "IBM- Latin 2"
+msgstr "IBM- (Latin 2)"
+
+msgid "IBM- Modern Greek"
+msgstr "IBM- Grec moderne"
+
+msgid "IBM- Multilingual Latin 1"
+msgstr "Multi-langue - Europe Occidentale (Latin 1)"
+
+msgid "IBM- Multilingual Latin 1+Euro"
+msgstr "Multi-langue - Europe Occidentale (Latin 1) + Euro"
+
+msgid "IBM- Nordic"
+msgstr "IBM- Nordique"
+
+msgid "IBM- Portuguese"
+msgstr "IBM- Portugais"
+
+msgid "IBM- Russian"
+msgstr "IBM- Russe"
+
+msgid "IBM- Turkish"
+msgstr "Turc (IBM MS-DOS Turc)"
+
+msgid "IBM- US"
+msgstr "IBM- US"
+
+msgid "ISO 6937 Non-Spacing Accent"
+msgstr "ISO 6937"
+
+msgid "Icelandic"
+msgstr "Islandais"
+
+msgid ""
+"In JavaScript: $0\n"
+"$3"
+msgstr ""
+"Dans le JavaScript: $0\n"
+"$3"
+
+msgid "Incomplete path"
+msgstr "Chemin incomplet"
+
+msgid "Inconsistency found"
+msgstr "Incohérence trouvée"
+
+msgid "Insufficient access rights"
+msgstr "Droit d'accès insuffisant"
+
+msgid "Invalid parameter"
+msgstr "Paramètre invalide"
+
+msgid "Item is not checked-out for given user/context: cannot operate"
+msgstr ""
+"L'objet n'est pas extrait pour l'utilisateur et le contexte donné: "
+"impossible d'opérer"
+
+msgid "Item needs to be merged"
+msgstr "Les objets doivent être fusionnés"
+
+msgid "Japanese"
+msgstr "Japonais"
+
+msgid "Japanese (Katakana) Extended"
+msgstr "Japonais (Katakana) étendu"
+
+msgid "Japanese (Latin) Extended and Japanese"
+msgstr "Japonais (Latin) étendu et Japonais"
+
+msgid "Japanese JIS X 0201-1989"
+msgstr "Japonais JIS X 0201-1989"
+
+msgid "Japanese JIS X 0208-1990 & 0121-1990"
+msgstr "Japonais JIS X 0208-1990 & 0121-1990"
+
+msgid "Japanese with halfwidth Katakana"
+msgstr "Japonais avec Katakana demi-largeur"
+
+msgid "Japanese with no halfwidth Katakana"
+msgstr "Japonais sans Katakana demi-largeur"
+
+msgid "Kannada - ISCII"
+msgstr "Kannada - ISCII"
+
+msgid "Korean"
+msgstr "Coréen"
+
+msgid "Korean - Microsoft"
+msgstr "Coréen étendu Wansung"
+
+msgid "Korean Extended and Korean"
+msgstr "Coréen étendu et Coréen"
+
+msgid "Laotian"
+msgstr "Laotien"
+
+msgid "Last month"
+msgstr "Le mois dernier"
+
+msgid "Last week"
+msgstr "La semaine dernière"
+
+msgid "Latin 1"
+msgstr "Latin 1"
+
+msgid "Latin 1 - ANSI"
+msgstr "Latin 1 - ANSI"
+
+msgid "Latin 10"
+msgstr "Latin 10"
+
+msgid "Latin 2"
+msgstr "Slave (Latin 2)"
+
+msgid "Latin 2 - Central Europe"
+msgstr "Latin 2 - Europe Centrale"
+
+msgid "Latin 3"
+msgstr "Latin 3"
+
+msgid "Latin 5"
+msgstr "Latin 5"
+
+msgid "Latin 6"
+msgstr "Nordique (Latin 6)"
+
+msgid "Latin 7 "
+msgstr "Latin 7"
+
+msgid "Latin 8"
+msgstr "Celte (Latin 8)"
+
+msgid "Latin 9"
+msgstr "Slave (Latin 9)"
+
+msgid "Malayalam - ISCII"
+msgstr "Malayalam - ISCII"
+
+msgid "Microsoft Windows 2000"
+msgstr "Microsoft Windows 2000"
+
+msgid "Microsoft Windows 95"
+msgstr "Microsoft Windows 95"
+
+msgid "Microsoft Windows 98"
+msgstr "Microsoft Windows 98"
+
+msgid "Microsoft Windows Millennium Edition"
+msgstr "Microsoft Windows Millennium Edition"
+
+msgid "Microsoft Windows NT"
+msgstr "Microsoft Windows NT"
+
+msgid "Microsoft Windows Server 2003 family"
+msgstr "Microsoft Windows Server 2003"
+
+msgid "Microsoft Windows Vista"
+msgstr "Microsoft Windows Vista"
+
+msgid "Microsoft Windows XP"
+msgstr "Microsoft Windows XP"
+
+msgid "Missing Serial Number"
+msgstr "Numéro de série manquant"
+
+msgid "Move of $0 to $1 failed because of system error ($2)."
+msgstr ""
+"Le déplacement de $0 vers $1 a échoué à cause d'une erreur système ($2)."
+
+msgid "No message yet for this error code ($0)"
+msgstr "Le message pour cette erreur n'existe pas encore ($0)"
+
+msgid "Not Connected"
+msgstr "Non connecté"
+
+msgid "Older"
+msgstr "Plus ancien"
+
+msgid "Operation canceled by the user"
+msgstr "Opération annulée par l'utilisateur"
+
+msgid "Operation did not work, but may if you retry"
+msgstr "L'opération a échoué, mais elle pourrait réussir si vous réessayez"
+
+msgid "Oriya - ISCII"
+msgstr "Oriya - ISCII"
+
+msgid "Punjabi - ISCII"
+msgstr "Punjabi - ISCII"
+
+msgid "Roman"
+msgstr "Roman"
+
+msgid "Romania"
+msgstr "Roumain"
+
+msgid "Russian"
+msgstr "koi8-r - Cyrillique"
+
+msgid "Same identifier already used for another object"
+msgstr "Identifiant identique déjà utilisé pour un autre object"
+
+msgid "Serial Number Version verification failed"
+msgstr "La vérification du format du numéro de série a échoué"
+
+msgid "Serial Number period expired"
+msgstr "Période d'utilisation expirée"
+
+msgid "Serial Number product verification failed"
+msgstr "La vérification du numéro de série du produit a échoué"
+
+msgid "Serial Number verification failed"
+msgstr "La vérification de numéro de série a échoué"
+
+msgid "Sharing violation"
+msgstr "Violation de droits de partage"
+
+msgid "Shift JIS - Microsoft"
+msgstr "Shift JIS - Microsoft"
+
+msgid "Shift JIS standard"
+msgstr "Shift JIS standard"
+
+msgid "Simplified Chinese"
+msgstr "Chinois Simplifié"
+
+msgid "Simplified Chinese (GB 2312)"
+msgstr "Chinois simplifié (GB 2312)"
+
+msgid "Simplified Chinese (Windows XP: 4 Byte)"
+msgstr "Chinois Simplifié (Windows XP : 4 Octets)"
+
+msgid "Simplified Chinese - GB2312"
+msgstr "Chinois Simplifié - GB2312"
+
+msgid "Simplified Chinese Extended and Simplified Chinese"
+msgstr "Chinois Simplifié étendu et Chinois Simplifié"
+
+msgid ""
+"Source and destination of an operation are equal whereas it is not authorized"
+msgstr ""
+"Source et destination de l'opération sont identiques alors que c'est "
+"interdit pour cette opération"
+
+msgid ""
+"String conversion failed because no known mapping exists between the two "
+"encodings"
+msgstr ""
+"La conversion de chaîne a échoué car aucune fonction de transformation "
+"n'existe entre ces deux jeux de caractères"
+
+msgid "String conversion failed because some character would be lost"
+msgstr ""
+"La conversion de chaîne de texte a échoué (des caractères seraient perdus)"
+
+msgid "Success"
+msgstr "Succès"
+
+msgid "System error ($0) for item $1"
+msgstr "Erreur système ($0) pour l'élément $1"
+
+msgid "Taiwan - CNS"
+msgstr "Taiwan - CNS"
+
+msgid "Taiwan - Eten"
+msgstr "Taiwan - Eten"
+
+msgid "Taiwan - IBM5550"
+msgstr "Taiwan - IBM5550"
+
+msgid "Taiwan - TCA"
+msgstr "Taiwan - TCA"
+
+msgid "Taiwan - TeleText"
+msgstr "Taiwan - TeleText"
+
+msgid "Taiwan - Wang"
+msgstr "Taiwan - Wang"
+
+msgid "Tajik"
+msgstr "Tajik"
+
+msgid "Tamil - ISCII"
+msgstr "Tamil - ISCII"
+
+msgid "Teletext"
+msgstr "Télé-texte"
+
+msgid "Telugu - ISCII"
+msgstr "Telugu - ISCII"
+
+msgid "Thai"
+msgstr "Thaï"
+
+msgid "Thai - Microsoft"
+msgstr "Thai - Microsoft"
+
+msgid "The character code encountered is invalid in given encoding"
+msgstr "Le code de caractère trouvé est invalide dans ce jeu de caractères"
+
+msgid "The code point is truncated, its end is not in current buffer"
+msgstr ""
+"Le code de caractère est tronqué, la fin ne se trouve pas dans le buffer "
+"courant"
+
+msgid "The composition of two paths gave an invalid result"
+msgstr "La composition de deux chemins a donné un résultat invalide"
+
+msgid "The connection with the server was lost"
+msgstr "La connexion avec le serveur a été perdue"
+
+msgid "The conversion does not fit into target buffer"
+msgstr "La conversion ne tient pas dans le buffer destination"
+
+msgid "The data format was not recognized"
+msgstr "Le format des données n'a pas été reconnu"
+
+msgid "The data used as the base of current work changed unexpectedly"
+msgstr ""
+"Les données sur lesquelles sont basées le travail actuel ont changé de "
+"manière inattendue"
+
+msgid "The functionality is not supported"
+msgstr "La fonctionalité n'est pas supportée"
+
+msgid "The network file system cannot be found"
+msgstr "Le système de fichier réseau ne peut être trouvé"
+
+msgid "The text contains binary characters"
+msgstr "Le texte contient des caractères binaires"
+
+msgid "The text does not conform to UTF encoding ($0) near binary position $1."
+msgstr ""
+"Le texte ne se conforme pas au jeu de caractères UTF ($0) vers la position "
+"binaire $1."
+
+msgid "Today"
+msgstr "Aujourd'hui"
+
+msgid "Traditional Chinese"
+msgstr "Chinois traditionnel"
+
+msgid "Traditional Chinese (Big5)"
+msgstr "Chinois traditionnel (Big5)"
+
+msgid "Transparent ASMO"
+msgstr "Arabe (DOS, Asmo transparent)"
+
+msgid "Transparent arabic"
+msgstr "Arabe (arabe transparent)"
+
+msgid "Turkish"
+msgstr "Turc"
+
+msgid "Turkish - ANSI"
+msgstr "Turc - ANSI"
+
+msgid "Type of link differs on client and server"
+msgstr "Le type de lien diffère sur le client et le serveur"
+
+msgid "UCS2 (truncation of UCS4 code) Big endian"
+msgstr "Unicode UCS2 (ISO 10646) Big endian"
+
+msgid "UCS2 (truncation of UCS4 code) Little endian"
+msgstr "Unicode UCS2 (ISO 10646) Little endian"
+
+msgid "US/Canada and Japanese"
+msgstr "US/Canada et Japonais"
+
+msgid "US/Canada and Traditional Chinese"
+msgstr "US/Canada et Chinois Traditionnel"
+
+msgid "Ukraine"
+msgstr "Ukrainien"
+
+msgid "Ukrainian"
+msgstr "Ukrainien"
+
+msgid "Unicode 16 bits, big endian"
+msgstr "Unicode 16 bits, big endian"
+
+msgid "Unicode 16 bits, little endian"
+msgstr "Unicode 16 bits, little endian"
+
+msgid "Unicode 32 bits, big endian"
+msgstr "Unicode 32 bits, big endian"
+
+msgid "Unicode 32 bits, little endian"
+msgstr "Unicode 32 bits, little endian"
+
+msgid "Unicode UCS-4 Big-Endian"
+msgstr "Unicode UCS-4 Big endian"
+
+msgid "Unicode UCS-4 Little-Endian"
+msgstr "Unicode UCS-4 Little endian"
+
+msgid "User acts on an object owned by another user"
+msgstr "L'utilisateur agit sur un object possédé par un autre utilisateur"
+
+msgid ""
+"User need to confirm (or force) this action, some non-obvious information "
+"will be lost"
+msgstr ""
+"L'utilisateur doit confirmer l'opération, certaines informations non "
+"triviales seront perdues"
+
+msgid ""
+"User need to confirm this action, because he wants to act on an object he "
+"does not own"
+msgstr ""
+"L'utilisateur doit confirmer l'opération, parce qu'il tente d'agir sur un "
+"objet qu'il ne possède pas"
+
+msgid ""
+"User need to confirm this action, because the action needs to remove a "
+"checkout entry before proceeding"
+msgstr ""
+"L'utilisateur doit confirmer l'opération, parce que celle-ci doit d'abord "
+"supprimer une entrée d'extraction avant de procéder"
+
+msgid ""
+"User need to confirm this action, because the move operation has some non-"
+"obvious effects"
+msgstr ""
+"L'utilisateur doit confirmer l'opération, parce que l'opération de "
+"déplacement comporte des effets de bord non évidents"
+
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+msgid "Vietnamese - ANSI/OEM"
+msgstr "Vietnamien - ANSI"
+
+msgid "VosFileSystem::set_file_attributes($0)"
+msgstr "VosFileSystem::set_file_attributes($0)"
+
+msgid "XML document badly formatted"
+msgstr "document XML mal formaté"
+
+msgid "XML node not found"
+msgstr "noeud XML non trouvé"
+
+msgid "Yesterday"
+msgstr "Hier"
+
+msgid "ancestor"
+msgstr "ancêtre"
+
+msgid "ancestor/left"
+msgstr "ancêtre/gauche"
+
+msgid "ancestor/right"
+msgstr "ancêtre/droite"
+
+msgid "context, both sides"
+msgstr "contextuel, deux côtés"
+
+msgid "context, unified"
+msgstr "contextuel, unifié"
+
+msgid "could not parse regular expression, because of error: $0"
+msgstr "impossible de parser l'expression régulière, à cause de l'erreur: $0"
+
+msgid "could not parse regular expression, because of error: $0 at position $1"
+msgstr ""
+"impossible de parser l'expression régulière, à cause de l'erreur: $0 en "
+"position $1"
+
+msgid "file size exceeds internal string limits"
+msgstr "la taille du fichier est supérieure aux limites interne d'une chaîne"
+
+msgid ""
+"in CVOSTextFile::PutString, cannot convert string exactly to file output "
+"encoding"
+msgstr ""
+"dans CVOSTextFile::PutString, impossible de convertir exactement la chaîne "
+"dans le jeu de caractères du fichier de sortie"
+
+msgid "in VosByteStream"
+msgstr "dans VosByteStream"
+
+msgid "in VosByteStream::io_seek, IO descriptor not seek-able"
+msgstr ""
+"dans VosByteStream::io_seek, le descripteur d'entrée-sortie ne supporte pas "
+"le positionnement aléatoire"
+
+msgid "in VosByteStreamIter::append"
+msgstr "dans VosByteStreamIter::append"
+
+msgid "in VosFileSystem::get_logical_drives"
+msgstr "dans VosFileSystem::get_logical_drives"
+
+msgid "in VosLCSDiff::make_choices"
+msgstr "dans VosLCSDiff::make_choices"
+
+msgid ""
+"invalid $2 character found, at end of '$0', a dump was generated in folder $1"
+msgstr ""
+"un caractère $2 invalide a été trouvé dans '$0', un dump a été généré dans "
+"le dosier $1"
+
+msgid "invalid colour code"
+msgstr "code couleur invalide"
+
+msgid "left"
+msgstr "gauche"
+
+msgid "left/right"
+msgstr "gauche/droite"
+
+msgid "malformed data, needs to read after end of buffer"
+msgstr ""
+"données mal-formées, elles nécessieraient l'accès hors du segment de données"
+
+msgid "no level of differentiation is activated, cannot compute difference"
+msgstr ""
+"aucun niveau de différenciation n'est activé, impossible de calculer la "
+"différence"
+
+msgid "normal"
+msgstr "normal"
+
+msgid "result"
+msgstr "résultat"
+
+msgid "right"
+msgstr "droite"
+
+msgid "unknown"
+msgstr "inconnu"
+
+msgid "while computing file digest"
+msgstr "en calculant le résumé du fichier"
+
+msgid "wrong encoding in VosTextStreamIter::get_line_delimiter_text"
+msgstr ""
+"mauvais jeu de caractères dans VosTextStreamIter::get_line_delimiter_text"
+
+#~ msgid "(missing parameter in VosDescStr::parameterize)"
+#~ msgstr "(paramètre manquant dans VosDescStr::parameterize)"
+
+#~ msgid "ASMO 708"
+#~ msgstr "Arabe (ASMO 708)"
+
+#~ msgid "ASMO 709, BCON V4"
+#~ msgstr "Arabe (ASMO 709, BCON V4)"
+
+#~ msgid "CVOSSocket::Accept"
+#~ msgstr "CVOSSocket::Accept"
+
+#~ msgid "CVOSSocket::new_from_accepted"
+#~ msgstr "CVOSSocket::new_from_accepted"
+
+#~ msgid "ISO 8859-12"
+#~ msgstr "ISO 8859-12"
+
+#~ msgid "NextStep"
+#~ msgstr "NextStep"
+
+#~ msgid "US-ASCII"
+#~ msgstr "US-ASCII"
+
+#~ msgid "Unicode 7 bits"
+#~ msgstr "Unicode 7 bits"
+
+#~ msgid "Unicode 8 bits"
+#~ msgstr "Unicode 8 bits"
+
+#~ msgid "VosFileSystem::copy for directories"
+#~ msgstr "VosFileSystem::copy pour les répertoires"
+
+#~ msgid "VosMbcsTool does not support this encoding yet"
+#~ msgstr "VosMbcsTool ne supporte pas encore ce jeu de caractères"
+
+#~ msgid "in CVOSIODesc::ReadExactly"
+#~ msgstr "dans CVOSIODesc::ReadExactly"
+
+#~ msgid "in CVOSIODesc::WriteExactly, cannot write all data"
+#~ msgstr ""
+#~ "dans CVOSIODesc::WriteExactly, impossible d'écrire toutes les données"
+
+#~ msgid "in CVOSSocket::Accept"
+#~ msgstr "dans CVOSSocket::Accept"
+
+#~ msgid "in CVOSSocket::Accept multi-socket"
+#~ msgstr "dans CVOSSocket::Accept multi-socket"
+
+#~ msgid "in CVOSSocket::Connect"
+#~ msgstr "dans CVOSSocket::Connect"
+
+#~ msgid "in CVOSSocket::Listen"
+#~ msgstr "dans CVOSSocket::Listen"
+
+#~ msgid "in CVOSSocket::SetBlockingMode"
+#~ msgstr "dans CVOSSocket::SetBlockingMode"
+
+#~ msgid "in MBCSIteratorBase::at, encoding not handled"
+#~ msgstr "dans MBCSIteratorBase::at, jeu de caractères non supporté"
+
+#~ msgid "in MBCSIteratorBase::inc, encoding not handled"
+#~ msgstr "dans MBCSIteratorBase::inc, jeu de caractères non supporté"
+
+#~ msgid "in MBCSIteratorBase::write_at, encoding not handled"
+#~ msgstr "dans MBCSIteratorBase::write_at, jeu de caractères non supporté"
+
+#~ msgid "in VosByteStream::write_at, could not write all data"
+#~ msgstr ""
+#~ "dans CVOSIODesc::WriteExactly, impossible d'écrire toutes les données"
+
+#~ msgid "in VosDescStr::get_length"
+#~ msgstr "dans VosDescStr::get_length"
+
+#~ msgid "in VosDescStr::insertc, inserting after end of string"
+#~ msgstr "dans VosDescStr::insertc, insertion après la fin de la chaîne"
+
+#~ msgid "in VosDescStr::join, while concatenating list element"
+#~ msgstr "dans VosDescStr::join, en concaténant un élément de la liste"
+
+#~ msgid "in VosDescStr::join, while concatenating separator"
+#~ msgstr "dans VosDescStr::join, en concaténant un séparateur"
+
+#~ msgid "in VosDescStr::parameterize(CVOSList)"
+#~ msgstr "dans VosDescStr::parameterize(CVOSList)"
+
+#~ msgid "in VosDescStr::parameterize(const VosDescStr*)"
+#~ msgstr "dans VosDescStr::parameterize(const VosDescStr*)"
+
+#~ msgid "in VosDescStr::parameterize, EBCDIC not yet handled"
+#~ msgstr "dans VosDescStr::parameterize, EBCDIC non supporté"
+
+#~ msgid "in VosDescStr::replace, searching empty string"
+#~ msgstr "dans VosDescStr::replace, chaîne vide recherchée"
+
+#~ msgid "in VosLCSDiff::build_edit_script"
+#~ msgstr "dans VosLCSDiff::build_edit_script"
+
+#~ msgid "in VosLCSDiff::compute_input_infos"
+#~ msgstr "dans VosLCSDiff::compute_input_infos"
+
+#~ msgid "in VosLCSDiff::discard_unrelevant_objects"
+#~ msgstr "dans VosLCSDiff::discard_unrelevant_objects"
+
+#~ msgid "in VosLCSTextInput::get_line"
+#~ msgstr "dans VosLCSTextInput::get_line"
+
+#~ msgid "in VosLCSTextInput::hash_key"
+#~ msgstr "dans VosLCSTextInput::hash_key"
+
+#~ msgid "in VosMbcsTool::CPIterator::write, code point to large"
+#~ msgstr "dans VosMbcsTool::CPIterator::write, code point trop grand"
+
+#~ msgid "in VosTabulatedCharacterProperties::get_entry, unknown code point"
+#~ msgstr "dans VosTabulatedCharacterProperties::title_case"
+
+#~ msgid "in VosTabulatedCharacterProperties::title_case"
+#~ msgstr "dans VosTabulatedCharacterProperties::title_case"
+
+#~ msgid "in VosWatched::get_watchers"
+#~ msgstr "dans VosWatched::get_watchers"
+
+#~ msgid "in VosZIODesc::Read"
+#~ msgstr "dans VosZIODesc::Read"
+
+#~ msgid "in VosZIODesc::Write while trying to inflate data"
+#~ msgstr "dans VosZIODesc::Write en essayant de décompresser les données"
+
+#~ msgid "invalid UTF16 character found"
+#~ msgstr "Caractère UTF16 trouvé invalide"
+
+#~ msgid "invalid UTF8 character found"
+#~ msgstr "Caractère UTF8 trouvé invalide"
+
+#~ msgid "while computing difference (allocating diagonals arrays)"
+#~ msgstr "dans le calcul de différence (allocating diagonals arrays)"

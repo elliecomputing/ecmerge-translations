@@ -1,0 +1,636 @@
+# Ellié Computing VOS
+# Copyright (C) 2005 Ellié Computing
+# This file is distributed under the same license as enclosing product
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ellie-filehisto 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-22 14:15+0100\n"
+"PO-Revision-Date: 2005-11-07 14:45+0100\n"
+"Last-Translator: Armel Asselin <armel.asselin@elliecomputing.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "$0 ($1) - without signature"
+msgstr "$0 ($1) - без подписи"
+
+msgid "$1 ($0)"
+msgstr ""
+
+msgid "&Add"
+msgstr "Добавить"
+
+msgid "&Close"
+msgstr "Закрыть"
+
+msgid "&Connect"
+msgstr "Соединение"
+
+msgid "&Copy All"
+msgstr "Копировать все"
+
+msgid "&Remove"
+msgstr "Удалить"
+
+msgid "&Show All"
+msgstr "Показавть все"
+
+msgid "'$0' is invalid"
+msgstr "'$0' не действительно"
+
+msgid ""
+"A newer version exists for this platform but requires a newer OS or toolkit "
+"version"
+msgstr ""
+"Новая версия существует для данной платформы но требуется более новая ОС или "
+"набор инструментов"
+
+msgid "A&pply"
+msgstr "Применить"
+
+msgid "Add new"
+msgstr "Добавить новый"
+
+msgid "Add new profile"
+msgstr "Добавить новывй профайл"
+
+msgid "Advanced"
+msgstr "Расширенный"
+
+msgid "All Files"
+msgstr "Все файлы"
+
+msgid "Any number of path steps, at least one path separator"
+msgstr ""
+
+msgid "Any one character in the set"
+msgstr "Любой один символ из набора "
+
+msgid "Any one character not in the set"
+msgstr "Любой один символ не из набора"
+
+msgid "Any single character"
+msgstr "Любой единичный символ"
+
+msgid "Any single character except a path separator"
+msgstr "Любоый единичный символ за исключением разделителя пути"
+
+msgid "Any single path separator"
+msgstr "Любой единичный разделитель пути"
+
+msgid "Available since: $0"
+msgstr "Доступно с: $0"
+
+msgid "Backslash"
+msgstr "Обратный слэш"
+
+msgid "Backspace"
+msgstr "Пробел"
+
+msgid "Basic"
+msgstr "Основной"
+
+msgid "Beginning of line"
+msgstr "Начало строки"
+
+msgid "Beginning of word"
+msgstr "Начало слова"
+
+msgid "Blanks"
+msgstr "Пропуски"
+
+msgid "C&ancel"
+msgstr "Отмена"
+
+msgid "CLISCC Plugin Auto-detection"
+msgstr "Автоопределение CLISCC плагина"
+
+msgid "Cannot delete this profile. It's the only available profile."
+msgstr "Невозможно удалить данный проафайл. Это единственно доступный профайл"
+
+msgid "Carriage return"
+msgstr "Возврат каретки"
+
+msgid "Categories:"
+msgstr "Категории"
+
+msgid "Checking for updates"
+msgstr "Проверка обновлений"
+
+msgid "Clear Al&l"
+msgstr "Очистить все"
+
+msgid "Clipboard"
+msgstr "Буфер обмена"
+
+msgid "Clipboard copy too large"
+msgstr "Буфер обмена слишком большой"
+
+msgid "Close _Without Saving"
+msgstr "Закрыть без сохранения"
+
+msgid "Commands:"
+msgstr "Комманды:"
+
+msgid "Comment for $0"
+msgstr "Комментарий для $0"
+
+msgid "Comment for item $0:"
+msgstr "Комментарий для пункта $0:"
+
+msgid "Confirm deletion of selected mapping?"
+msgstr "Подтверждаете удаление выбронного преобразования?"
+
+msgid "Connection log"
+msgstr "Лог соединения"
+
+msgid "Copy this message to the clipboard"
+msgstr "Копировать данное сообщение в буфер обмена"
+
+msgid "Could not retrieve new version information because of following error:"
+msgstr "Невозможно получить информацию о новой версии из-за следующей ошибки:"
+
+msgid "Count"
+msgstr "Количество"
+
+msgid "Current shortcuts:"
+msgstr "Текущий ярлык"
+
+msgid "Currently assigned to:"
+msgstr "В настоящее время присвоено:"
+
+msgid "Description:"
+msgstr "Описание"
+
+msgid "Difference"
+msgstr "Отличие"
+
+msgid "Digit"
+msgstr "Цифра"
+
+msgid "Digit, letter or underscore"
+msgstr "Цифра, бук или нижнее подчеркивание"
+
+msgid "Do not ask again"
+msgstr "Не спрашивать в очередной раз"
+
+msgid "Double quotation mark"
+msgstr "Двойные кавычки"
+
+msgid "Ellié Computing"
+msgstr "Ellié Computing"
+
+msgid "End of line"
+msgstr "Конец строки"
+
+msgid "End of word"
+msgstr "Конец слова"
+
+msgid "Error level"
+msgstr "Уровень ошибки"
+
+msgid ""
+"Error while launching the following command: $0. Please see below for "
+"details.\n"
+"$1"
+msgstr ""
+"Ошибка при запуке следующей комманды: $0. Детали ошибки смотрите ниже \n"
+"$1"
+
+msgid "Escape special character"
+msgstr "Избегать специальные символы"
+
+msgid "Executables (*.exe,*.bat,*.com)|*.exe;*.bat;*.com"
+msgstr "Исполняемые файлы (*.exe,*.bat,*.com)|*.exe;*.bat;*.com"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "FHFSCliSccRegExParser::load_parameters"
+msgstr ""
+
+msgid "Failed"
+msgstr "Не удалось"
+
+msgid "Firewall / Proxy"
+msgstr "Файервол / Прокси"
+
+msgid "Form feed"
+msgstr "Разбиение страницы"
+
+msgid "Found text"
+msgstr "Найден текст"
+
+msgid "Hexadecimal sequence (2 digits: dd)"
+msgstr "Шестнадцатиричная последовательность (2 цифры: dd)"
+
+msgid "Horizontal tab"
+msgstr "Горизонтальная метка"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Input text"
+msgstr "Вводимый текст"
+
+msgid ""
+"Input the name of the new profile.\n"
+"The new profile will be initially set to a copy of the last selected profile."
+msgstr ""
+"Введите имя для ного профайла.\n"
+"Новый профайл будет изначально создан как копия последнего выбранного "
+"профайла."
+
+msgid ""
+"It seems that this platform is not supported anymore, though there is a "
+"newer version."
+msgstr ""
+"Скорее всего данная платформа более не поддерживается, хотя существует "
+"болееновая версия"
+
+msgid "Keeping existing"
+msgstr "Сохранить действующий"
+
+msgid "Key profile:"
+msgstr "Ключевой профайл:"
+
+msgid "Line terminator"
+msgstr "Разделитель строки"
+
+msgid "Listing error"
+msgstr "Список ошибок"
+
+msgid "Mask similarities"
+msgstr "Скрыть совпадения"
+
+msgid "Memory"
+msgstr "Память"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "New line"
+msgstr "Новая строка"
+
+msgid "New shortcut:"
+msgstr "Новый ярлык:"
+
+msgid "New version: $0 ($1)"
+msgstr "Новая версия: $0 ($1)"
+
+msgid "No action available"
+msgstr "Никаких действий не требуется"
+
+msgid "No common action available"
+msgstr "Никаких общих действий не требуется"
+
+msgid "No default application can open $0 extension"
+msgstr ""
+"Ни одно из приложений по умолчанию не может открыть $0 данное расширение"
+
+msgid "No default application can open $0 file type"
+msgstr "Ни одно из приложений по умолчанию не может открыть $0 тип файла"
+
+msgid "No new version"
+msgstr "Нет новой версии"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Not yet submitted"
+msgstr "До сих пор не выполнено"
+
+msgid "Octal sequence (3 digits: ooo)"
+msgstr "Восьмиринчая последовательнсоть (3 цифры: ooo)"
+
+msgid "One or more"
+msgstr "Один или более"
+
+msgid "Options Window"
+msgstr "Окно настроек"
+
+msgid "Or"
+msgstr "Или"
+
+msgid "Path"
+msgstr "Путь"
+
+msgid "Please select a directory"
+msgstr "Пожалуйства выберите директорию"
+
+msgid "Please wait for the server response or Cancel"
+msgstr "Пожалуйста дождитесь ответа сервера или Отмените операцию"
+
+msgid "Port value must be a numeric between 1 and 65535"
+msgstr "Значение порта должно быть числом от 1 до 65535"
+
+#, c-format
+msgid "Previous message was repeated %d times, until %s"
+msgstr "Предыдущее сообщение было повторено %d раз, до %s"
+
+msgid "Proxy authentication"
+msgstr "Прокси аутентификация"
+
+msgid "Remove"
+msgstr "Удалать"
+
+msgid "Remove all"
+msgstr "Удалить все"
+
+msgid "Repeat at least n times"
+msgstr "Повторить минимум n раз"
+
+msgid "Repeat n times"
+msgstr "Повторить n раз"
+
+msgid "Repeat n to m times"
+msgstr "Повторить от n до m раз"
+
+msgid "SCC Tool"
+msgstr "SCC инструмент"
+
+msgid "SCC tool info file with bad version number"
+msgstr ""
+
+msgid "SCC tool info file with not well-formed XML."
+msgstr ""
+
+msgid "S_kip"
+msgstr "Пропустить"
+
+msgid "Secure Shell (SSH)"
+msgstr "Secure Shell (SSH)"
+
+msgid "Select directory ($0)..."
+msgstr "Выберите директорию ($0)..."
+
+msgid "Select file ($0)..."
+msgstr "Выберите файл ($0)..."
+
+msgid "Select file or directory ($0)..."
+msgstr "Выберите файл или директорию ($0)..."
+
+msgid "Show &Warning and Errors"
+msgstr "Показать предупреждения и ошибки"
+
+msgid "Single quotation mark"
+msgstr "Одинарные кавычки"
+
+msgid "Source Code Control Source"
+msgstr "Система контроля версий"
+
+msgid "Source Code Controls"
+msgstr "Управление исходным кодом"
+
+msgid "Standard Error"
+msgstr "Стандартная Ошибка"
+
+msgid "Standard Input"
+msgstr "Стандартный ввод"
+
+msgid "Standard Output"
+msgstr "Стандартный вывод"
+
+msgid "Successfully submitted - Thank you"
+msgstr "Успешно выполнено - Спасибо"
+
+msgid "System default ($0)"
+msgstr "Системное значение по умолчанию ($0)"
+
+msgid "Tagged expression"
+msgstr "Помеченное выражение"
+
+msgid "Tagged expression 1"
+msgstr "Помеченное выражение 1"
+
+msgid "Tagged expression 2"
+msgstr "Помеченное выражение 2"
+
+msgid "Tagged expression 3"
+msgstr "Помеченное выражение 3"
+
+msgid "Tagged expression 4"
+msgstr "Помеченное выражение 4"
+
+msgid "Tagged expression 5"
+msgstr "Помеченное выражение 5"
+
+#, c-format
+msgid ""
+"The %s proxy did not accept current login or password information, please "
+"enter new information below:"
+msgstr ""
+"%s прокси не принимает текущий логин или пароль, пожалуйста введите новые "
+"данные ниже:"
+
+msgid ""
+"The given profile name is already in use.\n"
+"Enter another name."
+msgstr ""
+"Данное имя профайла уже используется.\n"
+"Введите другое имя"
+
+msgid "The item $0 is write protected, do you want to check it out?"
+msgstr "Пункт $0 защищен от записи, вы хотите проверить это? "
+
+#, c-format
+msgid ""
+"The previous profile (named \"%s\") has been modified.\n"
+"Do you want to save the changes to that profile ?"
+msgstr ""
+"Предыдущий профайл \"%s\" был изменен.\n"
+"Вы хотите сохранить изменения в этом профайле?"
+
+msgid "The server does not support this feature"
+msgstr "Сервер не поддерживает данный функционал"
+
+msgid "There is no path yet for tool $0 in Preferences/Scc Tools panel."
+msgstr ""
+"До сих пор не указан путь для инструмента $0 в Настройки/Scc панели "
+"инструментов."
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Unicode sequence (4 hex digits: dddd)"
+msgstr "Юникодная последовательность (4 шестнадцетиричные цифры: dddd)"
+
+msgid "Validation conflict"
+msgstr "Конфликт проверки"
+
+msgid "Variant"
+msgstr "Вариант"
+
+msgid "Visual Source Safe"
+msgstr ""
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Web / FTP"
+msgstr "Интернет / FTP"
+
+msgid "Web Source"
+msgstr "Интернет"
+
+msgid "Work in progress"
+msgstr "Работа выполняется"
+
+msgid "Working..."
+msgstr "Работает..."
+
+msgid "Write operations not supported on this file system ($0)"
+msgstr "Операции записи не поддерживаются данным файловой системой ($0)"
+
+msgid "You must select both local and target path for the SCC mapping."
+msgstr "Вы должны выбрать и локальный и целевой путь для SCC сопоставления."
+
+msgid "Zero or more"
+msgstr "Ноль или больше"
+
+msgid "Zero or more of any character"
+msgstr "Ноль или любой символ"
+
+msgid "Zero or more of any character except path separators"
+msgstr "Ноль или любой символ за исключением разделителей пути"
+
+msgid "Zero or one"
+msgstr "Ноль или один"
+
+msgid "_Cancel"
+msgstr "Отмена"
+
+msgid "_Keep"
+msgstr "Держать"
+
+msgid "_No"
+msgstr "Нет"
+
+msgid "_OK"
+msgstr "Ок"
+
+msgid "_Replace"
+msgstr "Заменить"
+
+msgid "_Retry"
+msgstr "Повторить"
+
+msgid "_Save"
+msgstr "Сохранить"
+
+msgid "_Stop"
+msgstr "Остановить"
+
+msgid "_Yes"
+msgstr "Да"
+
+msgid "a setting keyword may not be empty"
+msgstr ""
+
+msgid "cannot find selected text in tree list view"
+msgstr "выбранный текст не найден в списке"
+
+msgid "cannot set more than one of: date, label or revision in same context"
+msgstr ""
+"невозможно задать более одного свойства: дату, название или ревизию в одном "
+"и том же контексте"
+
+msgid "copy_file: source not valid or heterogeneous"
+msgstr "copy_file: источник не правильный или  не однозначный"
+
+msgid "getting list of local files for $0"
+msgstr "получение списка локальных файлов для $0"
+
+msgid "local"
+msgstr "локальный"
+
+msgid "missing equal sign in $0"
+msgstr "пропущен знак равно в $0"
+
+msgid "native"
+msgstr "родной"
+
+msgid "node with label: $0, was not found"
+msgstr "узел с названием: $0 не был найден"
+
+msgid "none"
+msgstr "нет"
+
+msgid "tool inactive or no path defined"
+msgstr "инструмент отключен или путь не задан"
+
+msgid "trying to overwrite a folder ($0) with file copy"
+msgstr "попытка перезаписать папку ($0) с копированием файла"
+
+msgid "unknown setting keyword $0"
+msgstr "неизвестное нажаитие клавиши $0 "
+
+msgid "you forgot to set errormsg"
+msgstr "вы забыли установить сообщение об ошибке"
+
+msgid "you must select a value for '$0'"
+msgstr "вы должны выбрать значение для '$0'"
+
+msgid "{'Cancel' button shortcut key}C"
+msgstr "C"
+
+msgid "{'Close _Without Saving' button shortcut key}D"
+msgstr "D"
+
+msgid "{'Keep' button shortcut key}K"
+msgstr "K"
+
+msgid "{'No' button shortcut key}N"
+msgstr "N"
+
+msgid "{'OK' button shortcut key}O"
+msgstr "O"
+
+msgid "{'Replace' button shortcut key}R"
+msgstr "R"
+
+msgid "{'Retry' button shortcut key}R"
+msgstr "R"
+
+msgid "{'Save' button shortcut key}S"
+msgstr "S"
+
+msgid "{'Skip' button shortcut key}K"
+msgstr "K"
+
+msgid "{'Stop' button shortcut key}S"
+msgstr "S"
+
+msgid "{'Yes' button shortcut key}Y"
+msgstr "Y"
+
+msgid "{BinaryEditor}Offset"
+msgstr "Отступ"
+
+msgid "{Filesystem}Local"
+msgstr "Локальный"
+
+msgid "{Filesystem}SCC"
+msgstr "SCC"
+
+msgid "{Filesystem}Web"
+msgstr "Интернет"
+
+msgid "{Source Code Controls}Mappings"
+msgstr "Сопоставление"
+
+msgid "{proxy}Both server and port must be either empty or filled"
+msgstr "И сервер и порт должны быть или пустыми или заполненными"
+
+#~ msgid "{'Discard' button shortcut key}D"
+#~ msgstr "D"
+
+#~ msgid "{Filesystem}FTP/HTTP"
+#~ msgstr "FTP/HTTP"

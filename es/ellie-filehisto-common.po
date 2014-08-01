@@ -1,0 +1,677 @@
+# Ellié Computing VOS
+# Copyright (C) 2005 Ellié Computing
+# This file is distributed under the same license as enclosing product
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ellie-filehisto 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-22 14:15+0100\n"
+"PO-Revision-Date: 2005-11-07 14:45+0100\n"
+"Last-Translator: Armel Asselin <armel.asselin@elliecomputing.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "$0 ($1) - without signature"
+msgstr "$0 ($1) - sin firma"
+
+msgid "$1 ($0)"
+msgstr "$1 ($0)"
+
+msgid "&Add"
+msgstr "&Añadir"
+
+msgid "&Close"
+msgstr "&Cerrar"
+
+msgid "&Connect"
+msgstr "&Connectar"
+
+msgid "&Copy All"
+msgstr "&Copiar Todo"
+
+msgid "&Remove"
+msgstr "&Quitar"
+
+msgid "&Show All"
+msgstr "&Mostrar Todo"
+
+msgid "'$0' is invalid"
+msgstr "'$0' está inválido"
+
+msgid ""
+"A newer version exists for this platform but requires a newer OS or toolkit "
+"version"
+msgstr ""
+"Una nueva versión existe para esta plataforma pero requiere una versión más "
+"reciente del sistema operativo o del toolkit"
+
+msgid "A&pply"
+msgstr "A&plicar"
+
+msgid "Add new"
+msgstr "Añadir un nuevo"
+
+msgid "Add new profile"
+msgstr "Añadir nuevo perfil"
+
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgid "All Files"
+msgstr "Todos los archivos"
+
+msgid "Any number of path steps, at least one path separator"
+msgstr "Cualquier número de pasos en la ruta, al menos un separador de ruta"
+
+msgid "Any one character in the set"
+msgstr "Un carácter cualquiera del conjunto"
+
+msgid "Any one character not in the set"
+msgstr "Un carácter cualquiera no perteneciente al conjunto"
+
+msgid "Any single character"
+msgstr "Un carácter cualquiera"
+
+msgid "Any single character except a path separator"
+msgstr "Cualquier carácter individual pero no separador"
+
+msgid "Any single path separator"
+msgstr "Cualquier separador individual de ruta"
+
+msgid "Available since: $0"
+msgstr "Disponible desde $0"
+
+msgid "Backslash"
+msgstr "Backslash"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Basic"
+msgstr "Básico"
+
+msgid "Beginning of line"
+msgstr "Inicio de línea"
+
+msgid "Beginning of word"
+msgstr "Inicio de palabra"
+
+msgid "Blanks"
+msgstr "Blancos"
+
+msgid "C&ancel"
+msgstr "C&ancelar"
+
+msgid "CLISCC Plugin Auto-detection"
+msgstr "Auto-detección de los plugins CLISCC"
+
+msgid "Cannot delete this profile. It's the only available profile."
+msgstr "No se puede quitar este perfil. Es el único disponible."
+
+msgid "Carriage return"
+msgstr "Retorno de carro"
+
+msgid "Categories:"
+msgstr "Categorías:"
+
+msgid "Checking for updates"
+msgstr "Comprobando las actualizaciones"
+
+msgid "Clear Al&l"
+msgstr "&Borrar todo"
+
+msgid "Clipboard"
+msgstr "Clipboard"
+
+msgid "Clipboard copy too large"
+msgstr "Copiar al portapapeles imposible: demasiado datos"
+
+msgid "Close _Without Saving"
+msgstr "Cerrar _Sin Guardar"
+
+msgid "Commands:"
+msgstr "Comandos:"
+
+msgid "Comment for $0"
+msgstr "Comentario para $0"
+
+msgid "Comment for item $0:"
+msgstr "Comentario para $0:"
+
+msgid "Confirm deletion of selected mapping?"
+msgstr "¿Confirme la supresión de la correspondancia seleccionada?"
+
+msgid "Connection log"
+msgstr "Registro de conexiones"
+
+msgid "Copy this message to the clipboard"
+msgstr "Copiar este mensage en el portapapeles"
+
+msgid "Could not retrieve new version information because of following error:"
+msgstr ""
+"No se pudo recuperar la información de la nueva versión a causa del error:"
+
+msgid "Count"
+msgstr "Recuento"
+
+msgid "Current shortcuts:"
+msgstr "Combinación de teclas actual:"
+
+msgid "Currently assigned to:"
+msgstr "Ya assignada a:"
+
+msgid "Description:"
+msgstr "Descripción:"
+
+msgid "Difference"
+msgstr "Diferencia"
+
+msgid "Digit"
+msgstr "Dígito"
+
+msgid "Digit, letter or underscore"
+msgstr "Dígito, letra o guión bajo"
+
+msgid "Do not ask again"
+msgstr "No preguntar más"
+
+msgid "Double quotation mark"
+msgstr "Comilla inglesa"
+
+msgid "Ellié Computing"
+msgstr "Ellié Computing"
+
+msgid "End of line"
+msgstr "Fin de línea"
+
+msgid "End of word"
+msgstr "Fin de palabra"
+
+msgid "Error level"
+msgstr "Nivel del error"
+
+msgid ""
+"Error while launching the following command: $0. Please see below for "
+"details.\n"
+"$1"
+msgstr ""
+"Error intentando ejecutar el comando siguiente: $0. Favor de ver abajo los "
+"detalles.\n"
+" %l"
+
+msgid "Escape special character"
+msgstr "Carácter especial escape"
+
+msgid "Executables (*.exe,*.bat,*.com)|*.exe;*.bat;*.com"
+msgstr "Ejecutables (*.exe,*.bat,*.com)|*.exe;*.bat;*.com"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "FHFSCliSccRegExParser::load_parameters"
+msgstr "FHFSCliSccRegExParser::load_parameters"
+
+msgid "Failed"
+msgstr "Error"
+
+msgid "Firewall / Proxy"
+msgstr "Firewall / Proxy"
+
+msgid "Form feed"
+msgstr "Salto de página"
+
+msgid "Found text"
+msgstr "Texto encontrado"
+
+msgid "Hexadecimal sequence (2 digits: dd)"
+msgstr "Secuencia hexadecimal (2 dígitos: dd)"
+
+msgid "Horizontal tab"
+msgstr "Tabulador horizontal"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Input text"
+msgstr "Entrar texto"
+
+msgid ""
+"Input the name of the new profile.\n"
+"The new profile will be initially set to a copy of the last selected profile."
+msgstr ""
+"Entra el nombre del nuevo perfil.\n"
+"Se copiará el nuevo perfil del último perfil seleccionado."
+
+msgid ""
+"It seems that this platform is not supported anymore, though there is a "
+"newer version."
+msgstr ""
+"Parece ser que no se soporta esta plataforma, aunque hay una nueva versión."
+
+msgid "Keeping existing"
+msgstr "Conservar el actual"
+
+msgid "Key profile:"
+msgstr "Perfil de teclas:"
+
+msgid "Line terminator"
+msgstr "Terminador de línea"
+
+msgid "Listing error"
+msgstr "Error listando"
+
+msgid "Mask similarities"
+msgstr "Ocultar similares"
+
+msgid "Memory"
+msgstr "Memoria"
+
+msgid "Message"
+msgstr "Mensage"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "New line"
+msgstr "Salto de línea"
+
+msgid "New shortcut:"
+msgstr "Nueva combinación:"
+
+msgid "New version: $0 ($1)"
+msgstr "Nueva versión: $0 ($1)"
+
+msgid "No action available"
+msgstr "Ninguna acción disponible"
+
+msgid "No common action available"
+msgstr "Ninguna acción común disponible"
+
+msgid "No default application can open $0 extension"
+msgstr "Ninguna aplicación por defecto para abrir la extensión $0"
+
+msgid "No default application can open $0 file type"
+msgstr "Ninguna aplicación por defecto para abrir el tipo del archivo $0"
+
+msgid "No new version"
+msgstr "Ningúna neuva versión"
+
+msgid "None"
+msgstr "Ningún"
+
+msgid "Not yet submitted"
+msgstr "Sin enviar aún"
+
+msgid "Octal sequence (3 digits: ooo)"
+msgstr "Secuencia octal (3 dígitos: ooo)"
+
+msgid "One or more"
+msgstr "Uno o más"
+
+msgid "Options Window"
+msgstr "Ventana de opciones"
+
+msgid "Or"
+msgstr "O"
+
+msgid "Path"
+msgstr "Ruta"
+
+msgid "Please select a directory"
+msgstr "Favor de seleccionar una carpeta"
+
+msgid "Please wait for the server response or Cancel"
+msgstr "Favor de esperar la respuesta del servidor o Cancelar"
+
+msgid "Port value must be a numeric between 1 and 65535"
+msgstr "El puerto es una valor numérica entre 1 y 65535"
+
+#, c-format
+msgid "Previous message was repeated %d times, until %s"
+msgstr "Precedente mensaje fue repetido %d veces, hasta %s"
+
+msgid "Proxy authentication"
+msgstr "Autentificación a través de proxy"
+
+msgid "Remove"
+msgstr "Quitar"
+
+msgid "Remove all"
+msgstr "Quitar todos"
+
+msgid "Repeat at least n times"
+msgstr "Repetir al menos n veces"
+
+msgid "Repeat n times"
+msgstr "Repetir n veces"
+
+msgid "Repeat n to m times"
+msgstr "Repetir n a m veces"
+
+msgid "SCC Tool"
+msgstr "Herramienta SCC"
+
+msgid "SCC tool info file with bad version number"
+msgstr ""
+
+msgid "SCC tool info file with not well-formed XML."
+msgstr ""
+
+msgid "S_kip"
+msgstr "_Ignorar"
+
+msgid "Secure Shell (SSH)"
+msgstr "Secure Shell (SSH)"
+
+msgid "Select directory ($0)..."
+msgstr "Selecciona una carpeta ($0)"
+
+msgid "Select file ($0)..."
+msgstr "Selecciona un archivo ($0)"
+
+msgid "Select file or directory ($0)..."
+msgstr "Selecciona un archivo o una carpeta ($0)"
+
+msgid "Show &Warning and Errors"
+msgstr "Mostrar &Advertencias y Errores"
+
+msgid "Single quotation mark"
+msgstr "Comilla simple"
+
+msgid "Source Code Control Source"
+msgstr "Fuente de Sistemas de Control de Revisión"
+
+msgid "Source Code Controls"
+msgstr "Sistemas de Control de Revisión"
+
+msgid "Standard Error"
+msgstr "Standard Error"
+
+msgid "Standard Input"
+msgstr "Standard Input"
+
+msgid "Standard Output"
+msgstr "Standard Output"
+
+msgid "Successfully submitted - Thank you"
+msgstr "Los datos se han enviado correctamente - Gracias"
+
+msgid "System default ($0)"
+msgstr "Parámetro por defecto del sistema ($0)"
+
+msgid "Tagged expression"
+msgstr "Expresión etiquetada"
+
+msgid "Tagged expression 1"
+msgstr "Expresión etiquetada 1"
+
+msgid "Tagged expression 2"
+msgstr "Expresión etiquetada 2"
+
+msgid "Tagged expression 3"
+msgstr "Expresión etiquetada 3"
+
+msgid "Tagged expression 4"
+msgstr "Expresión etiquetada 4"
+
+msgid "Tagged expression 5"
+msgstr "Expresión etiquetada 5"
+
+#, c-format
+msgid ""
+"The %s proxy did not accept current login or password information, please "
+"enter new information below:"
+msgstr ""
+"Falló la conexión con el proxy %s. Favor de entrar un nombre de usuario y "
+"una  contraseña debajo:"
+
+msgid ""
+"The given profile name is already in use.\n"
+"Enter another name."
+msgstr ""
+"Ya existe este nombre de perfil.\n"
+"Entra un otro nombre."
+
+msgid "The item $0 is write protected, do you want to check it out?"
+msgstr ""
+"El elemento $0 està protegido contra escritura, ¿desea hacer un check-out?"
+
+#, c-format
+msgid ""
+"The previous profile (named \"%s\") has been modified.\n"
+"Do you want to save the changes to that profile ?"
+msgstr ""
+"El perfil precedente (\"%s\") ha sido modificado.\n"
+"¿Desea guardar los cambios de este perfil?"
+
+msgid "The server does not support this feature"
+msgstr "El servidor no soporta esta característica"
+
+msgid "There is no path yet for tool $0 in Preferences/Scc Tools panel."
+msgstr "No hay ruta para la herramienta $0 en Preferencias/Herramientas SCC."
+
+msgid "Time"
+msgstr "Hora"
+
+msgid "Unicode sequence (4 hex digits: dddd)"
+msgstr "Secuencia Unicode (4 dígitos hexadecimales: dddd)"
+
+msgid "Validation conflict"
+msgstr "Conflicto de validación"
+
+msgid "Variant"
+msgstr "Variant"
+
+msgid "Visual Source Safe"
+msgstr "Visual Source Safe"
+
+msgid "Warning"
+msgstr "Advertencia"
+
+msgid "Web / FTP"
+msgstr "Web / FTP"
+
+msgid "Web Source"
+msgstr "Fuente Web"
+
+msgid "Work in progress"
+msgstr "Proceso en curso"
+
+msgid "Working..."
+msgstr "Proceso en curso..."
+
+msgid "Write operations not supported on this file system ($0)"
+msgstr ""
+"Non estàn soportadas las operaciones de escritura en este sistema de "
+"archivos ($0)"
+
+msgid "You must select both local and target path for the SCC mapping."
+msgstr ""
+"Debe seleccionar ambas rutas local y destinación para la correspondancia SCC."
+
+msgid "Zero or more"
+msgstr "Cero o más"
+
+msgid "Zero or more of any character"
+msgstr "Cero o más caracteres cualesquiera"
+
+msgid "Zero or more of any character except path separators"
+msgstr "Cero o más caracteres cualesquiera pero no separador"
+
+msgid "Zero or one"
+msgstr "Cero o uno"
+
+msgid "_Cancel"
+msgstr "_Cancelar"
+
+msgid "_Keep"
+msgstr "_Mantener"
+
+msgid "_No"
+msgstr "_No"
+
+msgid "_OK"
+msgstr "_OK"
+
+msgid "_Replace"
+msgstr "_Reemplazar"
+
+msgid "_Retry"
+msgstr "_Reintentar"
+
+msgid "_Save"
+msgstr "_Guardar"
+
+msgid "_Stop"
+msgstr "_Terminar"
+
+msgid "_Yes"
+msgstr "_Sí"
+
+msgid "a setting keyword may not be empty"
+msgstr "una palabra clave de configuración no puede ser vacía"
+
+msgid "cannot find selected text in tree list view"
+msgstr "imposible de encontrar el texto seleccionado en la vista de árbol"
+
+msgid "cannot set more than one of: date, label or revision in same context"
+msgstr ""
+"incompatibilidad entre: fecha, label y revisión, nada más una información "
+"está autorizada en un contexto"
+
+msgid "copy_file: source not valid or heterogeneous"
+msgstr "copy_file: fuente inválida o heterogénea"
+
+msgid "getting list of local files for $0"
+msgstr "recuperando la lista de los archivos locales para $0"
+
+msgid "local"
+msgstr "local"
+
+msgid "missing equal sign in $0"
+msgstr "signo igual faltante en $0"
+
+msgid "native"
+msgstr "native"
+
+msgid "node with label: $0, was not found"
+msgstr "el nodo con la etiqueta: $0, no se encontró"
+
+msgid "none"
+msgstr "ningún"
+
+msgid "tool inactive or no path defined"
+msgstr "herramienta inactiva o ruta non definida"
+
+msgid "trying to overwrite a folder ($0) with file copy"
+msgstr "tentativa de reemplazar una carpeta ($0) con la copia de un archivo"
+
+msgid "unknown setting keyword $0"
+msgstr "palabra clave de configuración desconocida"
+
+msgid "you forgot to set errormsg"
+msgstr "errormsg no está especificado"
+
+msgid "you must select a value for '$0'"
+msgstr "Debe seleccionar un valor por '$0'"
+
+msgid "{'Cancel' button shortcut key}C"
+msgstr "C"
+
+msgid "{'Close _Without Saving' button shortcut key}D"
+msgstr "S"
+
+msgid "{'Keep' button shortcut key}K"
+msgstr "M"
+
+msgid "{'No' button shortcut key}N"
+msgstr "N"
+
+msgid "{'OK' button shortcut key}O"
+msgstr "O"
+
+msgid "{'Replace' button shortcut key}R"
+msgstr "R"
+
+msgid "{'Retry' button shortcut key}R"
+msgstr "R"
+
+msgid "{'Save' button shortcut key}S"
+msgstr "G"
+
+msgid "{'Skip' button shortcut key}K"
+msgstr "I"
+
+msgid "{'Stop' button shortcut key}S"
+msgstr "T"
+
+msgid "{'Yes' button shortcut key}Y"
+msgstr "S"
+
+msgid "{BinaryEditor}Offset"
+msgstr "Offset"
+
+msgid "{Filesystem}Local"
+msgstr "Local"
+
+msgid "{Filesystem}SCC"
+msgstr "FTP"
+
+msgid "{Filesystem}Web"
+msgstr "Web"
+
+msgid "{Source Code Controls}Mappings"
+msgstr "Correspondancias"
+
+msgid "{proxy}Both server and port must be either empty or filled"
+msgstr "El servidor y el puerto deben de ser ambos vacíos o llenados"
+
+#~ msgid "FTP"
+#~ msgstr "FTP"
+
+#~ msgid "Perforce"
+#~ msgstr "Perforce"
+
+#~ msgid "WebDAV"
+#~ msgstr "WebDAV"
+
+#~ msgid "_Discard"
+#~ msgstr "_Ignorar"
+
+#~ msgid "ext"
+#~ msgstr "ext"
+
+#~ msgid "fork"
+#~ msgstr "fork"
+
+#~ msgid "gserver"
+#~ msgstr "gserver"
+
+#~ msgid "in BinaryDiff::apply_difference while writing"
+#~ msgstr "en BinaryDiff::apply_difference mientras escribiendo"
+
+#~ msgid "ionForge Evolution"
+#~ msgstr "ionForge Evolution"
+
+#~ msgid "kserver"
+#~ msgstr "kserver"
+
+#~ msgid "pserver"
+#~ msgstr "pserver"
+
+#~ msgid "server"
+#~ msgstr "server"
+
+#~ msgid "wrong quantity written in BinaryDiff::apply_difference"
+#~ msgstr ""
+#~ "cantidad incorrecta de datos escritos en BinaryDiff::apply_difference"
+
+#~ msgid "{'Discard' button shortcut key}D"
+#~ msgstr "I"
+
+#~ msgid "{Filesystem}FTP/HTTP"
+#~ msgstr "FTP/HTTP"
