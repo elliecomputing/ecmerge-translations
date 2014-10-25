@@ -16,63 +16,65 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Advanced Server "
-msgstr ""
+msgstr " Продвинутый Сервер "
 
 msgid " Datacenter Edition "
-msgstr ""
+msgstr "Версия Датацентр "
 
 msgid " Datacenter Server "
-msgstr ""
+msgstr " Датацентр Сервер "
 
 msgid " Enterprise Edition "
-msgstr ""
+msgstr " Промышленное издание"
 
 msgid " Home Edition "
-msgstr ""
+msgstr " Домашнее Изадание"
 
 msgid " OSR2"
 msgstr ""
 
 msgid " Professional "
-msgstr ""
+msgstr " Профессиональный "
 
 msgid " SE"
 msgstr ""
 
 msgid " Server "
-msgstr ""
+msgstr " Сервер "
 
 msgid " Server 4.0 "
-msgstr ""
+msgstr " Сервер 4.0"
 
 msgid " Server 4.0, Enterprise Edition "
-msgstr ""
+msgstr " Сервер 4.0, Промышленное Издание"
 
 msgid " Standard Edition "
-msgstr ""
+msgstr " Стандартное Издание "
 
 msgid " Web Edition "
-msgstr ""
+msgstr " Веб Издание "
 
 msgid " Workstation 4.0 "
-msgstr ""
+msgstr " Рабочая станция 4.0 "
 
 msgid ""
 "$0\n"
 "Error class: $1"
 msgstr ""
+"$0\n"
+"Класс ошибки: $1"
 
 msgid "2 weeks ago"
-msgstr ""
+msgstr "2 недели назад"
 
 msgid "3 weeks ago"
-msgstr ""
+msgstr "3 недели назад"
 
 msgid "A reference to another object prevents this action"
-msgstr ""
+msgstr "Ссылка на другой объект не позволяет выполнить данное действие"
 
 msgid "Access rights prevents this action"
-msgstr ""
+msgstr "Не достаточно прав доступа для выполнения данного действия"
 
 msgid "Arabic"
 msgstr ""
@@ -105,13 +107,13 @@ msgid "CVOSIODesc does not have Length"
 msgstr ""
 
 msgid "CVOSIODesc does not have Seek"
-msgstr ""
+msgstr "CVOSIODesc не имеет Seek"
 
 msgid "Central European - ANSI"
 msgstr ""
 
 msgid "Character not recognized in VosUnicode"
-msgstr ""
+msgstr "Символ не распознан в VosUnicode"
 
 msgid "Chinese"
 msgstr ""
@@ -123,19 +125,19 @@ msgid "Chinese CCITT"
 msgstr ""
 
 msgid "Conflict detected"
-msgstr ""
+msgstr "Обнаружен конфликт"
 
 msgid "Could not commit"
-msgstr ""
+msgstr "Не возможно сохранить"
 
 msgid "Could not determine item MIME type"
-msgstr ""
+msgstr "Не возможно определить MIME тип объекта"
 
 msgid "Croatia"
 msgstr ""
 
 msgid "Current state of the object prevents user from doing that"
-msgstr ""
+msgstr "Текущее состояние объекта не позволяет пользователю выполнить это"
 
 msgid "Cyrillic"
 msgstr ""
@@ -144,19 +146,19 @@ msgid "Cyrillic - ANSI"
 msgstr ""
 
 msgid "Day before yesterday"
-msgstr ""
+msgstr "Позавчера"
 
 msgid "Devanagari - ISCII"
 msgstr ""
 
 msgid "Earlier this month"
-msgstr ""
+msgstr "Ранее в этом месяце"
 
 msgid "Earlier this week"
-msgstr ""
+msgstr "Ранее на этой неделе"
 
 msgid "Error during Report generation"
-msgstr ""
+msgstr "Ошибка во время генерации Отчета"
 
 msgid "Europa 3"
 msgstr ""
@@ -168,30 +170,32 @@ msgid ""
 "FTP listing line $0 not recognized:\n"
 "$1"
 msgstr ""
+"FTP листинг строки $0 не распознан:\n"
+"$1"
 
 msgid "Failed to compute comparison summary"
-msgstr ""
+msgstr "Ошибка при подсчете суммы сравнения"
 
 msgid "Failed to compute detailed comparison"
-msgstr ""
+msgstr "Ошибка при вычислении детального сравнения"
 
 msgid "Failed to list the content of a folder"
-msgstr ""
+msgstr "Ошибка при построении списка содержимого директории"
 
 msgid "Failed to write output"
-msgstr ""
+msgstr "Ошибка при записи вывода"
 
 msgid "File or folder already exists"
-msgstr ""
+msgstr "Файл или директория уже существует"
 
 msgid "File system item has wrong or unexpected type for operation"
-msgstr ""
+msgstr "Объект файловой системы имеет неправильное или непредвиденный тип для операции"
 
 msgid "File system item not found"
-msgstr ""
+msgstr "Объект файловой системы не найден"
 
 msgid "Function not implemented"
-msgstr ""
+msgstr "Функция не применима"
 
 msgid "Georgian"
 msgstr ""
@@ -290,24 +294,26 @@ msgid ""
 "In JavaScript: $0\n"
 "$3"
 msgstr ""
+"В JavaScript: $0\n"
+"$3"
 
 msgid "Incomplete path"
-msgstr ""
+msgstr "Неполный путь"
 
 msgid "Inconsistency found"
-msgstr ""
+msgstr "Несоответствие найдено"
 
 msgid "Insufficient access rights"
-msgstr ""
+msgstr "Недостаточно прав доступа"
 
 msgid "Invalid parameter"
-msgstr ""
+msgstr "Неправильный параметр"
 
 msgid "Item is not checked-out for given user/context: cannot operate"
-msgstr ""
+msgstr "Объект не выбран для полученного пользователя/контекста: невозможно выполнить"
 
 msgid "Item needs to be merged"
-msgstr ""
+msgstr "Для объекта необходимо произвести слияние"
 
 msgid "Japanese"
 msgstr ""
@@ -412,25 +418,25 @@ msgid "Microsoft Windows XP"
 msgstr ""
 
 msgid "Missing Serial Number"
-msgstr ""
+msgstr "Пропущен Серийный Номер"
 
 msgid "Move of $0 to $1 failed because of system error ($2)."
-msgstr ""
+msgstr "Перенос$0 в $1 не удался в следствие системной ошибки ($2)."
 
 msgid "No message yet for this error code ($0)"
-msgstr ""
+msgstr "Нет сообщения для данного кода ошибки ($0)"
 
 msgid "Not Connected"
-msgstr ""
+msgstr "Нет Соединения"
 
 msgid "Older"
-msgstr ""
+msgstr "Старые"
 
 msgid "Operation canceled by the user"
-msgstr ""
+msgstr "Операция отменена пользователем"
 
 msgid "Operation did not work, but may if you retry"
-msgstr ""
+msgstr "Операция не может быть выполнена, но вы можете попробовать повторить ее"
 
 msgid "Oriya - ISCII"
 msgstr ""
@@ -448,22 +454,22 @@ msgid "Russian"
 msgstr ""
 
 msgid "Same identifier already used for another object"
-msgstr ""
+msgstr "Тот же идентификатор уже используется для другого объекта"
 
 msgid "Serial Number Version verification failed"
-msgstr ""
+msgstr "Проверка Версии Серийного Номера провалена"
 
 msgid "Serial Number period expired"
-msgstr ""
+msgstr "Период действия Серийного Номера истек"
 
 msgid "Serial Number product verification failed"
-msgstr ""
+msgstr "Проверка Серийного Номера провалена"
 
 msgid "Serial Number verification failed"
-msgstr ""
+msgstr "Проверка Серийного Номера провалена"
 
 msgid "Sharing violation"
-msgstr ""
+msgstr "Совместное нарушение"
 
 msgid "Shift JIS - Microsoft"
 msgstr ""
@@ -489,20 +495,23 @@ msgstr ""
 msgid ""
 "Source and destination of an operation are equal whereas it is not authorized"
 msgstr ""
+"Источник и назначение операции одинаковы что не допустимо"
 
 msgid ""
 "String conversion failed because no known mapping exists between the two "
 "encodings"
 msgstr ""
+"Преобразование строки провалено так как не существует известного сопоставления между"
+"двумя кодировками"
 
 msgid "String conversion failed because some character would be lost"
-msgstr ""
+msgstr "Преобразование строки провалено так как некоторые символы будут потеряны"
 
 msgid "Success"
-msgstr ""
+msgstr "Успех"
 
 msgid "System error ($0) for item $1"
-msgstr ""
+msgstr "Системная ошибка ($0) для объекта $1"
 
 msgid "Taiwan - CNS"
 msgstr ""
@@ -541,40 +550,40 @@ msgid "Thai - Microsoft"
 msgstr ""
 
 msgid "The character code encountered is invalid in given encoding"
-msgstr ""
+msgstr "Данный код символа недействителен в данной кодировке"
 
 msgid "The code point is truncated, its end is not in current buffer"
-msgstr ""
+msgstr "Точка кода обрезается, ее конец не в текущем буфере"
 
 msgid "The composition of two paths gave an invalid result"
-msgstr ""
+msgstr "Композиция двух путей дала неверный результат"
 
 msgid "The connection with the server was lost"
-msgstr ""
+msgstr "Соединение с сервером было потеряно"
 
 msgid "The conversion does not fit into target buffer"
-msgstr ""
+msgstr "Преобразование не вписывается в целевой буфер"
 
 msgid "The data format was not recognized"
-msgstr ""
+msgstr "Формат данных не был распознан"
 
 msgid "The data used as the base of current work changed unexpectedly"
-msgstr ""
+msgstr "Данные, используемые в качестве основы текущей работы изменились неожиданно "
 
 msgid "The functionality is not supported"
-msgstr ""
+msgstr "Функциональность не поддерживается"
 
 msgid "The network file system cannot be found"
-msgstr ""
+msgstr "Сетевая файловая система не может быть найдена"
 
 msgid "The text contains binary characters"
-msgstr ""
+msgstr "Текст содержит бинарные символы"
 
 msgid "The text does not conform to UTF encoding ($0) near binary position $1."
-msgstr ""
+msgstr "Текст не соответствует кодировке UTF ($0) возле двоичной позиция $ 1"
 
 msgid "Today"
-msgstr ""
+msgstr "Сегодня"
 
 msgid "Traditional Chinese"
 msgstr ""
@@ -595,7 +604,7 @@ msgid "Turkish - ANSI"
 msgstr ""
 
 msgid "Type of link differs on client and server"
-msgstr ""
+msgstr "Тип ссылки отличается на клиенте и на сервере"
 
 msgid "UCS2 (truncation of UCS4 code) Big endian"
 msgstr ""
@@ -634,27 +643,35 @@ msgid "Unicode UCS-4 Little-Endian"
 msgstr ""
 
 msgid "User acts on an object owned by another user"
-msgstr ""
+msgstr "Пользователь воздействует на объект, принадлежащий другому пользователю"
 
 msgid ""
 "User need to confirm (or force) this action, some non-obvious information "
 "will be lost"
 msgstr ""
+"Пользователь должен подтвердить (или отменить) это действие, некоторая неочевидная "
+"информация будет потеряна"
 
 msgid ""
 "User need to confirm this action, because he wants to act on an object he "
 "does not own"
 msgstr ""
+"Пользователь должен подтвердить это действие, потому что он хочет воздействовать "
+"на объект, которым он не владеет"
 
 msgid ""
 "User need to confirm this action, because the action needs to remove a "
 "checkout entry before proceeding"
 msgstr ""
+"Пользователь должен подтвердить это действие, потому что действие приведет к "
+"удалению контрольной записи перед продолжением"
 
 msgid ""
 "User need to confirm this action, because the move operation has some non-"
 "obvious effects"
 msgstr ""
+"Пользователь должен подтвердить это действие, потому что операция переноса имеет "
+"неочевидный эффект"
 
 msgid "Vietnamese"
 msgstr ""
@@ -666,91 +683,94 @@ msgid "VosFileSystem::set_file_attributes($0)"
 msgstr ""
 
 msgid "XML document badly formatted"
-msgstr ""
+msgstr "XML документ плохо отформатирован"
 
 msgid "XML node not found"
-msgstr ""
+msgstr "XML узел не найден"
 
 msgid "Yesterday"
-msgstr ""
+msgstr "Вчера"
 
 msgid "ancestor"
-msgstr ""
+msgstr "предок"
 
 msgid "ancestor/left"
-msgstr ""
+msgstr "предок/левый"
 
 msgid "ancestor/right"
 msgstr ""
 
 msgid "context, both sides"
-msgstr ""
+msgstr "контекст, обе стороны"
 
 msgid "context, unified"
-msgstr ""
+msgstr "контекст, единый"
 
 msgid "could not parse regular expression, because of error: $0"
-msgstr ""
+msgstr "не возможно разобрать регулярное выражение в следствие ошибки: $0"
 
 msgid "could not parse regular expression, because of error: $0 at position $1"
-msgstr ""
+msgstr "не возможно разобрать регулярное выражение в следствие ошибки: $0 на позиции $1"
 
 msgid "file size exceeds internal string limits"
-msgstr ""
+msgstr "размер файла превышает внутренние ограничения строк"
 
 msgid ""
 "in CVOSTextFile::PutString, cannot convert string exactly to file output "
 "encoding"
 msgstr ""
+"в CVOSTextFile::PutString невозможно преобразовать строку точно в кодировке "
+"файла вывода"
 
 msgid "in VosByteStream"
-msgstr ""
+msgstr "в VosByteStream"
 
 msgid "in VosByteStream::io_seek, IO descriptor not seek-able"
-msgstr ""
+msgstr "в VosByteStream::io_seek, IO дескриптор не доступен для поиска"
 
 msgid "in VosByteStreamIter::append"
-msgstr ""
+msgstr "в VosByteStreamIter::append"
 
 msgid "in VosFileSystem::get_logical_drives"
-msgstr ""
+msgstr "в VosFileSystem::get_logical_drives"
 
 msgid "in VosLCSDiff::make_choices"
-msgstr ""
+msgstr "в VosLCSDiff::make_choices"
 
 msgid ""
 "invalid $2 character found, at end of '$0', a dump was generated in folder $1"
 msgstr ""
+"недействительный $2 символ найден, в конце '$0', дамп был сгенерирован в директории $ 1"
 
 msgid "invalid colour code"
-msgstr ""
+msgstr "недействительный код цвета"
 
 msgid "left"
-msgstr ""
+msgstr "левый"
 
 msgid "left/right"
-msgstr ""
+msgstr "левый/правый"
 
 msgid "malformed data, needs to read after end of buffer"
-msgstr ""
+msgstr "неверные данные, необходимо прочитать после конца буфера"
 
 msgid "no level of differentiation is activated, cannot compute difference"
-msgstr ""
+msgstr "уровень дифференциации не будет активирован, невозможно вычислить разность"
 
 msgid "normal"
-msgstr ""
+msgstr "нормальный"
 
 msgid "result"
-msgstr ""
+msgstr "результат"
 
 msgid "right"
-msgstr ""
+msgstr "правый"
 
 msgid "unknown"
-msgstr ""
+msgstr "не известный"
 
 msgid "while computing file digest"
-msgstr ""
+msgstr "при расчете итогового файла"
 
 msgid "wrong encoding in VosTextStreamIter::get_line_delimiter_text"
-msgstr ""
+msgstr "неправильная кодировка в VosTextStreamIter::get_line_delimiter_text"
